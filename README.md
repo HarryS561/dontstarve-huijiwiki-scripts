@@ -8,6 +8,7 @@
 * 在[饥荒维基](dontstarve.huijiwiki.com)上具有机器人+管理员权限
 
 ### 克隆这个仓库
+在命令行中：
 ```bash
 git clone https://github.com/HarryS561/dontstarve-huijiwiki-scripts.git
 cd dontstarve-huijiwiki-scripts
@@ -60,10 +61,12 @@ from main import *
 
 # 待办事项
 * 掉落
+* 生物群系数据
+* 地块数据
 * tabx操作封装
 
 # 特别致谢
-* Jerry 的命令行贴图工具
+* [Jerry457](https://github.com/Jerry457) 的命令行贴图工具
 * Arough 的单机版生物群系数据更新脚本
 * [Depot Downloader.exe](github.com/SteamRE/DepotDownloader)
 * Frto 的[以撒维基更新脚本](github.com/frto027/isaac-huiji-scripts)

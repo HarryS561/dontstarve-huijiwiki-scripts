@@ -2,6 +2,10 @@ import sys, os
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from main import *
 
+'''
+在你运行这个脚本之前，请先前往 https://steamdb.info/depot/322331/manifests/
+登录后，在网页上右键另存为（Ctrl + S）至这个脚本所在目录，无需重命名
+'''
 with open('Depot 322331 (Don\'t Starve Together - Windows) · SteamDB.html', 'r', encoding='utf-8') as f:
     html_content = f.read()
 soup = BeautifulSoup(html_content, 'html.parser')
@@ -32,7 +36,7 @@ with open("begin_manifest.txt", "r") as f:
     begin_manifest = f.read().strip()
 begin = False
 
-branch_to_id = {'public': public_branch_id, 'updatebeta': 0}  # 开测试服的时候不为0
+branch_to_id = {'public': public_branch_id, 'updatebeta': 0}  # 开测试服的时候不为0，需要手动修改
 for manifest, branch in tqdm(manifests[::-1]):
     if manifest == begin_manifest:
         begin = True
