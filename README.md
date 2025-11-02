@@ -51,8 +51,8 @@ from main import *
 `main.py`|通用操作封装
 `dst-mod-tool.exe`|一个动画、贴图工具
 `Drops/*`|实体信息框的掉落参数规范化
-`Prefab/*`|实体信息框/自动所需的实体数据更新
 `DST Map/*`|联机版生物群系数据更新
+`Prefab/*`|实体信息框/自动所需的实体数据更新
 `Prefab History/*`|实体加入版本数据更新
 `Skins/*`|皮肤数据更新
 `Skins Icons/*`|皮肤图片更新
