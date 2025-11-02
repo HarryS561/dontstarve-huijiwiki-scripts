@@ -44,6 +44,12 @@ def get_pages(template=None, category=None):
         return list(site.categories[category])
     return []
 
+def get_param(template, index, default=''):
+    try:
+        return str(template.get(index).value).strip()
+    except ValueError:
+        return default
+
 def repl():
     replacements = {
         '大漩涡': '巨型漩涡',

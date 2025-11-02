@@ -48,11 +48,11 @@ from main import *
 文件名|注释
 ---|---
 `config.example.json`|配置文件模板，运行前请复制到 `config.json` 并修改
-`requirements.txt`|脚本所依赖的 Python 第三方库
-`main.py`|通用操作封装
 `dst-mod-tool.exe`|一个动画、贴图工具
-`Drops/*`|实体信息框的掉落参数规范化
+`main.py`|通用操作封装
+`requirements.txt`|脚本所依赖的 Python 第三方库
 `DST Map/*`|联机版生物群系数据更新
+`Maintenance/*`|维基日常维护相关
 `Prefab/*`|实体信息框/自动所需的实体数据更新
 `Prefab History/*`|实体加入版本数据更新
 `Skins/*`|皮肤数据更新
