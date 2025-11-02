@@ -1,0 +1,15 @@
+{
+    "dontstarve":{
+        "dst_path": "C:/Program Files (x86)/Steam/steamapps/common/Don't Starve Together",
+        "ds_path": "C:/Program Files (x86)/Steam/steamapps/common/dont_starve"
+    },
+    "huijiwiki":{
+        "username": "",
+        "password": "",
+        "X-authkey": ""
+    },
+    "steam":{
+        "username": "",
+        "password": ""
+    }
+}
