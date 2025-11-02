@@ -1,0 +1,3 @@
+version.txt
+data/databundles/scripts.zip
+data/scripts/languages/strings.pot

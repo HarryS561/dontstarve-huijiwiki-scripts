@@ -1,0 +1,35 @@
+赞美Arough和2199
+
+生物群系数据提取脚本
+运行0.lua
+输出至output.lua
+包含键：
+	tasksets
+	tasks
+	rooms
+	layouts 仅固定布景（countstaticlayouts）
+		格式为 static_layout.lua: ConvertStaticLayoutToLayout 的返回值，但包含所有开始资源
+	proxies
+	turfs 地皮物品（prefab为'turf_'+turf.name）
+	room_to_task
+	prefab_to_room
+	layout_to_room
+	prefab_to_layout
+某些函数类型的值被替换为字符串"#function"
+
+
+直接从源代码复制过来的文件：
+map/rooms 目录下的所有文件
+map/static_layouts 目录下的所有文件
+map/tasks 目录下的所有文件
+map/layouts.lua
+
+
+可能需要随游戏更新而更新的文件：
+map/room_functions.lua	大概率不用更新
+map/static_layout.lua	大概率不用更新
+constants.lua			大概率不用更新
+rooms.lua				用于导入room文件，大概率不用更新
+tasks.lua				用于导入task文件，大概率不用更新
+tasksets.lua			世界地形信息
+tiledefs.lua			地皮相关

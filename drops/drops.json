@@ -1,0 +1,4364 @@
+[
+  {
+    "page": "触手",
+    "infobox_index": 1,
+    "drop_param_original": "[[File:Monster_Meat.png|28px|link=怪物肉]]×2<br>[[File:Tentacle_Spike.png|28px|link=触手尖刺]]×1（50%）<br>[[File:Tentacle_Spots.png|28px|link=触手皮]]×1（20%）",
+    "drop_param_current": "[[File:Monster_Meat.png|28px|link=怪物肉]]×2<br>[[File:Tentacle_Spike.png|28px|link=触手尖刺]]×1（50%）<br>[[File:Tentacle_Spots.png|28px|link=触手皮]]×1（20%）"
+  },
+  {
+    "page": "发条主教",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|齿轮}} × 2，{{item/pic|紫宝石}} × 1",
+    "drop_param_current": "{{item/pic|齿轮}} × 2，{{item/pic|紫宝石}} × 1"
+  },
+  {
+    "page": "触手/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|Monster_Meat}}×2<br>{{DSPic|32|Tentacle_Spike}}×1（50%）<br>{{DSPic|32|Tentacle_Spots}}×1（20%）",
+    "drop_param_current": "{{DSPic|32|Monster_Meat}}×2<br>{{DSPic|32|Tentacle_Spike}}×1（50%）<br>{{DSPic|32|Tentacle_Spots}}×1（20%）"
+  },
+  {
+    "page": "岩石大白鲨",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|生鱼肉}}×3 ~ 5，{{item/pic|藤壶}}×1 ~ 3，{{item/pic|燧石}}×2 ~ 3， {{item/pic|石头}}×3 ~ 5，{{item/pic|斑鱼}}×0 ~ 1",
+    "drop_param_current": "{{item/pic|生鱼肉}}×3 ~ 5，{{item/pic|藤壶}}×1 ~ 3，{{item/pic|燧石}}×2 ~ 3， {{item/pic|石头}}×3 ~ 5，{{item/pic|斑鱼}}×0 ~ 1"
+  },
+  {
+    "page": "海草",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|种壳}}×2-3（黄色3-5），{{item/pic|海芽插穗}}",
+    "drop_param_current": "{{item/pic|种壳}}×2-3（黄色3-5），{{item/pic|海芽插穗}}"
+  },
+  {
+    "page": "帝王蟹",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|肉}}×6，{{item/pic|帝王蟹保险杠套装}}×8，{{item/pic|藤壶}}×2 ~ 4，{{item/pic|高音贝壳钟}}×3 ~ 5，{{item/pic|中音贝壳钟}}×2 ~ 4，{{item/pic|低音贝壳钟}}×1 ~ 3，{{item/pic|瓶中信}}×2 ~ 4<br>{{item/pic|刺耳三叉戟}}的{{item/pic|稀有蓝图}}<br>{{item/pic|帝王蟹雕塑}}的{{item/pic|草图}}<br>嵌入的所有宝石{{hr}}<small>如果镶嵌了{{item/pic|珍珠的珍珠}}，额外掉落：</small>{{item/pic|开裂珍珠}}×1，{{item/pic|未激活天体贡品}}×1",
+    "drop_param_current": "{{item/pic|肉}}×6，{{item/pic|帝王蟹保险杠套装}}×8，{{item/pic|藤壶}}×2 ~ 4，{{item/pic|高音贝壳钟}}×3 ~ 5，{{item/pic|中音贝壳钟}}×2 ~ 4，{{item/pic|低音贝壳钟}}×1 ~ 3，{{item/pic|瓶中信}}×2 ~ 4<br>{{item/pic|刺耳三叉戟}}的{{item/pic|稀有蓝图}}<br>{{item/pic|帝王蟹雕塑}}的{{item/pic|草图}}<br>嵌入的所有宝石{{hr}}<small>如果镶嵌了{{item/pic|珍珠的珍珠}}，额外掉落：</small>{{item/pic|开裂珍珠}}×1，{{item/pic|未激活天体贡品}}×1"
+  },
+  {
+    "page": "帝王蟹",
+    "infobox_index": 41,
+    "drop_param_original": "{{item/pic|肉}}×1",
+    "drop_param_current": "{{item/pic|肉}}×1"
+  },
+  {
+    "page": "帝王蟹",
+    "infobox_index": 51,
+    "drop_param_original": "{{item/pic|石头}}×2~4<!--1,1,0.5,0.5-->，{{item/pic|炮弹}}×0~1，{{item/pic|藤壶}}×0~1，{{item/pic|海带叶}}×0~1<!--.75-->",
+    "drop_param_current": "{{item/pic|石头}}×2~4<!--1,1,0.5,0.5-->，{{item/pic|炮弹}}×0~1，{{item/pic|藤壶}}×0~1，{{item/pic|海带叶}}×0~1<!--.75-->"
+  },
+  {
+    "page": "鱿鱼",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|怪物肉}} {{item/pic|荧光果}}",
+    "drop_param_current": "{{item/pic|怪物肉}} {{item/pic|荧光果}}"
+  },
+  {
+    "page": "邪天翁",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|肉}}×7，{{item/pic|邪天翁喙}}×1，{{item/pic|邪天翁羽毛}}×3 ~ 29，{{item/pic|蓝宝石}}×2<br>{{item/pic|蓝宝石}}×1（30%）<br>{{item/pic|黄宝石}}×1（5%）<br>{{item/pic|邪天翁雕塑}}的{{item/pic|草图}}",
+    "drop_param_current": "{{item/pic|肉}}×7，{{item/pic|邪天翁喙}}×1，{{item/pic|邪天翁羽毛}}×3 ~ 29，{{item/pic|蓝宝石}}×2<br>{{item/pic|蓝宝石}}×1（30%）<br>{{item/pic|黄宝石}}×1（5%）<br>{{item/pic|邪天翁雕塑}}的{{item/pic|草图}}"
+  },
+  {
+    "page": "复活的骨架",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|暗影心房}}×1，{{item/pic|化石碎片}}×8<br>\n被击杀：{{item/pic|噩梦燃料}}×2~4",
+    "drop_param_current": "{{item/pic|暗影心房}}×1，{{item/pic|化石碎片}}×8<br>\n被击杀：{{item/pic|噩梦燃料}}×2~4"
+  },
+  {
+    "page": "复活的骨架",
+    "infobox_index": 7,
+    "drop_param_original": "{{item/pic|暗影心房}}×1，{{item/pic|化石碎片}}×8<br>\n被击杀：{{item/pic|噩梦燃料}}×2~4",
+    "drop_param_current": "{{item/pic|暗影心房}}×1，{{item/pic|化石碎片}}×8<br>\n被击杀：{{item/pic|噩梦燃料}}×2~4"
+  },
+  {
+    "page": "远古织影者",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|化石碎片}}×8，{{item/pic|噩梦燃料}}×2~4{{hr}}被击杀额外掉落：<br>{{item/pic|暗影香炉}}×1，{{item/pic|骨头头盔}}×1，{{item/pic|骨头盔甲}}×1<br>{{item/pic|远古织影者雕塑}}的{{item/pic|草图}}{{hr}}玩家离开战斗额外掉落：<br>{{item/pic|暗影心房}}×1",
+    "drop_param_current": "{{item/pic|化石碎片}}×8，{{item/pic|噩梦燃料}}×2~4{{hr}}被击杀额外掉落：<br>{{item/pic|暗影香炉}}×1，{{item/pic|骨头头盔}}×1，{{item/pic|骨头盔甲}}×1<br>{{item/pic|远古织影者雕塑}}的{{item/pic|草图}}{{hr}}玩家离开战斗额外掉落：<br>{{item/pic|暗影心房}}×1"
+  },
+  {
+    "page": "蝴蝶",
+    "infobox_index": 1,
+    "drop_param_original": "二选一：<br>{{item/pic|蝴蝶翅膀}}（98%）<br>{{item/pic|黄油}}（2%）",
+    "drop_param_current": "二选一：<br>{{item/pic|蝴蝶翅膀}}（98%）<br>{{item/pic|黄油}}（2%）"
+  },
+  {
+    "page": "洞穴蠕虫",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|怪物肉}}×4，{{item/pic|发光浆果}}×1{{hr}}[[洞穴蠕虫之年]]期间额外掉落：{{item/pic|幸运金块}}×3",
+    "drop_param_current": "{{item/pic|怪物肉}}×4，{{item/pic|发光浆果}}×1{{hr}}[[洞穴蠕虫之年]]期间额外掉落：{{item/pic|幸运金块}}×3"
+  },
+  {
+    "page": "洞穴蜘蛛",
+    "infobox_index": 1,
+    "drop_param_original": "三选一：<br>{{Item/pic|怪物肉}}（50%）<br>{{Item/pic|蜘蛛丝}}（25%） <br>{{Item/pic|蜘蛛腺}}（25%）",
+    "drop_param_current": "三选一：<br>{{Item/pic|怪物肉}}（50%）<br>{{Item/pic|蜘蛛丝}}（25%） <br>{{Item/pic|蜘蛛腺}}（25%）"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 28,
+    "drop_param_original": "{{item/pic|小鱼块}}×1",
+    "drop_param_current": "{{item/pic|小鱼块}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 34,
+    "drop_param_original": "{{item/pic|小鱼块}}×1",
+    "drop_param_current": "{{item/pic|小鱼块}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 41,
+    "drop_param_original": "{{item/pic|小鱼块}}×1",
+    "drop_param_current": "{{item/pic|小鱼块}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 47,
+    "drop_param_original": "{{item/pic|小鱼块}}×1",
+    "drop_param_current": "{{item/pic|小鱼块}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 54,
+    "drop_param_original": "{{item/pic|爆米花}}×1",
+    "drop_param_current": "{{item/pic|爆米花}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 60,
+    "drop_param_original": "{{item/pic|叶肉}}×1",
+    "drop_param_current": "{{item/pic|叶肉}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 66,
+    "drop_param_original": "{{item/pic|叶肉}}×1",
+    "drop_param_current": "{{item/pic|叶肉}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 72,
+    "drop_param_original": "{{item/pic|熟小鱼块}}×1",
+    "drop_param_current": "{{item/pic|熟小鱼块}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 79,
+    "drop_param_original": "{{item/pic|小鱼块}}×1",
+    "drop_param_current": "{{item/pic|小鱼块}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 86,
+    "drop_param_original": "{{item/pic|生鱼肉}}×1",
+    "drop_param_current": "{{item/pic|生鱼肉}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 92,
+    "drop_param_original": "{{item/pic|生鱼肉}}×1",
+    "drop_param_current": "{{item/pic|生鱼肉}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 100,
+    "drop_param_original": "{{item/pic|生鱼肉}}×1",
+    "drop_param_current": "{{item/pic|生鱼肉}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 106,
+    "drop_param_original": "{{item/pic|生鱼肉}}×1",
+    "drop_param_current": "{{item/pic|生鱼肉}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 112,
+    "drop_param_original": "{{item/pic|玉米}}×1",
+    "drop_param_current": "{{item/pic|玉米}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 118,
+    "drop_param_original": "{{item/pic|生鱼肉}}×1，{{item/pic|冰}}×2",
+    "drop_param_current": "{{item/pic|生鱼肉}}×1，{{item/pic|冰}}×2"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 125,
+    "drop_param_original": "{{item/pic|生鱼肉}}×1",
+    "drop_param_current": "{{item/pic|生鱼肉}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 131,
+    "drop_param_original": "{{item/pic|生鱼肉}}×1",
+    "drop_param_current": "{{item/pic|生鱼肉}}×1"
+  },
+  {
+    "page": "海鱼",
+    "infobox_index": 139,
+    "drop_param_original": "{{item/pic|生鱼肉}}×1",
+    "drop_param_current": "{{item/pic|生鱼肉}}×1"
+  },
+  {
+    "page": "独眼巨鹿",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|肉}}×8，{{item/pic|独眼巨鹿眼球}}×1<br>{{item/pic|独眼巨鹿雕塑}}的{{item/pic|草图}}×1{{hr}}[[冬季盛宴]]期间额外掉落：<br>{{item/pic|id=winter_ornament_light1}}×1",
+    "drop_param_current": "{{item/pic|肉}}×8，{{item/pic|独眼巨鹿眼球}}×1<br>{{item/pic|独眼巨鹿雕塑}}的{{item/pic|草图}}×1{{hr}}[[冬季盛宴]]期间额外掉落：<br>{{item/pic|id=winter_ornament_light1}}×1"
+  },
+  {
+    "page": "暗影棋子",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|噩梦燃料}}{{item/pic|暗影心房}}{{item/pic|暗夜甲}}{{item/pic|暗夜剑}}（详见正文）",
+    "drop_param_current": "{{item/pic|噩梦燃料}}{{item/pic|暗影心房}}{{item/pic|暗夜甲}}{{item/pic|暗夜剑}}（详见正文）"
+  },
+  {
+    "page": "暗影棋子",
+    "infobox_index": 6,
+    "drop_param_original": "{{item/pic|噩梦燃料}}{{item/pic|暗影心房}}{{item/pic|暗夜甲}}{{item/pic|暗夜剑}}（详见正文）",
+    "drop_param_current": "{{item/pic|噩梦燃料}}{{item/pic|暗影心房}}{{item/pic|暗夜甲}}{{item/pic|暗夜剑}}（详见正文）"
+  },
+  {
+    "page": "暗影棋子",
+    "infobox_index": 11,
+    "drop_param_original": "{{item/pic|噩梦燃料}}{{item/pic|暗影心房}}{{item/pic|暗夜甲}}{{item/pic|暗夜剑}}（详见正文）",
+    "drop_param_current": "{{item/pic|噩梦燃料}}{{item/pic|暗影心房}}{{item/pic|暗夜甲}}{{item/pic|暗夜剑}}（详见正文）"
+  },
+  {
+    "page": "猎犬",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|怪物肉}}×1<br>{{item/pic|犬牙}}×1（12.5%）",
+    "drop_param_current": "{{item/pic|怪物肉}}×1<br>{{item/pic|犬牙}}×1（12.5%）"
+  },
+  {
+    "page": "猎犬",
+    "infobox_index": 13,
+    "drop_param_original": "{{item/pic|怪物肉}}×1，{{item/pic|犬牙}}×1，{{item/pic|灰烬}}×3<br>{{item/pic|红宝石}}×1（20%）",
+    "drop_param_current": "{{item/pic|怪物肉}}×1，{{item/pic|犬牙}}×1，{{item/pic|灰烬}}×3<br>{{item/pic|红宝石}}×1（20%）"
+  },
+  {
+    "page": "猎犬",
+    "infobox_index": 22,
+    "drop_param_original": "{{item/pic|怪物肉}}×1，{{item/pic|犬牙}}×2<br>{{item/pic|蓝宝石}}×1（20%）",
+    "drop_param_current": "{{item/pic|怪物肉}}×1，{{item/pic|犬牙}}×2<br>{{item/pic|蓝宝石}}×1（20%）"
+  },
+  {
+    "page": "猎犬",
+    "infobox_index": 31,
+    "drop_param_original": "{{item/pic|怪物肉}}×1，{{item/pic|犬牙}}×2",
+    "drop_param_current": "{{item/pic|怪物肉}}×1，{{item/pic|犬牙}}×2"
+  },
+  {
+    "page": "企鸥",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|id=feather_crow}}×1（20%）<br>{{item/pic|id=smallmeat}}×1（10%）<br>{{item/pic|id=drumstick}}×1（10%）",
+    "drop_param_current": "{{item/pic|id=feather_crow}}×1（20%）<br>{{item/pic|id=smallmeat}}×1（10%）<br>{{item/pic|id=drumstick}}×1（10%）"
+  },
+  {
+    "page": "克劳斯",
+    "infobox_index": 3,
+    "drop_param_original": "{{item/pic|木炭}}×1，{{item/pic|怪物肉}}×1，{{item/pic|麋鹿茸}}×1<br/>{{item/pic|克劳斯雕塑}}的{{item/pic|草图}}{{hr}}[[冬季盛宴]]期间额外掉落：<br>{{item/pic|拐杖糖}}×2",
+    "drop_param_current": "{{item/pic|木炭}}×1，{{item/pic|怪物肉}}×1，{{item/pic|麋鹿茸}}×1<br/>{{item/pic|克劳斯雕塑}}的{{item/pic|草图}}{{hr}}[[冬季盛宴]]期间额外掉落：<br>{{item/pic|拐杖糖}}×2"
+  },
+  {
+    "page": "曼德拉草",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|曼德拉草}}",
+    "drop_param_current": "{{item/pic|曼德拉草}}"
+  },
+  {
+    "page": "曼德拉草",
+    "infobox_index": 4,
+    "drop_param_original": "{{item/pic|曼德拉草}}",
+    "drop_param_current": "{{item/pic|曼德拉草}}"
+  },
+  {
+    "page": "火鸡",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|鸟腿}}×2",
+    "drop_param_current": "{{item/pic|鸟腿}}×2"
+  },
+  {
+    "page": "一角鲸",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|生鱼肉}}×4，{{item/pic|一角鲸的角}}×1",
+    "drop_param_current": "{{item/pic|生鱼肉}}×4，{{item/pic|一角鲸的角}}×1"
+  },
+  {
+    "page": "一角鲸",
+    "infobox_index": 10,
+    "drop_param_original": "{{item/pic|一角鲸的角}}",
+    "drop_param_current": "{{item/pic|一角鲸的角}}"
+  },
+  {
+    "page": "玻璃绿洲",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|月亮碎片}}×6~9",
+    "drop_param_current": "{{item/pic|月亮碎片}}×6~9"
+  },
+  {
+    "page": "玻璃绿洲",
+    "infobox_index": 6,
+    "drop_param_original": "{{item/pic|月亮碎片}}×2~3",
+    "drop_param_current": "{{item/pic|月亮碎片}}×2~3"
+  },
+  {
+    "page": "杂草",
+    "infobox_index": 23,
+    "drop_param_original": "{{item/pic|id=forgetmelots}}",
+    "drop_param_current": "{{item/pic|id=forgetmelots}}"
+  },
+  {
+    "page": "杂草",
+    "infobox_index": 36,
+    "drop_param_original": "{{item/pic|id=tillweed}}",
+    "drop_param_current": "{{item/pic|id=tillweed}}"
+  },
+  {
+    "page": "杂草",
+    "infobox_index": 46,
+    "drop_param_original": "{{item/pic|id=firenettles}}",
+    "drop_param_current": "{{item/pic|id=firenettles}}"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 12,
+    "drop_param_original": "已长成：{{item/pic|胡萝卜}}×1，{{item/pic|胡萝卜种子}}×0-2{{hr}}巨型：{{item/pic|巨型胡萝卜}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|胡萝卜种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|胡萝卜}}×1，{{item/pic|胡萝卜种子}}×0-2{{hr}}巨型：{{item/pic|巨型胡萝卜}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|胡萝卜种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 28,
+    "drop_param_original": "已长成：{{item/pic|玉米}}×1，{{item/pic|玉米种子}}×0-2{{hr}}巨型：{{item/pic|巨型玉米}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|玉米种子}}，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|玉米}}×1，{{item/pic|玉米种子}}×0-2{{hr}}巨型：{{item/pic|巨型玉米}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|玉米种子}}，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 43,
+    "drop_param_original": "已长成：{{item/pic|土豆}}×1，{{item/pic|土豆种子}}×0-2{{hr}}巨型：{{item/pic|巨型土豆}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|土豆种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|土豆}}×1，{{item/pic|土豆种子}}×0-2{{hr}}巨型：{{item/pic|巨型土豆}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|土豆种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 58,
+    "drop_param_original": "已长成：{{item/pic|番茄}}×1，{{item/pic|番茄种子}}×0-2{{hr}}巨型：{{item/pic|巨型番茄}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|番茄种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|番茄}}×1，{{item/pic|番茄种子}}×0-2{{hr}}巨型：{{item/pic|巨型番茄}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|番茄种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 73,
+    "drop_param_original": "已长成：{{item/pic|芦笋}}×1，{{item/pic|芦笋种子}}×0-2{{hr}}巨型：{{item/pic|巨型芦笋}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|芦笋种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|芦笋}}×1，{{item/pic|芦笋种子}}×0-2{{hr}}巨型：{{item/pic|巨型芦笋}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|芦笋种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 88,
+    "drop_param_original": "已长成：{{item/pic|茄子}}×1，{{item/pic|茄子种子}}×0-2{{hr}}巨型：{{item/pic|巨型茄子}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|茄子种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|茄子}}×1，{{item/pic|茄子种子}}×0-2{{hr}}巨型：{{item/pic|巨型茄子}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|茄子种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 103,
+    "drop_param_original": "已长成：{{item/pic|南瓜}}×1，{{item/pic|南瓜种子}}×0-2{{hr}}巨型：{{item/pic|巨型南瓜}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|南瓜种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|南瓜}}×1，{{item/pic|南瓜种子}}×0-2{{hr}}巨型：{{item/pic|巨型南瓜}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|南瓜种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 118,
+    "drop_param_original": "已长成：{{item/pic|西瓜}}×1，{{item/pic|西瓜种子}}×0-2{{hr}}巨型：{{item/pic|巨型西瓜}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|西瓜种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|西瓜}}×1，{{item/pic|西瓜种子}}×0-2{{hr}}巨型：{{item/pic|巨型西瓜}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|西瓜种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 133,
+    "drop_param_original": "已长成：{{item/pic|火龙果}}×1，{{item/pic|火龙果种子}}×0-2{{hr}}巨型：{{item/pic|巨型火龙果}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|火龙果种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|火龙果}}×1，{{item/pic|火龙果种子}}×0-2{{hr}}巨型：{{item/pic|巨型火龙果}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|火龙果种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 148,
+    "drop_param_original": "已长成：{{item/pic|榴莲}}×1，{{item/pic|榴莲种子}}×0-2{{hr}}巨型：{{item/pic|巨型榴莲}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|榴莲种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|榴莲}}×1，{{item/pic|榴莲种子}}×0-2{{hr}}巨型：{{item/pic|巨型榴莲}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|榴莲种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 163,
+    "drop_param_original": "已长成：{{item/pic|大蒜}}×1，{{item/pic|蒜种子}}×0-2{{hr}}巨型：{{item/pic|巨型大蒜}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|蒜种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|大蒜}}×1，{{item/pic|蒜种子}}×0-2{{hr}}巨型：{{item/pic|巨型大蒜}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|蒜种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 178,
+    "drop_param_original": "已长成：{{item/pic|洋葱}}×1，{{item/pic|洋葱种子}}×0-2{{hr}}巨型：{{item/pic|巨型洋葱}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|洋葱种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|洋葱}}×1，{{item/pic|洋葱种子}}×0-2{{hr}}巨型：{{item/pic|巨型洋葱}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|洋葱种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 193,
+    "drop_param_original": "已长成：{{item/pic|辣椒}}×1，{{item/pic|辣椒种子}}×0-2{{hr}}巨型：{{item/pic|巨型辣椒}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|辣椒种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|辣椒}}×1，{{item/pic|辣椒种子}}×0-2{{hr}}巨型：{{item/pic|巨型辣椒}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|辣椒种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "农作物",
+    "infobox_index": 208,
+    "drop_param_original": "已长成：{{item/pic|石榴}}×1，{{item/pic|石榴种子}}×0-2{{hr}}巨型：{{item/pic|巨型石榴}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|石榴种子}}×1，{{item/pic|果蝇}}×2",
+    "drop_param_current": "已长成：{{item/pic|石榴}}×1，{{item/pic|石榴种子}}×0-2{{hr}}巨型：{{item/pic|巨型石榴}}×1{{hr}}腐烂：{{item/pic|腐烂物}}×1，{{item/pic|果蝇}}5%{{hr}}巨型腐烂：{{item/pic|腐烂物}}×3，{{item/pic|石榴种子}}×1，{{item/pic|果蝇}}×2"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|胡萝卜}}×2，{{item/pic|椭圆形种子}}×2<br>二选一：<br>{{item/pic|胡萝卜}}（75%）<br>{{item/pic|椭圆形种子}}（25%）",
+    "drop_param_current": "{{item/pic|胡萝卜}}×2，{{item/pic|椭圆形种子}}×2<br>二选一：<br>{{item/pic|胡萝卜}}（75%）<br>{{item/pic|椭圆形种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 8,
+    "drop_param_original": "{{item/pic|玉米}}×2，{{item/pic|簇状种子}}×2<br>二选一：<br>{{item/pic|玉米}}（75%）<br>{{item/pic|簇状种子}}（25%）",
+    "drop_param_current": "{{item/pic|玉米}}×2，{{item/pic|簇状种子}}×2<br>二选一：<br>{{item/pic|玉米}}（75%）<br>{{item/pic|簇状种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 15,
+    "drop_param_original": "{{item/pic|土豆}}×2，{{item/pic|毛茸茸的种子}}×2<br>二选一：<br>{{item/pic|土豆}}（75%）<br>{{item/pic|毛茸茸的种子}}（25%）",
+    "drop_param_current": "{{item/pic|土豆}}×2，{{item/pic|毛茸茸的种子}}×2<br>二选一：<br>{{item/pic|土豆}}（75%）<br>{{item/pic|毛茸茸的种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 22,
+    "drop_param_original": "{{item/pic|番茄}}×2，{{item/pic|带刺的种子}}×2<br>二选一：<br>{{item/pic|番茄}}（75%）<br>{{item/pic|带刺的种子}}（25%）",
+    "drop_param_current": "{{item/pic|番茄}}×2，{{item/pic|带刺的种子}}×2<br>二选一：<br>{{item/pic|番茄}}（75%）<br>{{item/pic|带刺的种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 29,
+    "drop_param_original": "{{item/pic|芦笋}}×2，{{item/pic|筒状种子}}×2<br>二选一：<br>{{item/pic|芦笋}}（75%）<br>{{item/pic|筒状种子}}（25%）",
+    "drop_param_current": "{{item/pic|芦笋}}×2，{{item/pic|筒状种子}}×2<br>二选一：<br>{{item/pic|芦笋}}（75%）<br>{{item/pic|筒状种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 36,
+    "drop_param_original": "{{item/pic|茄子}}×2，{{item/pic|漩涡种子}}×2<br>二选一：<br>{{item/pic|茄子}}（75%）<br>{{item/pic|漩涡种子}}（25%）",
+    "drop_param_current": "{{item/pic|茄子}}×2，{{item/pic|漩涡种子}}×2<br>二选一：<br>{{item/pic|茄子}}（75%）<br>{{item/pic|漩涡种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 43,
+    "drop_param_original": "{{item/pic|南瓜}}×2，{{item/pic|尖种子}}×2<br>二选一：<br>{{item/pic|南瓜}}（75%）<br>{{item/pic|尖种子}}（25%）",
+    "drop_param_current": "{{item/pic|南瓜}}×2，{{item/pic|尖种子}}×2<br>二选一：<br>{{item/pic|南瓜}}（75%）<br>{{item/pic|尖种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 50,
+    "drop_param_original": "{{item/pic|西瓜}}×2，{{item/pic|方形种子}}×2<br>二选一：<br>{{item/pic|西瓜}}（75%）<br>{{item/pic|方形种子}}（25%）",
+    "drop_param_current": "{{item/pic|西瓜}}×2，{{item/pic|方形种子}}×2<br>二选一：<br>{{item/pic|西瓜}}（75%）<br>{{item/pic|方形种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 57,
+    "drop_param_original": "{{item/pic|火龙果}}×2，{{item/pic|球茎状种子}}×2<br>二选一：<br>{{item/pic|火龙果}}（75%）<br>{{item/pic|球茎状种子}}（25%）",
+    "drop_param_current": "{{item/pic|火龙果}}×2，{{item/pic|球茎状种子}}×2<br>二选一：<br>{{item/pic|火龙果}}（75%）<br>{{item/pic|球茎状种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 64,
+    "drop_param_original": "{{item/pic|榴莲}}×2，{{item/pic|脆籽荚}}×2<br>二选一：<br>{{item/pic|榴莲}}（75%）<br>{{item/pic|脆籽荚}}（25%）",
+    "drop_param_current": "{{item/pic|榴莲}}×2，{{item/pic|脆籽荚}}×2<br>二选一：<br>{{item/pic|榴莲}}（75%）<br>{{item/pic|脆籽荚}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 71,
+    "drop_param_original": "{{item/pic|大蒜}}×2，{{item/pic|种子荚}}×2<br>二选一：<br>{{item/pic|大蒜}}（75%）<br>{{item/pic|种子荚}}（25%）",
+    "drop_param_current": "{{item/pic|大蒜}}×2，{{item/pic|种子荚}}×2<br>二选一：<br>{{item/pic|大蒜}}（75%）<br>{{item/pic|种子荚}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 78,
+    "drop_param_original": "{{item/pic|洋葱}}×2，{{item/pic|尖形种子}}×2<br>二选一：<br>{{item/pic|洋葱}}（75%）<br>{{item/pic|尖形种子}}（25%）",
+    "drop_param_current": "{{item/pic|洋葱}}×2，{{item/pic|尖形种子}}×2<br>二选一：<br>{{item/pic|洋葱}}（75%）<br>{{item/pic|尖形种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 85,
+    "drop_param_original": "{{item/pic|辣椒}}×2，{{item/pic|块状种子}}×2<br>二选一：<br>{{item/pic|辣椒}}（75%）<br>{{item/pic|块状种子}}（25%）",
+    "drop_param_current": "{{item/pic|辣椒}}×2，{{item/pic|块状种子}}×2<br>二选一：<br>{{item/pic|辣椒}}（75%）<br>{{item/pic|块状种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 92,
+    "drop_param_original": "{{item/pic|石榴}}×2，{{item/pic|风刮来的种子}}×2<br>二选一：<br>{{item/pic|石榴}}（75%）<br>{{item/pic|风刮来的种子}}（25%）",
+    "drop_param_current": "{{item/pic|石榴}}×2，{{item/pic|风刮来的种子}}×2<br>二选一：<br>{{item/pic|石榴}}（75%）<br>{{item/pic|风刮来的种子}}（25%）"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 118,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 121,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 124,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 127,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 130,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 133,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 136,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 139,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 142,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 145,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 148,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 151,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 154,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 157,
+    "drop_param_original": "{{item/pic|腐烂物}}×5",
+    "drop_param_current": "{{item/pic|腐烂物}}×5"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 164,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 167,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 170,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 173,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 176,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 179,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 182,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 185,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 188,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 191,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 194,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 197,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 200,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "巨型蔬果",
+    "infobox_index": 203,
+    "drop_param_original": "{{item/pic|腐烂物}}",
+    "drop_param_current": "{{item/pic|腐烂物}}"
+  },
+  {
+    "page": "尘蛾",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|小肉}}×1",
+    "drop_param_current": "{{item/pic|小肉}}×1"
+  },
+  {
+    "page": "毒菌蟾蜍",
+    "infobox_index": 1,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "毒菌蟾蜍",
+    "infobox_index": 3,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "天体英雄",
+    "infobox_index": 3,
+    "drop_param_original": "{{Item/pic|月岩}}×5 ~ 7",
+    "drop_param_current": "{{Item/pic|月岩}}×5 ~ 7"
+  },
+  {
+    "page": "天体英雄",
+    "infobox_index": 15,
+    "drop_param_original": "{{Item/pic|月岩}}×2 ~ 4，{{Item/pic|月亮碎片}}×4 ~ 6",
+    "drop_param_current": "{{Item/pic|月岩}}×2 ~ 4，{{Item/pic|月亮碎片}}×4 ~ 6"
+  },
+  {
+    "page": "天体英雄",
+    "infobox_index": 35,
+    "drop_param_original": "{{Item/pic|月亮碎片}}×13 ~ 26，{{Item/pic|月岩}}×8 ~ 14，{{Item/pic|注能月亮碎片}}×6 ~ 12，{{Item/pic|启迪碎片}}×1<br>{{Item/pic|天体英雄雕塑}}的{{Item/pic|草图}}",
+    "drop_param_current": "{{Item/pic|月亮碎片}}×13 ~ 26，{{Item/pic|月岩}}×8 ~ 14，{{Item/pic|注能月亮碎片}}×6 ~ 12，{{Item/pic|启迪碎片}}×1<br>{{Item/pic|天体英雄雕塑}}的{{Item/pic|草图}}"
+  },
+  {
+    "page": "天体英雄",
+    "infobox_index": 53,
+    "drop_param_original": "{{item/pic|月亮碎片}}×1",
+    "drop_param_current": "{{item/pic|月亮碎片}}×1"
+  },
+  {
+    "page": "天体英雄",
+    "infobox_index": 60,
+    "drop_param_original": "{{item/pic|天体祭坛底座}}，{{item/pic|天体祭坛宝球}}，{{item/pic|天体祭坛雕像}}，{{item/pic|天体圣殿象征}}，{{item/pic|天体圣殿卫戍}}，{{item/pic|未激活天体贡品}}，{{item/pic|天体宝球}}，{{item/pic|启迪之冠}}",
+    "drop_param_current": "{{item/pic|天体祭坛底座}}，{{item/pic|天体祭坛宝球}}，{{item/pic|天体祭坛雕像}}，{{item/pic|天体圣殿象征}}，{{item/pic|天体圣殿卫戍}}，{{item/pic|未激活天体贡品}}，{{item/pic|天体宝球}}，{{item/pic|启迪之冠}}"
+  },
+  {
+    "page": "小木牌",
+    "infobox_index": 3,
+    "drop_param_original": "{{item/pic|小木牌}}×1",
+    "drop_param_current": "{{item/pic|小木牌}}×1"
+  },
+  {
+    "page": "木门",
+    "infobox_index": 3,
+    "drop_param_original": "{{item/pic|木板}}×2，{{item/pic|绳子}}×1",
+    "drop_param_current": "{{item/pic|木板}}×2，{{item/pic|绳子}}×1"
+  },
+  {
+    "page": "木栅栏",
+    "infobox_index": 3,
+    "drop_param_original": "{{item/pic|树枝}}×1",
+    "drop_param_current": "{{item/pic|树枝}}×1"
+  },
+  {
+    "page": "兔子",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|小肉}}×1{{hr}}被理智值低于40%的玩家杀死时，三选一：<br>{{item/pic|怪物肉}}（40%）<br>{{item/pic|噩梦燃料}}（40%）<br>{{item/pic|胡须}}（20%）{{hr}}强制暗影状态：<br>{{item/pic|噩梦燃料}}×1<br>二选一：<br>{{item/pic|怪物肉}}（67%）<br>{{item/pic|胡须}}（33%）",
+    "drop_param_current": "{{item/pic|小肉}}×1{{hr}}被理智值低于40%的玩家杀死时，三选一：<br>{{item/pic|怪物肉}}（40%）<br>{{item/pic|噩梦燃料}}（40%）<br>{{item/pic|胡须}}（20%）{{hr}}强制暗影状态：<br>{{item/pic|噩梦燃料}}×1<br>二选一：<br>{{item/pic|怪物肉}}（67%）<br>{{item/pic|胡须}}（33%）"
+  },
+  {
+    "page": "猪人",
+    "infobox_index": 1,
+    "drop_param_original": "二选一：<br>{{Item/pic|肉}}（75%）<br>{{Item/pic|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{Item/pic|肉}}（75%）<br>{{Item/pic|猪皮}}（25%）"
+  },
+  {
+    "page": "皮弗娄牛",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|牛毛}}×3，{{item/pic|肉}}×4<br>{{item/pic|牛角}}×1（33%）",
+    "drop_param_current": "{{item/pic|牛毛}}×3，{{item/pic|肉}}×4<br>{{item/pic|牛角}}×1（33%）"
+  },
+  {
+    "page": "皮弗娄牛",
+    "infobox_index": 19,
+    "drop_param_original": "宝宝：<br>{{item/pic|小肉}}×3，{{item/pic|牛毛}}×1{{hr}}幼年：<br>{{item/pic|小肉}}×4，{{item/pic|牛毛}}×2{{hr}}青年：<br>{{item/pic|肉}}×3，{{item/pic|牛毛}}×2",
+    "drop_param_current": "宝宝：<br>{{item/pic|小肉}}×3，{{item/pic|牛毛}}×1{{hr}}幼年：<br>{{item/pic|小肉}}×4，{{item/pic|牛毛}}×2{{hr}}青年：<br>{{item/pic|肉}}×3，{{item/pic|牛毛}}×2"
+  },
+  {
+    "page": "兔人",
+    "infobox_index": 1,
+    "drop_param_original": "三选一：<br>\n{{Item/pic|肉}}（37.5%）<br>\n{{Item/pic|胡萝卜}}（37.5%）<br>\n{{Item/pic|兔绒}}（25%）{{hr}}被理智值低于 40% 的玩家杀死时：<br>{{item/pic|怪物肉}}×1, {{item/pic|胡须}}×2{{hr}}强制暗影状态：<br>{{item/pic|怪物肉}}×1, {{item/pic|胡须}}×2，{{Item/pic|噩梦燃料}}×1",
+    "drop_param_current": "三选一：<br>\n{{Item/pic|肉}}（37.5%）<br>\n{{Item/pic|胡萝卜}}（37.5%）<br>\n{{Item/pic|兔绒}}（25%）{{hr}}被理智值低于 40% 的玩家杀死时：<br>{{item/pic|怪物肉}}×1, {{item/pic|胡须}}×2{{hr}}强制暗影状态：<br>{{item/pic|怪物肉}}×1, {{item/pic|胡须}}×2，{{Item/pic|噩梦燃料}}×1"
+  },
+  {
+    "page": "浣猫",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|肉}}×1<br>{{item/pic|猫尾}}×1（33%）",
+    "drop_param_current": "{{item/pic|肉}}×1<br>{{item/pic|猫尾}}×1（33%）"
+  },
+  {
+    "page": "蜘蛛",
+    "infobox_index": 1,
+    "drop_param_original": "三选一：<br>{{Item/pic|怪物肉}}（50%）<br>{{Item/pic|蜘蛛丝}}（25%）<br>{{Item/pic|蜘蛛腺}}（25%）{{hr}}被[[作祟]]后：{{Item/pic|蜘蛛腺}}×1",
+    "drop_param_current": "三选一：<br>{{Item/pic|怪物肉}}（50%）<br>{{Item/pic|蜘蛛丝}}（25%）<br>{{Item/pic|蜘蛛腺}}（25%）{{hr}}被[[作祟]]后：{{Item/pic|蜘蛛腺}}×1"
+  },
+  {
+    "page": "蜘蛛女王",
+    "infobox_index": 1,
+    "drop_param_original": "{{Item/pic|怪物肉}}×4, {{Item/pic|蜘蛛丝}}×4, {{Item/pic|蜘蛛卵}}×1，{{Item/pic|蜘蛛帽}}×1",
+    "drop_param_current": "{{Item/pic|怪物肉}}×4, {{Item/pic|蜘蛛丝}}×4, {{Item/pic|蜘蛛卵}}×1，{{Item/pic|蜘蛛帽}}×1"
+  },
+  {
+    "page": "远古守护者",
+    "infobox_index": 1,
+    "drop_param_original": "{{Item/pic|肉}}×8，{{Item/pic|守护者之角}}×1<br>{{Item/pic|支柱脚手架}}的{{item/pic|稀有蓝图}}×1<br/>{{item/pic|远古守护者雕塑}}的{{item/pic|草图}}×1",
+    "drop_param_current": "{{Item/pic|肉}}×8，{{Item/pic|守护者之角}}×1<br>{{Item/pic|支柱脚手架}}的{{item/pic|稀有蓝图}}×1<br/>{{item/pic|远古守护者雕塑}}的{{item/pic|草图}}×1"
+  },
+  {
+    "page": "草鳄鱼",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|叶肉}}x7，{{item/pic|采下的草}}x2，{{item/pic|树枝}}x2",
+    "drop_param_current": "{{item/pic|叶肉}}x7，{{item/pic|采下的草}}x2，{{item/pic|树枝}}x2"
+  },
+  {
+    "page": "海黾",
+    "infobox_index": 0,
+    "drop_param_original": "三选一：<br>{{item/pic|怪物肉}}（50%）<br>{{item/pic|蜘蛛丝}}（25%）<br>{{item/pic|蜘蛛腺}}（25%）",
+    "drop_param_current": "三选一：<br>{{item/pic|怪物肉}}（50%）<br>{{item/pic|蜘蛛丝}}（25%）<br>{{item/pic|蜘蛛腺}}（25%）"
+  },
+  {
+    "page": "蜜蜂",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{Item/pic|针刺}}（83.3%）<br> {{Item/pic|蜂蜜}}（16.7%）",
+    "drop_param_current": "二选一：<br>{{Item/pic|针刺}}（83.3%）<br> {{Item/pic|蜂蜜}}（16.7%）"
+  },
+  {
+    "page": "蜜蜂",
+    "infobox_index": 9,
+    "drop_param_original": "二选一：<br>{{Item/pic|针刺}}（83.3%）<br> {{Item/pic|蜂蜜}}（16.7%）",
+    "drop_param_current": "二选一：<br>{{Item/pic|针刺}}（83.3%）<br> {{Item/pic|蜂蜜}}（16.7%）"
+  },
+  {
+    "page": "蚊子",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|蚊子血囊}} 50%",
+    "drop_param_current": "{{item/pic|蚊子血囊}} 50%"
+  },
+  {
+    "page": "鸟",
+    "infobox_index": 29,
+    "drop_param_original": "二选一：<br>{{Item/pic|黑色羽毛}}（50%）<br>{{Item/pic|小肉}}（50%）",
+    "drop_param_current": "二选一：<br>{{Item/pic|黑色羽毛}}（50%）<br>{{Item/pic|小肉}}（50%）"
+  },
+  {
+    "page": "鸟",
+    "infobox_index": 36,
+    "drop_param_original": "二选一：<br>{{Item/pic|红色羽毛}}（50%）<br>{{Item/pic|小肉}}（50%）",
+    "drop_param_current": "二选一：<br>{{Item/pic|红色羽毛}}（50%）<br>{{Item/pic|小肉}}（50%）"
+  },
+  {
+    "page": "鸟",
+    "infobox_index": 41,
+    "drop_param_original": "二选一：<br>{{Item/pic|蓝色羽毛}}（50%）<br>{{Item/pic|小肉}}（50%）",
+    "drop_param_current": "二选一：<br>{{Item/pic|蓝色羽毛}}（50%）<br>{{Item/pic|小肉}}（50%）"
+  },
+  {
+    "page": "鸟",
+    "infobox_index": 47,
+    "drop_param_original": "二选一：<br>{{Item/pic|黄色羽毛}}（9%）<br>{{Item/pic|小肉}}（91%）",
+    "drop_param_current": "二选一：<br>{{Item/pic|黄色羽毛}}（9%）<br>{{Item/pic|小肉}}（91%）"
+  },
+  {
+    "page": "鸟",
+    "infobox_index": 50,
+    "drop_param_original": "击杀：{{Item/pic|腐烂物}}×1 {{hr}}在洞穴里爆炸：{{Item/pic|黄色羽毛}}×1 ~ 2 {{hr}}在地面释放：{{Item/pic|黄色羽毛}}×5 ~ 6",
+    "drop_param_current": "击杀：{{Item/pic|腐烂物}}×1 {{hr}}在洞穴里爆炸：{{Item/pic|黄色羽毛}}×1 ~ 2 {{hr}}在地面释放：{{Item/pic|黄色羽毛}}×5 ~ 6"
+  },
+  {
+    "page": "鸟",
+    "infobox_index": 63,
+    "drop_param_original": "二选一：<br>{{Item/pic|黑色羽毛}}（50%）<br>{{Item/pic|小肉}}（50%）",
+    "drop_param_current": "二选一：<br>{{Item/pic|黑色羽毛}}（50%）<br>{{Item/pic|小肉}}（50%）"
+  },
+  {
+    "page": "青蛙",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|蛙腿}}",
+    "drop_param_current": "{{item/pic|蛙腿}}"
+  },
+  {
+    "page": "考拉象",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|象鼻}}×1，{{item/pic|肉}}×8",
+    "drop_param_current": "{{item/pic|象鼻}}×1，{{item/pic|肉}}×8"
+  },
+  {
+    "page": "考拉象",
+    "infobox_index": 7,
+    "drop_param_original": "{{item/pic|冬象鼻}}×1，{{item/pic|肉}}×8",
+    "drop_param_current": "{{item/pic|冬象鼻}}×1，{{item/pic|肉}}×8"
+  },
+  {
+    "page": "钢羊",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|钢丝绵}}×2~3，{{item/pic|脓鼻涕}}×1~2，{{item/pic|肉}}×4",
+    "drop_param_current": "{{item/pic|钢丝绵}}×2~3，{{item/pic|脓鼻涕}}×1~2，{{item/pic|肉}}×4"
+  },
+  {
+    "page": "高脚鸟",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}×2",
+    "drop_param_current": "{{item/pic|肉}}×2"
+  },
+  {
+    "page": "高脚鸟",
+    "infobox_index": 12,
+    "drop_param_original": "{{item/pic|小肉}}",
+    "drop_param_current": "{{item/pic|小肉}}"
+  },
+  {
+    "page": "高脚鸟",
+    "infobox_index": 21,
+    "drop_param_original": "{{item/pic|肉}}",
+    "drop_param_current": "{{item/pic|肉}}"
+  },
+  {
+    "page": "发条骑士",
+    "infobox_index": 1,
+    "drop_param_original": "[[File:Gears.png|32px]]×2",
+    "drop_param_current": "[[File:Gears.png|32px]]×2"
+  },
+  {
+    "page": "损坏的发条骑士",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|齿轮}}×1<br>{{item/pic|噩梦燃料}}×1（60%）<br>{{item/pic|铥矿碎片}}×1（50%）",
+    "drop_param_current": "{{item/pic|齿轮}}×1<br>{{item/pic|噩梦燃料}}×1（60%）<br>{{item/pic|铥矿碎片}}×1（50%）"
+  },
+  {
+    "page": "损坏的发条主教",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|紫宝石}}×1<br>{{item/pic|噩梦燃料}}×1（60%）<br>{{item/pic|铥矿碎片}}×1（50%）",
+    "drop_param_current": "{{item/pic|紫宝石}}×1<br>{{item/pic|噩梦燃料}}×1（60%）<br>{{item/pic|铥矿碎片}}×1（50%）"
+  },
+  {
+    "page": "发条战车",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|齿轮}}×2",
+    "drop_param_current": "{{item/pic|齿轮}}×2"
+  },
+  {
+    "page": "损坏的发条战车",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|齿轮}}×1<br>{{item/pic|噩梦燃料}}×1（60%）<br>{{item/pic|铥矿碎片}}×1（50%）",
+    "drop_param_current": "{{item/pic|齿轮}}×1<br>{{item/pic|噩梦燃料}}×1（60%）<br>{{item/pic|铥矿碎片}}×1（50%）"
+  },
+  {
+    "page": "坎普斯",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|怪物肉}}×1，{{item/pic|木炭}}×2<br>{{item/pic|坎普斯背包}}×1（1%）",
+    "drop_param_current": "{{item/pic|怪物肉}}×1，{{item/pic|木炭}}×2<br>{{item/pic|坎普斯背包}}×1（1%）"
+  },
+  {
+    "page": "海象",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}×1，{{item/pic|id=blowdart_pipe}}×1<br>{{item/pic|海象牙}}×1（50%）<br>{{item/pic|贝雷帽}}×1（25%）",
+    "drop_param_current": "{{item/pic|肉}}×1，{{item/pic|id=blowdart_pipe}}×1<br>{{item/pic|海象牙}}×1（50%）<br>{{item/pic|贝雷帽}}×1（25%）"
+  },
+  {
+    "page": "小海象",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}",
+    "drop_param_current": "{{item/pic|肉}}"
+  },
+  {
+    "page": "鱼人",
+    "infobox_index": 4,
+    "drop_param_original": "{{item/pic|淡水鱼}}×1，{{item/pic|蛙腿}}×1",
+    "drop_param_current": "{{item/pic|淡水鱼}}×1，{{item/pic|蛙腿}}×1"
+  },
+  {
+    "page": "猪人守卫",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{item/pic|肉}}（75%）<br>{{item/pic|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{item/pic|肉}}（75%）<br>{{item/pic|猪皮}}（25%）"
+  },
+  {
+    "page": "疯猪",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}×2，{{item/pic|猪皮}}×1",
+    "drop_param_current": "{{item/pic|肉}}×2，{{item/pic|猪皮}}×1"
+  },
+  {
+    "page": "石虾",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}×1，{{item/pic|石头}}×2，{{item/pic|燧石}}×2",
+    "drop_param_current": "{{item/pic|肉}}×1，{{item/pic|石头}}×2，{{item/pic|燧石}}×2"
+  },
+  {
+    "page": "蜘蛛巢",
+    "infobox_index": 3,
+    "drop_param_original": "{{item/pic|蜘蛛丝}}×2",
+    "drop_param_current": "{{item/pic|蜘蛛丝}}×2"
+  },
+  {
+    "page": "蜘蛛巢",
+    "infobox_index": 7,
+    "drop_param_original": "{{item/pic|蜘蛛丝}}×4",
+    "drop_param_current": "{{item/pic|蜘蛛丝}}×4"
+  },
+  {
+    "page": "蜘蛛巢",
+    "infobox_index": 11,
+    "drop_param_original": "{{item/pic|蜘蛛丝}}×6, {{item/pic|蜘蛛卵}}×1",
+    "drop_param_current": "{{item/pic|蜘蛛丝}}×6, {{item/pic|蜘蛛卵}}×1"
+  },
+  {
+    "page": "蜘蛛战士",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|怪物肉}}×1 (50%)，{{item/pic|蜘蛛丝}}×1 (25%)，{{item/pic|蜘蛛腺}}×1 (25%)",
+    "drop_param_current": "{{item/pic|怪物肉}}×1 (50%)，{{item/pic|蜘蛛丝}}×1 (25%)，{{item/pic|蜘蛛腺}}×1 (25%)"
+  },
+  {
+    "page": "喷吐蜘蛛",
+    "infobox_index": 1,
+    "drop_param_original": "三选一：<br>{{item/pic|怪物肉}}（50%）<br>{{item/pic|蜘蛛丝}}（25%）<br>{{item/pic|蜘蛛腺}}（25%）",
+    "drop_param_current": "三选一：<br>{{item/pic|怪物肉}}（50%）<br>{{item/pic|蜘蛛丝}}（25%）<br>{{item/pic|蜘蛛腺}}（25%）"
+  },
+  {
+    "page": "蛛网岩",
+    "infobox_index": 1,
+    "drop_param_original": "[[File:Silk.png|32px|Link=蜘蛛丝]]×1，[[File:Rocks.png|32px]]×2，[[File:Fossils.png|32px]]×1<br>[[File:Spider Gland.png|32px]]×1（25%）<br>[[File:Silk.png|32px|Link=蜘蛛丝]]×1（50%）<br>[[File:Fossils.png|32px]]×1（50%）",
+    "drop_param_current": "[[File:Silk.png|32px|Link=蜘蛛丝]]×1，[[File:Rocks.png|32px]]×2，[[File:Fossils.png|32px]]×1<br>[[File:Spider Gland.png|32px]]×1（25%）<br>[[File:Silk.png|32px|Link=蜘蛛丝]]×1（50%）<br>[[File:Fossils.png|32px]]×1（50%）"
+  },
+  {
+    "page": "蜂王",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|蜂蜜}}×3 ~ 4，{{item/pic|蜜脾}}×1 ~ 2，{{item/pic|针刺}}×1，{{item/pic|蜂王浆}}×6 ~ 7，{{item/pic|蜂王冠}}，{{item/pic|捆绑包装}}的{{item/pic|蓝图}}，{{item/pic|蜂王雕塑}}的{{item/pic|草图}}",
+    "drop_param_current": "{{item/pic|蜂蜜}}×3 ~ 4，{{item/pic|蜜脾}}×1 ~ 2，{{item/pic|针刺}}×1，{{item/pic|蜂王浆}}×6 ~ 7，{{item/pic|蜂王冠}}，{{item/pic|捆绑包装}}的{{item/pic|蓝图}}，{{item/pic|蜂王雕塑}}的{{item/pic|草图}}"
+  },
+  {
+    "page": "穴居悬蛛",
+    "infobox_index": 2,
+    "drop_param_original": "三选一：<br>{{item/pic|怪物肉}}（50%）<br>{{item/pic|蜘蛛丝}}（25%） <br>{{item/pic|蜘蛛腺}}（25%）",
+    "drop_param_current": "三选一：<br>{{item/pic|怪物肉}}（50%）<br>{{item/pic|蜘蛛丝}}（25%） <br>{{item/pic|蜘蛛腺}}（25%）"
+  },
+  {
+    "page": "穴居猴",
+    "infobox_index": 1,
+    "drop_param_original": "{{Item/pic|小肉}}×1，{{Item/pic|香蕉}}×1{{hr}}暗影穴居猴额外掉落：<br>{{Item/pic|胡须}}×1<br>{{Item/pic|噩梦燃料}}×1（50%）{{hr}}强制暗影状态额外掉落：<br>{{Item/pic|噩梦燃料}}×1",
+    "drop_param_current": "{{Item/pic|小肉}}×1，{{Item/pic|香蕉}}×1{{hr}}暗影穴居猴额外掉落：<br>{{Item/pic|胡须}}×1<br>{{Item/pic|噩梦燃料}}×1（50%）{{hr}}强制暗影状态额外掉落：<br>{{Item/pic|噩梦燃料}}×1"
+  },
+  {
+    "page": "洞穴蝙蝠",
+    "infobox_index": 1,
+    "drop_param_original": "{{Item/pic|怪物肉}}×1（10%）<br>{{Item/pic|洞穴蝙蝠翅膀}}×1（25%）<br>{{Item/pic|鸟粪}}×1（15%）{{hr}}酸雨期间，额外：<br>{{Item/pic|硝石}}×1（20%）<br>{{Item/pic|洞穴蝙蝠翅膀}}×1（50%）<br>{{Item/pic|鸟粪}}×1（30%）<br>{{Item/pic|怪物肉}}×1（20%）",
+    "drop_param_current": "{{Item/pic|怪物肉}}×1（10%）<br>{{Item/pic|洞穴蝙蝠翅膀}}×1（25%）<br>{{Item/pic|鸟粪}}×1（15%）{{hr}}酸雨期间，额外：<br>{{Item/pic|硝石}}×1（20%）<br>{{Item/pic|洞穴蝙蝠翅膀}}×1（50%）<br>{{Item/pic|鸟粪}}×1（30%）<br>{{Item/pic|怪物肉}}×1（20%）"
+  },
+  {
+    "page": "啜食者",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|荧光果}}×2<br>{{item/pic|啜食者皮}}×1（50%）",
+    "drop_param_current": "{{item/pic|荧光果}}×2<br>{{item/pic|啜食者皮}}×1（50%）"
+  },
+  {
+    "page": "蛞蝓龟",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|蛞蝓龟黏液}}×2<br>二选一：<br>{{item/pic|背壳头盔}}（10%）<br>{{item/pic|外壳碎片}}（90%）",
+    "drop_param_current": "{{item/pic|蛞蝓龟黏液}}×2<br>二选一：<br>{{item/pic|背壳头盔}}（10%）<br>{{item/pic|外壳碎片}}（90%）"
+  },
+  {
+    "page": "蛞蝓龟",
+    "infobox_index": 11,
+    "drop_param_original": "{{item/pic|蛞蝓龟黏液}}×2<br>二选一：<br>{{item/pic|蜗壳护甲}}（75%）<br>{{item/pic|外壳碎片}}（25%）",
+    "drop_param_current": "{{item/pic|蛞蝓龟黏液}}×2<br>二选一：<br>{{item/pic|蜗壳护甲}}（75%）<br>{{item/pic|外壳碎片}}（25%）"
+  },
+  {
+    "page": "麋鹿鹅",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}×6，{{item/pic|鸟腿}}×2，{{item/pic|麋鹿鹅羽毛}}×3 ~ 5 <br>{{item/pic|麋鹿鹅雕塑}}的{{item/pic|草图}}",
+    "drop_param_current": "{{item/pic|肉}}×6，{{item/pic|鸟腿}}×2，{{item/pic|麋鹿鹅羽毛}}×3 ~ 5 <br>{{item/pic|麋鹿鹅雕塑}}的{{item/pic|草图}}"
+  },
+  {
+    "page": "麋鹿鹅幼崽",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}×1，{{item/pic|鸟腿}}×1，{{item/pic|麋鹿鹅羽毛}}×2-3",
+    "drop_param_current": "{{item/pic|肉}}×1，{{item/pic|鸟腿}}×1，{{item/pic|麋鹿鹅羽毛}}×2-3"
+  },
+  {
+    "page": "蚁狮",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|沙之石}}×6 ~ 8，{{item/pic|肉}}×4, {{item/pic|石头}}×2 ~ 4<br>{{tooltip|[[File:trinkets.png|32px|link=]]|可能为[[熔化的弹珠]]、[[戈尔迪之结]]、[[硬化橡胶塞]]、[[不搭的纽扣]]、[[沙滩玩具]]}}×2<br>{{item/pic|懒人传送塔}}和{{item/pic|刮地皮头盔}}的{{item/pic|稀有蓝图}}<br>{{item/pic|蚁狮雕塑}}的{{item/pic|草图}}",
+    "drop_param_current": "{{item/pic|沙之石}}×6 ~ 8，{{item/pic|肉}}×4, {{item/pic|石头}}×2 ~ 4<br>{{tooltip|[[File:trinkets.png|32px|link=]]|可能为[[熔化的弹珠]]、[[戈尔迪之结]]、[[硬化橡胶塞]]、[[不搭的纽扣]]、[[沙滩玩具]]}}×2<br>{{item/pic|懒人传送塔}}和{{item/pic|刮地皮头盔}}的{{item/pic|稀有蓝图}}<br>{{item/pic|蚁狮雕塑}}的{{item/pic|草图}}"
+  },
+  {
+    "page": "熊獾",
+    "infobox_index": 1,
+    "drop_param_original": "[[File:Meat.png|32px|肉]]×8，{{item/pic|熊皮}}<br>{{item/pic|熊獾雕塑}}的{{item/pic|草图}}<br>每45秒掉落一个{{item/pic|毛丛}}",
+    "drop_param_current": "[[File:Meat.png|32px|肉]]×8，{{item/pic|熊皮}}<br>{{item/pic|熊獾雕塑}}的{{item/pic|草图}}<br>每45秒掉落一个{{item/pic|毛丛}}"
+  },
+  {
+    "page": "龙蝇",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}×6，{{item/pic|金块}}×4 ~ 8，{{item/pic|红宝石}}×2，{{item/pic|蓝宝石}}×2，{{item/pic|紫宝石}}×1 ~ 2，{{item/pic|橙宝石}}×1 ~ 2，{{item/pic|黄宝石}}×1 ~ 2，{{item/pic|绿宝石}}×1 ~ 2，{{item/pic|鳞片}}×1<br>{{item/pic|岩浆虫卵}}（33%）<br>{{item/pic|龙鳞火炉}}的{{item/pic|稀有蓝图}}，{{item/pic|龙蝇雕塑}}的{{item/pic|草图}}",
+    "drop_param_current": "{{item/pic|肉}}×6，{{item/pic|金块}}×4 ~ 8，{{item/pic|红宝石}}×2，{{item/pic|蓝宝石}}×2，{{item/pic|紫宝石}}×1 ~ 2，{{item/pic|橙宝石}}×1 ~ 2，{{item/pic|黄宝石}}×1 ~ 2，{{item/pic|绿宝石}}×1 ~ 2，{{item/pic|鳞片}}×1<br>{{item/pic|岩浆虫卵}}（33%）<br>{{item/pic|龙鳞火炉}}的{{item/pic|稀有蓝图}}，{{item/pic|龙蝇雕塑}}的{{item/pic|草图}}"
+  },
+  {
+    "page": "大树干",
+    "infobox_index": 14,
+    "drop_param_original": "{{item/pic|浮木桩}}×1<br>{{item/pic|浮木桩}}×1（30%）<br>{{item/pic|树枝}}×1（30%）",
+    "drop_param_current": "{{item/pic|浮木桩}}×1<br>{{item/pic|浮木桩}}×1（30%）<br>{{item/pic|树枝}}×1（30%）"
+  },
+  {
+    "page": "疙瘩树",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|木头}}×1 ~ 3",
+    "drop_param_current": "{{item/pic|木头}}×1 ~ 3"
+  },
+  {
+    "page": "疙瘩树",
+    "infobox_index": 11,
+    "drop_param_original": "{{item/pic|木头}}×19",
+    "drop_param_current": "{{item/pic|木头}}×19"
+  },
+  {
+    "page": "蘑菇地精",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|活木头}}×1 ~ 2，{{item/pic|月亮蘑菇}}×2<br>[[File:Lunar Spore.png|32px|月亮孢子]]×3 ~ 5",
+    "drop_param_current": "{{item/pic|活木头}}×1 ~ 2，{{item/pic|月亮蘑菇}}×2<br>[[File:Lunar Spore.png|32px|月亮孢子]]×3 ~ 5"
+  },
+  {
+    "page": "树精守卫",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|怪物肉}}，{{item/pic|活木头}}x6",
+    "drop_param_current": "{{item/pic|怪物肉}}，{{item/pic|活木头}}x6"
+  },
+  {
+    "page": "球状光虫",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|荧光果}}×1",
+    "drop_param_current": "{{item/pic|荧光果}}×1"
+  },
+  {
+    "page": "裸鼹蝠",
+    "infobox_index": 0,
+    "drop_param_original": "二选一：<br>{{item/pic|怪物肉}}（66.7%）<br>{{item/pic|裸露鼻孔}}（33.3%）<br>定期掉落{{item/pic|鸟粪}}",
+    "drop_param_current": "二选一：<br>{{item/pic|怪物肉}}（66.7%）<br>{{item/pic|裸露鼻孔}}（33.3%）<br>定期掉落{{item/pic|鸟粪}}"
+  },
+  {
+    "page": "空心树桩",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|树枝}}x2，{{item/pic|木头}}x2",
+    "drop_param_current": "{{item/pic|树枝}}x2，{{item/pic|木头}}x2"
+  },
+  {
+    "page": "鼹鼠",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|小肉}}×1",
+    "drop_param_current": "{{item/pic|小肉}}×1"
+  },
+  {
+    "page": "眼睛炮塔",
+    "infobox_index": 4,
+    "drop_param_original": "[[File:Thulecite.png|24px|link=铥矿]] ×1~2, [[File:Thulecite Fragments.png|24px|link=铥矿碎片]] ×1~4",
+    "drop_param_current": "[[File:Thulecite.png|24px|link=铥矿]] ×1~2, [[File:Thulecite Fragments.png|24px|link=铥矿碎片]] ×1~4"
+  },
+  {
+    "page": "食人花",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|食人花种子}}",
+    "drop_param_current": "{{item/pic|食人花种子}}"
+  },
+  {
+    "page": "秃鹫",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|鸟腿}}×1<br>{{item/pic|黑色羽毛}}×1（33%）<br>{{item/pic|小肉}}×1（33%）",
+    "drop_param_current": "{{item/pic|鸟腿}}×1<br>{{item/pic|黑色羽毛}}×1（33%）<br>{{item/pic|小肉}}×1（33%）"
+  },
+  {
+    "page": "伏特羊",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}×2，<br>{{item/pic|伏特羊角}}×1（25%）{{hr}}充电时额外掉落：<br>{{item/pic|带电的羊奶}}×1",
+    "drop_param_current": "{{item/pic|肉}}×2，<br>{{item/pic|伏特羊角}}×1（25%）{{hr}}充电时额外掉落：<br>{{item/pic|带电的羊奶}}×1"
+  },
+  {
+    "page": "月蛾",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|月蛾翅膀}}×1",
+    "drop_param_current": "{{item/pic|月蛾翅膀}}×1"
+  },
+  {
+    "page": "沙拉蝾螈",
+    "infobox_index": 0,
+    "drop_param_original": "普通：{{item/pic|叶肉}}×1{{hr}}成熟：{{item/pic|火龙果}}×1",
+    "drop_param_current": "普通：{{item/pic|叶肉}}×1{{hr}}成熟：{{item/pic|火龙果}}×1"
+  },
+  {
+    "page": "胡萝卜鼠",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|叶肉}}×1<br>{{item/pic|胡萝卜种子}}33%{{待补充|非自然生成的情况}}",
+    "drop_param_current": "{{item/pic|叶肉}}×1<br>{{item/pic|胡萝卜种子}}33%{{待补充|非自然生成的情况}}"
+  },
+  {
+    "page": "破碎蜘蛛",
+    "infobox_index": 0,
+    "drop_param_original": "三选一：<br>{{item/pic|怪物肉}}（50%）<br>{{item/pic|蜘蛛丝}}（25%）<br>{{item/pic|蜘蛛腺}}（25%）",
+    "drop_param_current": "三选一：<br>{{item/pic|怪物肉}}（50%）<br>{{item/pic|蜘蛛丝}}（25%）<br>{{item/pic|蜘蛛腺}}（25%）"
+  },
+  {
+    "page": "破碎蜘蛛洞",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|石头}}×1，{{item/pic|月亮碎片}}×1，{{item/pic|月岩}}×1，{{item/pic|蜘蛛丝}}×1<br>\n{{item/pic|月岩}}（50%）<br>\n{{item/pic|蜘蛛丝}}（50%）<br>\n{{item/pic|蜘蛛腺}}（25%）",
+    "drop_param_current": "{{item/pic|石头}}×1，{{item/pic|月亮碎片}}×1，{{item/pic|月岩}}×1，{{item/pic|蜘蛛丝}}×1<br>\n{{item/pic|月岩}}（50%）<br>\n{{item/pic|蜘蛛丝}}（50%）<br>\n{{item/pic|蜘蛛腺}}（25%）"
+  },
+  {
+    "page": "饼干切割机",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|怪物肉}}×1<br>{{item/pic|饼干切割机壳}}×1（50%）<br>{{item/pic|饼干切割机壳}}×1（25%）",
+    "drop_param_current": "{{item/pic|怪物肉}}×1<br>{{item/pic|饼干切割机壳}}×1（50%）<br>{{item/pic|饼干切割机壳}}×1（25%）"
+  },
+  {
+    "page": "座狼",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|怪物肉}}×4，{{item/pic|犬牙}}×1<br>{{item/pic|怪物肉}}×1（50%）<br>{{item/pic|怪物肉}}×1（50%）<br>{{item/pic|犬牙}}×1（66%）<br>{{item/pic|犬牙}}×1（33%）",
+    "drop_param_current": "{{item/pic|怪物肉}}×4，{{item/pic|犬牙}}×1<br>{{item/pic|怪物肉}}×1（50%）<br>{{item/pic|怪物肉}}×1（50%）<br>{{item/pic|犬牙}}×1（66%）<br>{{item/pic|犬牙}}×1（33%）"
+  },
+  {
+    "page": "草壁虎",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|采下的草}} ×0~2，{{item/pic|叶肉}}×1",
+    "drop_param_current": "{{item/pic|采下的草}} ×0~2，{{item/pic|叶肉}}×1"
+  },
+  {
+    "page": "格罗姆",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|格罗姆翅膀}}×1，{{item/pic|格罗姆的黏液}}×2，{{item/pic|怪物肉}}×3",
+    "drop_param_current": "{{item/pic|格罗姆翅膀}}×1，{{item/pic|格罗姆的黏液}}×2，{{item/pic|怪物肉}}×3"
+  },
+  {
+    "page": "果蝇王",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|友好果蝇果}}、{{item/pic|叶肉}}\n[[File:Plant Seeds.png|32px|link=作物种子]]×4~8",
+    "drop_param_current": "{{item/pic|友好果蝇果}}、{{item/pic|叶肉}}\n[[File:Plant Seeds.png|32px|link=作物种子]]×4~8"
+  },
+  {
+    "page": "果蝇王",
+    "infobox_index": 9,
+    "drop_param_original": "[[File:Seeds.png|32px]]10%",
+    "drop_param_current": "[[File:Seeds.png|32px]]10%"
+  },
+  {
+    "page": "无眼鹿",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|肉}}×1<br>{{item/pic|肉}}×1（50%）{{hr}}长角时额外掉落：<br>{{item/pic|骨头碎片}}×1~2",
+    "drop_param_current": "{{item/pic|肉}}×1<br>{{item/pic|肉}}×1（50%）{{hr}}长角时额外掉落：<br>{{item/pic|骨头碎片}}×1~2"
+  },
+  {
+    "page": "岩浆虫",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|石头}}×1~5（冰冻后）",
+    "drop_param_current": "{{item/pic|石头}}×1~5（冰冻后）"
+  },
+  {
+    "page": "超级可爱岩浆虫",
+    "infobox_index": 0,
+    "drop_param_original": "[[File:Chilled Lavae.png|32px]]（冰冻后）",
+    "drop_param_current": "[[File:Chilled Lavae.png|32px]]（冰冻后）"
+  },
+  {
+    "page": "嗡嗡蜜蜂",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|针刺}}1%",
+    "drop_param_current": "{{item/pic|针刺}}1%"
+  },
+  {
+    "page": "恐怖之眼",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|乳白物}}×3~5，{{item/pic|怪物肉}}×2~4，{{item/pic|眼面具}}×1<br/>{{item/pic|恐怖之眼雕塑}}的{{item/pic|草图}}",
+    "drop_param_current": "{{item/pic|乳白物}}×3~5，{{item/pic|怪物肉}}×2~4，{{item/pic|眼面具}}×1<br/>{{item/pic|恐怖之眼雕塑}}的{{item/pic|草图}}"
+  },
+  {
+    "page": "恐怖之眼",
+    "infobox_index": 19,
+    "drop_param_original": "{{item/pic|齿轮}}×3 ~ 5，{{item/pic|电子元件}}×2 ~ 3，{{item/pic|噩梦燃料}}×2 ~ 4，{{item/pic|黄宝石}}，{{item/pic|烂电线}}×1 ~ 2<br>（后者）{{item/pic|恐怖盾牌}}，{{item/pic|双子魔眼雕塑}}的{{item/pic|草图}}",
+    "drop_param_current": "{{item/pic|齿轮}}×3 ~ 5，{{item/pic|电子元件}}×2 ~ 3，{{item/pic|噩梦燃料}}×2 ~ 4，{{item/pic|黄宝石}}，{{item/pic|烂电线}}×1 ~ 2<br>（后者）{{item/pic|恐怖盾牌}}，{{item/pic|双子魔眼雕塑}}的{{item/pic|草图}}"
+  },
+  {
+    "page": "恐怖之眼",
+    "infobox_index": 29,
+    "drop_param_original": "{{item/pic|齿轮}}×3 ~ 5，{{item/pic|电子元件}}×2 ~ 3，{{item/pic|噩梦燃料}}×2 ~ 4，{{item/pic|绿宝石}}，{{item/pic|烂电线}}×1 ~ 2<br>（后者）{{item/pic|恐怖盾牌}}，{{item/pic|双子魔眼雕塑}}的{{item/pic|草图}}",
+    "drop_param_current": "{{item/pic|齿轮}}×3 ~ 5，{{item/pic|电子元件}}×2 ~ 3，{{item/pic|噩梦燃料}}×2 ~ 4，{{item/pic|绿宝石}}，{{item/pic|烂电线}}×1 ~ 2<br>（后者）{{item/pic|恐怖盾牌}}，{{item/pic|双子魔眼雕塑}}的{{item/pic|草图}}"
+  },
+  {
+    "page": "石果",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|成熟石果}}65%，{{item/pic|石头}}34%，{{item/pic|发芽的石果}}1%，",
+    "drop_param_current": "{{item/pic|成熟石果}}65%，{{item/pic|石头}}34%，{{item/pic|发芽的石果}}1%，"
+  },
+  {
+    "page": "伯尼",
+    "infobox_index": 5,
+    "drop_param_original": "[[文件:Bernie Dead.png|32px]]",
+    "drop_param_current": "[[文件:Bernie Dead.png|32px]]"
+  },
+  {
+    "page": "伯尼",
+    "infobox_index": 10,
+    "drop_param_original": "[[文件:Bernie Dead.png|32px]]",
+    "drop_param_current": "[[文件:Bernie Dead.png|32px]]"
+  },
+  {
+    "page": "爬行恐惧",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|噩梦燃料}}×1<br>{{item/pic|噩梦燃料}}×1（50%）",
+    "drop_param_current": "{{item/pic|噩梦燃料}}×1<br>{{item/pic|噩梦燃料}}×1（50%）"
+  },
+  {
+    "page": "爬行恐惧",
+    "infobox_index": 5,
+    "drop_param_original": "{{item/pic|噩梦燃料}}×1<br>{{item/pic|噩梦燃料}}×1（50%）",
+    "drop_param_current": "{{item/pic|噩梦燃料}}×1<br>{{item/pic|噩梦燃料}}×1（50%）"
+  },
+  {
+    "page": "恐怖尖喙",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|噩梦燃料}}×1<br>{{item/pic|噩梦燃料}}×1（50%）",
+    "drop_param_current": "{{item/pic|噩梦燃料}}×1<br>{{item/pic|噩梦燃料}}×1（50%）"
+  },
+  {
+    "page": "恐怖尖喙",
+    "infobox_index": 6,
+    "drop_param_original": "{{item/pic|噩梦燃料}}×1<br>{{item/pic|噩梦燃料}}×1（50%）",
+    "drop_param_current": "{{item/pic|噩梦燃料}}×1<br>{{item/pic|噩梦燃料}}×1（50%）"
+  },
+  {
+    "page": "恐怖利爪",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|噩梦燃料}}×1~2",
+    "drop_param_current": "{{item/pic|噩梦燃料}}×1~2"
+  },
+  {
+    "page": "护士蜘蛛",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|怪物肉}}×1 (50%)，{{item/pic|蜘蛛丝}}×1 (25%)，{{item/pic|蜘蛛腺}}×1 (25%)",
+    "drop_param_current": "{{item/pic|怪物肉}}×1 (50%)，{{item/pic|蜘蛛丝}}×1 (25%)，{{item/pic|蜘蛛腺}}×1 (25%)"
+  },
+  {
+    "page": "忠诚鱼人守卫",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|淡水鱼}}×1，{{item/pic|蛙腿}}×1",
+    "drop_param_current": "{{item/pic|淡水鱼}}×1，{{item/pic|蛙腿}}×1"
+  },
+  {
+    "page": "鱼人之王",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|淡水鱼}}×1，{{item/pic|蛙腿}}×1，{{item/pic|海带叶}}×2~4",
+    "drop_param_current": "{{item/pic|淡水鱼}}×1，{{item/pic|蛙腿}}×1，{{item/pic|海带叶}}×2~4"
+  },
+  {
+    "page": "变异鸟",
+    "infobox_index": 1,
+    "drop_param_original": "谋杀：<br>{{item/pic|腐烂物}}×1",
+    "drop_param_current": "谋杀：<br>{{item/pic|腐烂物}}×1"
+  },
+  {
+    "page": "变异鸟",
+    "infobox_index": 4,
+    "drop_param_original": "谋杀：<br>{{item/pic|腐烂物}}×1",
+    "drop_param_current": "谋杀：<br>{{item/pic|腐烂物}}×1"
+  },
+  {
+    "page": "大虎",
+    "infobox_index": 0,
+    "drop_param_original": "[[File:Meat.png|32px|肉]]（50%）、[[File:Cat Tail.png|32px|猫尾]]（5%）",
+    "drop_param_current": "[[File:Meat.png|32px|肉]]（50%）、[[File:Cat Tail.png|32px|猫尾]]（5%）"
+  },
+  {
+    "page": "舞台之手",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|茶几}}的{{item/pic|稀有蓝图}}",
+    "drop_param_current": "{{item/pic|茶几}}的{{item/pic|稀有蓝图}}"
+  },
+  {
+    "page": "青年座狼",
+    "infobox_index": 0,
+    "drop_param_original": "{{Item/pic|怪物肉}}×3，{{Item/pic|犬牙}}×1<br>{{Item/pic|怪物肉}}×1（50%）<br>{{Item/pic|犬牙}}×1（33%）",
+    "drop_param_current": "{{Item/pic|怪物肉}}×3，{{Item/pic|犬牙}}×1<br>{{Item/pic|怪物肉}}×1（50%）<br>{{Item/pic|犬牙}}×1（33%）"
+  },
+  {
+    "page": "遗物",
+    "infobox_index": 3,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "遗物",
+    "infobox_index": 5,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "月光龙虾",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|月亮碎片}}×1",
+    "drop_param_current": "{{item/pic|月亮碎片}}×1"
+  },
+  {
+    "page": "月光玻璃窝",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|月亮碎片}}x3~5，{{item/pic|石头}}x2，{{item/pic|月光龙虾}}x2~3",
+    "drop_param_current": "{{item/pic|月亮碎片}}x3~5，{{item/pic|石头}}x2，{{item/pic|月光龙虾}}x2~3"
+  },
+  {
+    "page": "大理石柱",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|大理石}}×2-3",
+    "drop_param_current": "{{item/pic|大理石}}×2-3"
+  },
+  {
+    "page": "大理石树",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|大理石}}×1<br>{{item/pic|大理石}}×1（50%）",
+    "drop_param_current": "{{item/pic|大理石}}×1<br>{{item/pic|大理石}}×1（50%）"
+  },
+  {
+    "page": "贝壳钟",
+    "infobox_index": 3,
+    "drop_param_original": "{{item/pic|外壳碎片}}×1-2",
+    "drop_param_current": "{{item/pic|外壳碎片}}×1-2"
+  },
+  {
+    "page": "贝壳钟",
+    "infobox_index": 12,
+    "drop_param_original": "{{item/pic|外壳碎片}}×1-2",
+    "drop_param_current": "{{item/pic|外壳碎片}}×1-2"
+  },
+  {
+    "page": "贝壳钟",
+    "infobox_index": 21,
+    "drop_param_original": "{{item/pic|外壳碎片}}×1-2",
+    "drop_param_current": "{{item/pic|外壳碎片}}×1-2"
+  },
+  {
+    "page": "竖琴雕像",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|大理石}}×2<br>{{item/pic|大理石}}×1（30%）",
+    "drop_param_current": "{{item/pic|大理石}}×2<br>{{item/pic|大理石}}×1（30%）"
+  },
+  {
+    "page": "针刺树",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|树枝}}×1<br>{{item/pic|木头}}×1 (20%)",
+    "drop_param_current": "{{item/pic|树枝}}×1<br>{{item/pic|木头}}×1 (20%)"
+  },
+  {
+    "page": "麦斯威尔雕像",
+    "infobox_index": 1,
+    "drop_param_original": "{{Item/pic|大理石}}×2，{{Item/pic|草图}}({{item/pic|国王雕塑}})<br>{{Item/pic|大理石}}×1（30%）",
+    "drop_param_current": "{{Item/pic|大理石}}×2，{{Item/pic|草图}}({{item/pic|国王雕塑}})<br>{{Item/pic|大理石}}×1（30%）"
+  },
+  {
+    "page": "远古月亮雕像",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|铥矿}}x1、{{item/pic|月岩}}x1-2",
+    "drop_param_current": "{{item/pic|铥矿}}x1、{{item/pic|月岩}}x1-2"
+  },
+  {
+    "page": "盐堆",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|盐晶}}×3 ~ 4，{{item/pic|石头}}×3",
+    "drop_param_current": "{{item/pic|盐晶}}×3 ~ 4，{{item/pic|石头}}×3"
+  },
+  {
+    "page": "海骨",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|骨头碎片}}x2-3",
+    "drop_param_current": "{{item/pic|骨头碎片}}x2-3"
+  },
+  {
+    "page": "温泉",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|月亮碎片}}x5<br/>{{item/pic|红宝石}}或{{item/pic|蓝宝石}}x1（20%）",
+    "drop_param_current": "{{item/pic|月亮碎片}}x5<br/>{{item/pic|红宝石}}或{{item/pic|蓝宝石}}x1（20%）"
+  },
+  {
+    "page": "吸引人的结构",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|天体祭坛底座}}",
+    "drop_param_current": "{{item/pic|天体祭坛底座}}"
+  },
+  {
+    "page": "吸引人的结构",
+    "infobox_index": 3,
+    "drop_param_original": "{{item/pic|天体祭坛宝球}}",
+    "drop_param_current": "{{item/pic|天体祭坛宝球}}"
+  },
+  {
+    "page": "吸引人的结构",
+    "infobox_index": 5,
+    "drop_param_original": "{{item/pic|天体祭坛雕像}}",
+    "drop_param_current": "{{item/pic|天体祭坛雕像}}"
+  },
+  {
+    "page": "月光玻璃",
+    "infobox_index": 0,
+    "drop_param_original": "{{Item/pic|月亮碎片}}×2<br>{{Item/pic|月亮碎片}}×1（25%）",
+    "drop_param_current": "{{Item/pic|月亮碎片}}×2<br>{{Item/pic|月亮碎片}}×1（25%）"
+  },
+  {
+    "page": "浆果丛",
+    "infobox_index": 2,
+    "drop_param_original": "[[文件:Berry_Bush.png|32px]]×1{{hr}}枯萎状态：{{item/pic|树枝}}×2",
+    "drop_param_current": "[[文件:Berry_Bush.png|32px]]×1{{hr}}枯萎状态：{{item/pic|树枝}}×2"
+  },
+  {
+    "page": "浆果丛",
+    "infobox_index": 17,
+    "drop_param_original": "[[文件:Berry_Bush2.png|32px]]×1{{hr}}枯萎状态：{{item/pic|树枝}}×2",
+    "drop_param_current": "[[文件:Berry_Bush2.png|32px]]×1{{hr}}枯萎状态：{{item/pic|树枝}}×2"
+  },
+  {
+    "page": "浆果丛",
+    "infobox_index": 25,
+    "drop_param_original": "{{item/pic|id=dug_berrybush_juicy}}×1{{hr}}枯萎状态：{{item/pic|树枝}}×2",
+    "drop_param_current": "{{item/pic|id=dug_berrybush_juicy}}×1{{hr}}枯萎状态：{{item/pic|树枝}}×2"
+  },
+  {
+    "page": "奇异的骨架",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|化石碎片}}×1 ~ 8",
+    "drop_param_current": "{{item/pic|化石碎片}}×1 ~ 8"
+  },
+  {
+    "page": "发光蟹",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|小鱼块}}25%，{{item/pic|荧光果}}25%，{{item/pic|外壳碎片}}50%",
+    "drop_param_current": "{{item/pic|小鱼块}}25%，{{item/pic|荧光果}}25%，{{item/pic|外壳碎片}}50%"
+  },
+  {
+    "page": "石化树",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|石头}}×1<br>{{item/pic|石头}}×1（35%）<br>{{item/pic|燧石}}×1（25%）<br>{{item/pic|硝石}}×1（25%）",
+    "drop_param_current": "{{item/pic|石头}}×1<br>{{item/pic|石头}}×1（35%）<br>{{item/pic|燧石}}×1（25%）<br>{{item/pic|硝石}}×1（25%）"
+  },
+  {
+    "page": "石化树",
+    "infobox_index": 6,
+    "drop_param_original": "{{item/pic|石头}}×1<br>{{item/pic|石头}}×1（75%）<br>{{item/pic|燧石}}×1（25%）<br>{{item/pic|硝石}}×1（40%）",
+    "drop_param_current": "{{item/pic|石头}}×1<br>{{item/pic|石头}}×1（75%）<br>{{item/pic|燧石}}×1（25%）<br>{{item/pic|硝石}}×1（40%）"
+  },
+  {
+    "page": "石化树",
+    "infobox_index": 12,
+    "drop_param_original": "{{item/pic|石头}}×2<br>{{item/pic|石头}}×1（35%）<br>{{item/pic|燧石}}×1（75%）<br>{{item/pic|硝石}}×1（65%）",
+    "drop_param_current": "{{item/pic|石头}}×2<br>{{item/pic|石头}}×1（35%）<br>{{item/pic|燧石}}×1（75%）<br>{{item/pic|硝石}}×1（65%）"
+  },
+  {
+    "page": "石化树",
+    "infobox_index": 17,
+    "drop_param_original": "{{item/pic|石头}}×1（50%）<br>{{item/pic|石头}}×1（50%）<br>{{item/pic|燧石}}×1（75%）<br>{{item/pic|硝石}}×1（25%）",
+    "drop_param_current": "{{item/pic|石头}}×1（50%）<br>{{item/pic|石头}}×1（50%）<br>{{item/pic|燧石}}×1（75%）<br>{{item/pic|硝石}}×1（25%）"
+  },
+  {
+    "page": "月亮石",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|月岩}}x1-2",
+    "drop_param_current": "{{item/pic|月岩}}x1-2"
+  },
+  {
+    "page": "火药猴",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|小肉}}×1",
+    "drop_param_current": "{{item/pic|小肉}}×1"
+  },
+  {
+    "page": "大副",
+    "infobox_index": 0,
+    "drop_param_original": "{{Item/pic|肉}}×1，<br>{{Item/pic|香蕉奶昔}}×1（20%）",
+    "drop_param_current": "{{Item/pic|肉}}×1，<br>{{Item/pic|香蕉奶昔}}×1（20%）"
+  },
+  {
+    "page": "疙瘩树果",
+    "infobox_index": 0,
+    "drop_param_original": "{{Item/pic|树枝}}×1<br>\n{{Item/pic|树枝}}×1（50%）<br>\n{{Item/pic|变质的小鱼块}}×1（1%）",
+    "drop_param_current": "{{Item/pic|树枝}}×1<br>\n{{Item/pic|树枝}}×1（50%）<br>\n{{Item/pic|变质的小鱼块}}×1（1%）"
+  },
+  {
+    "page": "可疑的月岩",
+    "infobox_index": 4,
+    "drop_param_original": "{{item/pic|月岩}}×1-2",
+    "drop_param_current": "{{item/pic|月岩}}×1-2"
+  },
+  {
+    "page": "可疑的月岩",
+    "infobox_index": 8,
+    "drop_param_original": "{{item/pic|月岩}}×1-2",
+    "drop_param_current": "{{item/pic|月岩}}×1-2"
+  },
+  {
+    "page": "猴子小屋",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|木板}}{{item/pic|石头}}",
+    "drop_param_current": "{{item/pic|木板}}{{item/pic|石头}}"
+  },
+  {
+    "page": "海洋残骸",
+    "infobox_index": 1,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "试金石",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|石头}}×2，{{item/pic|大理石}}×2，{{item/pic|噩梦燃料}}×1",
+    "drop_param_current": "{{item/pic|石头}}×2，{{item/pic|大理石}}×2，{{item/pic|噩梦燃料}}×1"
+  },
+  {
+    "page": "猪火炬",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|粪肥}}x1，{{item/pic|木头}}x3",
+    "drop_param_current": "{{item/pic|粪肥}}x1，{{item/pic|木头}}x3"
+  },
+  {
+    "page": "大触手",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|石头}}×1<br>{{item/pic|触手尖刺}}×1（50%）<br>{{item/pic|触手皮}}×1（40%）<br>{{item/pic|沼泽地皮}}×1（25%）",
+    "drop_param_current": "{{item/pic|石头}}×1<br>{{item/pic|触手尖刺}}×1（50%）<br>{{item/pic|触手皮}}×1（40%）<br>{{item/pic|沼泽地皮}}×1（25%）"
+  },
+  {
+    "page": "桦栗果精",
+    "infobox_index": 1,
+    "drop_param_original": "二选一：<br>{{Item/pic|树枝}}（60%）<br>{{Item/pic|桦栗果}}（40%）",
+    "drop_param_current": "二选一：<br>{{Item/pic|树枝}}（60%）<br>{{Item/pic|桦栗果}}（40%）"
+  },
+  {
+    "page": "梦魇疯猪",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|纯粹恐惧}}×4~5，{{item/pic|噩梦燃料}}×0~1，<br>{{item/pic|绝望石盔甲}}的{{item/pic|稀有蓝图}}<br>{{item/pic|绝望石头盔}}的{{item/pic|稀有蓝图}}<br>{{item/pic|绝望石墙}}的{{item/pic|稀有蓝图}}<br>{{item/pic|梦魇疯猪雕塑}}的{{item/pic|草图}}<hr style=\"border-top:2px solid #634931;margin:4px 0\">如果摧毁了三根[[开裂的柱子]]，额外掉落：<br>{{item/pic|绝望石支柱脚手架}}的{{item/pic|稀有蓝图}}",
+    "drop_param_current": "{{item/pic|纯粹恐惧}}×4~5，{{item/pic|噩梦燃料}}×0~1，<br>{{item/pic|绝望石盔甲}}的{{item/pic|稀有蓝图}}<br>{{item/pic|绝望石头盔}}的{{item/pic|稀有蓝图}}<br>{{item/pic|绝望石墙}}的{{item/pic|稀有蓝图}}<br>{{item/pic|梦魇疯猪雕塑}}的{{item/pic|草图}}<hr style=\"border-top:2px solid #634931;margin:4px 0\">如果摧毁了三根[[开裂的柱子]]，额外掉落：<br>{{item/pic|绝望石支柱脚手架}}的{{item/pic|稀有蓝图}}"
+  },
+  {
+    "page": "开裂的柱子",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|大理石}}×3（挖掘）<br>{{item/pic|绝望石}}×3 ~ 4 {{item/pic|大理石}}50%（摧毁）",
+    "drop_param_current": "{{item/pic|大理石}}×3（挖掘）<br>{{item/pic|绝望石}}×3 ~ 4 {{item/pic|大理石}}50%（摧毁）"
+  },
+  {
+    "page": "蜂窝",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|蜜脾}}×1，{{item/pic|蜂蜜}}×3",
+    "drop_param_current": "{{item/pic|蜜脾}}×1，{{item/pic|蜂蜜}}×3"
+  },
+  {
+    "page": "蜂窝",
+    "infobox_index": 9,
+    "drop_param_original": "{{item/pic|蜜脾}}×1，{{item/pic|蜂蜜}}×3",
+    "drop_param_current": "{{item/pic|蜜脾}}×1，{{item/pic|蜂蜜}}×3"
+  },
+  {
+    "page": "致命亮茄",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|亮茄外壳}}×2，{{item/pic|叶肉}}×2",
+    "drop_param_current": "{{item/pic|亮茄外壳}}×2，{{item/pic|叶肉}}×2"
+  },
+  {
+    "page": "裂隙晶体",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|纯粹辉煌}}×1~2",
+    "drop_param_current": "{{item/pic|纯粹辉煌}}×1~2"
+  },
+  {
+    "page": "寄生暗影",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|噩梦燃料}}×1",
+    "drop_param_current": "{{item/pic|噩梦燃料}}×1"
+  },
+  {
+    "page": "椰子",
+    "infobox_index": 9,
+    "drop_param_original": "{{DSPic|32|树枝}}×1",
+    "drop_param_current": "{{DSPic|32|树枝}}×1"
+  },
+  {
+    "page": "石果灌木丛",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|石果}}，[[文件:Stone Fruit Bush.png|32px]]（{{item/pic|铲子}}），{{item/pic|树枝}}x2（{{item/pic|铲子}}，枯萎）",
+    "drop_param_current": "{{item/pic|石果}}，[[文件:Stone Fruit Bush.png|32px]]（{{item/pic|铲子}}），{{item/pic|树枝}}x2（{{item/pic|铲子}}，枯萎）"
+  },
+  {
+    "page": "墨荒（三人组）",
+    "infobox_index": 3,
+    "drop_param_original": "{{item/pic|暗影碎布}}×3，{{item/pic|纯粹恐惧}}×1，{{item/pic|噩梦燃料}}×2<br/>{{item/pic|暗影碎布}}×1（33%）<br/>{{item/pic|纯粹恐惧}}×1（50%）<br/>{{item/pic|噩梦燃料}}×1（67%）",
+    "drop_param_current": "{{item/pic|暗影碎布}}×3，{{item/pic|纯粹恐惧}}×1，{{item/pic|噩梦燃料}}×2<br/>{{item/pic|暗影碎布}}×1（33%）<br/>{{item/pic|纯粹恐惧}}×1（50%）<br/>{{item/pic|噩梦燃料}}×1（67%）"
+  },
+  {
+    "page": "墨荒（三人组）",
+    "infobox_index": 15,
+    "drop_param_original": "{{item/pic|暗影碎布}}×3，{{item/pic|纯粹恐惧}}×1，{{item/pic|噩梦燃料}}×2<br/>{{item/pic|暗影碎布}}×1（33%）<br/>{{item/pic|纯粹恐惧}}×1（50%）<br/>{{item/pic|噩梦燃料}}×1（67%）",
+    "drop_param_current": "{{item/pic|暗影碎布}}×3，{{item/pic|纯粹恐惧}}×1，{{item/pic|噩梦燃料}}×2<br/>{{item/pic|暗影碎布}}×1（33%）<br/>{{item/pic|纯粹恐惧}}×1（50%）<br/>{{item/pic|噩梦燃料}}×1（67%）"
+  },
+  {
+    "page": "墨荒（三人组）",
+    "infobox_index": 27,
+    "drop_param_original": "{{item/pic|暗影碎布}}×2，{{item/pic|纯粹恐惧}}×2，{{item/pic|噩梦燃料}}×1<br/>{{item/pic|暗影碎布}}×1（67%）<br/>{{item/pic|纯粹恐惧}}×1（33%）<br/>{{item/pic|噩梦燃料}}×1（67%）",
+    "drop_param_current": "{{item/pic|暗影碎布}}×2，{{item/pic|纯粹恐惧}}×2，{{item/pic|噩梦燃料}}×1<br/>{{item/pic|暗影碎布}}×1（67%）<br/>{{item/pic|纯粹恐惧}}×1（33%）<br/>{{item/pic|噩梦燃料}}×1（67%）"
+  },
+  {
+    "page": "熔合暗影",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|纯粹恐惧}}×2<br/>{{item/pic|纯粹恐惧}}×1（75%）<br/>{{item/pic|纯粹恐惧}}×1（50%）",
+    "drop_param_current": "{{item/pic|纯粹恐惧}}×2<br/>{{item/pic|纯粹恐惧}}×1（75%）<br/>{{item/pic|纯粹恐惧}}×1（50%）"
+  },
+  {
+    "page": "完全正常的树",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|活木头}}×2<br>{{item/pic|清洁扫把}}×1（25%）",
+    "drop_param_current": "{{item/pic|活木头}}×2<br>{{item/pic|清洁扫把}}×1（25%）"
+  },
+  {
+    "page": "完全正常的树",
+    "infobox_index": 12,
+    "drop_param_original": "{{item/pic|活木头}}×2",
+    "drop_param_current": "{{item/pic|活木头}}×2"
+  },
+  {
+    "page": "蔷薇狼",
+    "infobox_index": 0,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "池塘",
+    "infobox_index": 6,
+    "drop_param_original": "{{item/pic|硝石}}×2-4",
+    "drop_param_current": "{{item/pic|硝石}}×2-4"
+  },
+  {
+    "page": "巨大蜂窝",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|蜂蜜}}{{item/pic|蜜脾}}",
+    "drop_param_current": "{{item/pic|蜂蜜}}{{item/pic|蜜脾}}"
+  },
+  {
+    "page": "损坏的发条装置",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|烂电线}}{{item/pic|齿轮}}{{item/pic|熔化的弹珠}}{{item/pic|红宝石}}{{item/pic|紫宝石}}{{item/pic|橙宝石}}{{item/pic|黄宝石}}{{item/pic|绿宝石}}（详见正文）",
+    "drop_param_current": "{{item/pic|烂电线}}{{item/pic|齿轮}}{{item/pic|熔化的弹珠}}{{item/pic|红宝石}}{{item/pic|紫宝石}}{{item/pic|橙宝石}}{{item/pic|黄宝石}}{{item/pic|绿宝石}}（详见正文）"
+  },
+  {
+    "page": "远古守护者/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|肉}}×8，{{DSPic|32|守护者之角}}×1",
+    "drop_param_current": "{{DSPic|32|肉}}×8，{{DSPic|32|守护者之角}}×1"
+  },
+  {
+    "page": "穴居悬蛛/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|Monster Meat}}50%<br>{{DSPic|32|Silk}}25%<br>{{DSPic|32|Spider Gland}}25%",
+    "drop_param_current": "{{DSPic|32|Monster Meat}}50%<br>{{DSPic|32|Silk}}25%<br>{{DSPic|32|Spider Gland}}25%"
+  },
+  {
+    "page": "蜘蛛/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "三选一：<br>{{DSPic|32|怪物肉}}（50%）<br>{{DSPic|32|蜘蛛丝}}（25%）<br>{{DSPic|32|蜘蛛腺}}（25%）",
+    "drop_param_current": "三选一：<br>{{DSPic|32|怪物肉}}（50%）<br>{{DSPic|32|蜘蛛丝}}（25%）<br>{{DSPic|32|蜘蛛腺}}（25%）"
+  },
+  {
+    "page": "蜘蛛战士/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "蜘蛛女王/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×4<br>{{DSPic|32|蜘蛛丝}}×4<br>{{DSPic|32|蜘蛛卵}}×1<br>{{DSPic|32|蜘蛛帽}}×1",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×4<br>{{DSPic|32|蜘蛛丝}}×4<br>{{DSPic|32|蜘蛛卵}}×1<br>{{DSPic|32|蜘蛛帽}}×1"
+  },
+  {
+    "page": "洞穴蜘蛛/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "三选一：<br>{{DSPic|32|怪物肉}}（50%）<br>{{DSPic|32|蜘蛛丝}}（25%） <br>{{DSPic|32|蜘蛛腺}}（25%）",
+    "drop_param_current": "三选一：<br>{{DSPic|32|怪物肉}}（50%）<br>{{DSPic|32|蜘蛛丝}}（25%） <br>{{DSPic|32|蜘蛛腺}}（25%）"
+  },
+  {
+    "page": "喷吐蜘蛛/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "三选一：<br>{{DSPic|32|怪物肉}}（50%）<br>{{DSPic|32|蜘蛛丝}}（25%）<br>{{DSPic|32|蜘蛛腺}}（25%）",
+    "drop_param_current": "三选一：<br>{{DSPic|32|怪物肉}}（50%）<br>{{DSPic|32|蜘蛛丝}}（25%）<br>{{DSPic|32|蜘蛛腺}}（25%）"
+  },
+  {
+    "page": "水母",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|死水母}}",
+    "drop_param_current": "{{DSPic|32|死水母}}"
+  },
+  {
+    "page": "彩虹水母",
+    "infobox_index": 1,
+    "drop_param_original": "[[File:Dead_Rainbow_Jellyfish.png|24px|link=死彩虹水母]]",
+    "drop_param_current": "[[File:Dead_Rainbow_Jellyfish.png|24px|link=死彩虹水母]]"
+  },
+  {
+    "page": "瓶鼻海豚",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|背鳍}}×1，{{DSPic|32|小鱼块}}×2<br>{{DSPic|32|空瓶子}} ×1（50％）",
+    "drop_param_current": "{{DSPic|32|背鳍}}×1，{{DSPic|32|小鱼块}}×2<br>{{DSPic|32|空瓶子}} ×1（50％）"
+  },
+  {
+    "page": "风滚草",
+    "infobox_index": 1,
+    "drop_param_original": "见下表",
+    "drop_param_current": "见下表"
+  },
+  {
+    "page": "晶体独眼巨鹿",
+    "infobox_index": 0,
+    "drop_param_original": "[[File:Rot.png|32px|腐烂物]]×3~4<br>{{item/pic|纯粹辉煌}}×1~2<br>{{item/pic|冰}}×1~2<br>{{item/pic|晶体独眼巨鹿雕塑}}的{{Item/pic|晶体独眼巨鹿雕塑草图}}{{hr}}完成[[瓦格斯塔夫的战争瓦器人任务]]后额外掉落：<br>{{item/pic|id=coolant}}×1",
+    "drop_param_current": "[[File:Rot.png|32px|腐烂物]]×3~4<br>{{item/pic|纯粹辉煌}}×1~2<br>{{item/pic|冰}}×1~2<br>{{item/pic|晶体独眼巨鹿雕塑}}的{{Item/pic|晶体独眼巨鹿雕塑草图}}{{hr}}完成[[瓦格斯塔夫的战争瓦器人任务]]后额外掉落：<br>{{item/pic|id=coolant}}×1"
+  },
+  {
+    "page": "装甲熊獾",
+    "infobox_index": 0,
+    "drop_param_original": "[[File:Rot.png|32px|腐烂物]]×3~4<br>{{item/pic|纯粹辉煌}}×1~2<br>{{item/pic|装甲熊獾雕塑}}的{{item/pic|草图}}{{hr}}完成[[瓦格斯塔夫的战争瓦器人任务]]后额外掉落：<br>{{item/pic|id=coolant}}×1",
+    "drop_param_current": "[[File:Rot.png|32px|腐烂物]]×3~4<br>{{item/pic|纯粹辉煌}}×1~2<br>{{item/pic|装甲熊獾雕塑}}的{{item/pic|草图}}{{hr}}完成[[瓦格斯塔夫的战争瓦器人任务]]后额外掉落：<br>{{item/pic|id=coolant}}×1"
+  },
+  {
+    "page": "附身座狼",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|腐烂物}}×2，{{item/pic|纯粹辉煌}}×1，{{item/pic|月亮碎片}}×3<br>{{item/pic|腐烂物}}×1（50%）<br>{{item/pic|纯粹辉煌}}×1（75%）<br>{{item/pic|月亮碎片}}×2（每个75%）<br>{{item/pic|月亮碎片}}×1（25%）<br>{{item/pic|附身座狼雕塑}}的{{item/pic|草图}}{{hr}}完成[[瓦格斯塔夫的战争瓦器人任务]]后额外掉落：<br>{{item/pic|核化液}}×1",
+    "drop_param_current": "{{item/pic|腐烂物}}×2，{{item/pic|纯粹辉煌}}×1，{{item/pic|月亮碎片}}×3<br>{{item/pic|腐烂物}}×1（50%）<br>{{item/pic|纯粹辉煌}}×1（75%）<br>{{item/pic|月亮碎片}}×2（每个75%）<br>{{item/pic|月亮碎片}}×1（25%）<br>{{item/pic|附身座狼雕塑}}的{{item/pic|草图}}{{hr}}完成[[瓦格斯塔夫的战争瓦器人任务]]后额外掉落：<br>{{item/pic|核化液}}×1"
+  },
+  {
+    "page": "草筏",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|采下的草}}×6",
+    "drop_param_current": "{{item/pic|采下的草}}×6"
+  },
+  {
+    "page": "被丢弃的垃圾",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|废料}}×1<br>{{item/pic|废料}}×1（75%）<br>{{item/pic|石砖}}×1（75%）<br>{{item/pic|电子元件}}×1（10%）<br>{{item/pic|烂电线}}×1（15%）<br>{{item/pic|二手假牙}}×1（1%）<br>{{item/pic|W.A.R.B.I.S.头戴齿轮}}/{{item/pic|自动修理机}}/{{item/pic|W.A.R.B.I.S.盔甲}}/{{item/pic|弹性空间制造器}}的{{item/pic|稀有蓝图}}×1（40%）",
+    "drop_param_current": "{{item/pic|废料}}×1<br>{{item/pic|废料}}×1（75%）<br>{{item/pic|石砖}}×1（75%）<br>{{item/pic|电子元件}}×1（10%）<br>{{item/pic|烂电线}}×1（15%）<br>{{item/pic|二手假牙}}×1（1%）<br>{{item/pic|W.A.R.B.I.S.头戴齿轮}}/{{item/pic|自动修理机}}/{{item/pic|W.A.R.B.I.S.盔甲}}/{{item/pic|弹性空间制造器}}的{{item/pic|稀有蓝图}}×1（40%）"
+  },
+  {
+    "page": "明眼青蛙",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|蛙腿}}×1<br>{{item/pic|蛙腿}}×1（50%）",
+    "drop_param_current": "{{item/pic|蛙腿}}×1<br>{{item/pic|蛙腿}}×1（50%）"
+  },
+  {
+    "page": "黏土座狼",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|红包}}×4，{{item/pic|犬牙}}×1<br> {{item/pic|红包}}×1（50%）<br> {{item/pic|红包}}×1（50%）<br> {{item/pic|犬牙}}×1（66%）<br> {{item/pic|犬牙}}×1（33%）{{hr}}每个红包掉落：<br>{{待补充}}",
+    "drop_param_current": "{{item/pic|红包}}×4，{{item/pic|犬牙}}×1<br> {{item/pic|红包}}×1（50%）<br> {{item/pic|红包}}×1（50%）<br> {{item/pic|犬牙}}×1（66%）<br> {{item/pic|犬牙}}×1（33%）{{hr}}每个红包掉落：<br>{{待补充}}"
+  },
+  {
+    "page": "姜饼座狼",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|节日欢愉}}×5，{{item/pic|饼干屑}}×2，{{item/pic|犬牙}}×1<br>{{item/pic|节日欢愉}}×1（66%）<br>{{item/pic|节日欢愉}}×1（33%）<br>{{item/pic|饼干屑}}×1（50%）<br>{{item/pic|饼干屑}}×1（50%）<br>{{item/pic|犬牙}}×1（66%）<br>{{item/pic|犬牙}}×1（33%）",
+    "drop_param_current": "{{item/pic|节日欢愉}}×5，{{item/pic|饼干屑}}×2，{{item/pic|犬牙}}×1<br>{{item/pic|节日欢愉}}×1（66%）<br>{{item/pic|节日欢愉}}×1（33%）<br>{{item/pic|饼干屑}}×1（50%）<br>{{item/pic|饼干屑}}×1（50%）<br>{{item/pic|犬牙}}×1（66%）<br>{{item/pic|犬牙}}×1（33%）"
+  },
+  {
+    "page": "猎犬丘",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|犬牙}}×3，{{item/pic|骨头碎片}}×2<br>{{item/pic|红宝石}}×1（1%）<br>{{item/pic|蓝宝石}}×1（1%）",
+    "drop_param_current": "{{item/pic|犬牙}}×3，{{item/pic|骨头碎片}}×2<br>{{item/pic|红宝石}}×1（1%）<br>{{item/pic|蓝宝石}}×1（1%）"
+  },
+  {
+    "page": "休憩恐惧",
+    "infobox_index": 0,
+    "drop_param_original": "'''<small>默认：</small>'''<br>{{item/pic|噩梦燃料}}×1<br>{{item/pic|仿制遗物椅子}}的{{item/pic|稀有蓝图}}{{hr}}'''<small>裂隙：</small>'''<br>{{item/pic|纯粹恐惧}}×1<br>{{item/pic|仿制遗物椅子}}的{{item/pic|稀有蓝图}}",
+    "drop_param_current": "'''<small>默认：</small>'''<br>{{item/pic|噩梦燃料}}×1<br>{{item/pic|仿制遗物椅子}}的{{item/pic|稀有蓝图}}{{hr}}'''<small>裂隙：</small>'''<br>{{item/pic|纯粹恐惧}}×1<br>{{item/pic|仿制遗物椅子}}的{{item/pic|稀有蓝图}}"
+  },
+  {
+    "page": "鹿角",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|骨头碎片}}",
+    "drop_param_current": "{{item/pic|骨头碎片}}"
+  },
+  {
+    "page": "大触手/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{待补充|不要复制联机版}}",
+    "drop_param_current": "{{待补充|不要复制联机版}}"
+  },
+  {
+    "page": "迷你冰川",
+    "infobox_index": 1,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "农田杂物",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|树枝}}(10%)，{{item/pic|石头}}(6.25%)，{{item/pic|燧石}}(5%)，{{item/pic|硝石}}(2.5%)，{{item/pic|金块}}(1.25%)",
+    "drop_param_current": "{{item/pic|树枝}}(10%)，{{item/pic|石头}}(6.25%)，{{item/pic|燧石}}(5%)，{{item/pic|硝石}}(2.5%)，{{item/pic|金块}}(1.25%)"
+  },
+  {
+    "page": "草",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|草丛}}",
+    "drop_param_current": "{{item/pic|草丛}}"
+  },
+  {
+    "page": "船碎片",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|木板}}×1",
+    "drop_param_current": "{{item/pic|木板}}×1"
+  },
+  {
+    "page": "损坏的机器",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|废料}}85%<br/>{{item/pic|齿轮}}25%<br/>{{item/pic|烂电线}}25%",
+    "drop_param_current": "{{item/pic|废料}}85%<br/>{{item/pic|齿轮}}25%<br/>{{item/pic|烂电线}}25%"
+  },
+  {
+    "page": "常青树",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|木头}}{{item/pic|松果}}",
+    "drop_param_current": "{{item/pic|木头}}{{item/pic|松果}}"
+  },
+  {
+    "page": "常青树",
+    "infobox_index": 11,
+    "drop_param_original": "{{item/pic|树枝}}",
+    "drop_param_current": "{{item/pic|树枝}}"
+  },
+  {
+    "page": "常青树",
+    "infobox_index": 16,
+    "drop_param_original": "{{item/pic|木头}}",
+    "drop_param_current": "{{item/pic|木头}}"
+  },
+  {
+    "page": "常青树",
+    "infobox_index": 23,
+    "drop_param_original": "{{item/pic|树枝}}",
+    "drop_param_current": "{{item/pic|树枝}}"
+  },
+  {
+    "page": "桦栗树",
+    "infobox_index": 1,
+    "drop_param_original": "{{Item/pic|木头}}×1 ~ 3，{{Item/pic|桦栗果}}×0 ~ 2<br>\n（详见正文）",
+    "drop_param_current": "{{Item/pic|木头}}×1 ~ 3，{{Item/pic|桦栗果}}×0 ~ 2<br>\n（详见正文）"
+  },
+  {
+    "page": "桦栗树",
+    "infobox_index": 13,
+    "drop_param_original": "{{item/pic|树枝}}（{{item/pic|铲子}}）",
+    "drop_param_current": "{{item/pic|树枝}}（{{item/pic|铲子}}）"
+  },
+  {
+    "page": "桦栗树",
+    "infobox_index": 20,
+    "drop_param_original": "{{item/pic|桦栗果}}×3，{{item/pic|活木头}}×1<br>\n{{item/pic|活木头}}×1（{{item/pic|铲子}}）<br>\n{{item/pic|活木头}}×1（20%）<br>{{item/pic|噩梦燃料}}×1（20%）",
+    "drop_param_current": "{{item/pic|桦栗果}}×3，{{item/pic|活木头}}×1<br>\n{{item/pic|活木头}}×1（{{item/pic|铲子}}）<br>\n{{item/pic|活木头}}×1（20%）<br>{{item/pic|噩梦燃料}}×1（20%）"
+  },
+  {
+    "page": "大霜鲨",
+    "infobox_index": 33,
+    "drop_param_original": "{{item/pic|冰}}",
+    "drop_param_current": "{{item/pic|冰}}"
+  },
+  {
+    "page": "树苗",
+    "infobox_index": 2,
+    "drop_param_original": "[[File:Sapling Item.png|32px]]<br>{{item/pic|树枝}}（枯萎）",
+    "drop_param_current": "[[File:Sapling Item.png|32px]]<br>{{item/pic|树枝}}（枯萎）"
+  },
+  {
+    "page": "树苗",
+    "infobox_index": 18,
+    "drop_param_original": "[[File:Sapling (Moon).png|32px]]<br>[[File:Twigs.png|32px|树枝]]（枯萎）",
+    "drop_param_current": "[[File:Sapling (Moon).png|32px]]<br>[[File:Twigs.png|32px|树枝]]（枯萎）"
+  },
+  {
+    "page": "贝壳堆",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|低音贝壳钟}}*1.5，{{item/pic|中音贝壳钟}}*1.5，{{item/pic|高音贝壳钟}}*1.5",
+    "drop_param_current": "{{item/pic|低音贝壳钟}}*1.5，{{item/pic|中音贝壳钟}}*1.5，{{item/pic|高音贝壳钟}}*1.5"
+  },
+  {
+    "page": "海蚀柱",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|石头}}×4",
+    "drop_param_current": "{{item/pic|石头}}×4"
+  },
+  {
+    "page": "穴居猴桶",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|粪肥}}*2，{{item/pic|香蕉}}*2，{{item/pic|地精爷爷}} (1%)，{{item/pic|地精奶奶}} (1%)",
+    "drop_param_current": "{{item/pic|粪肥}}*2，{{item/pic|香蕉}}*2，{{item/pic|地精爷爷}} (1%)，{{item/pic|地精奶奶}} (1%)"
+  },
+  {
+    "page": "蘑菇树",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|木头}}，{{item/pic|采摘的红蘑菇}}",
+    "drop_param_current": "{{item/pic|木头}}，{{item/pic|采摘的红蘑菇}}"
+  },
+  {
+    "page": "蘑菇树",
+    "infobox_index": 6,
+    "drop_param_original": "{{item/pic|木头}}，{{item/pic|采摘的绿蘑菇}}",
+    "drop_param_current": "{{item/pic|木头}}，{{item/pic|采摘的绿蘑菇}}"
+  },
+  {
+    "page": "蘑菇树",
+    "infobox_index": 10,
+    "drop_param_original": "{{item/pic|木头}}，{{item/pic|采摘的蓝蘑菇}}",
+    "drop_param_current": "{{item/pic|木头}}，{{item/pic|采摘的蓝蘑菇}}"
+  },
+  {
+    "page": "蘑菇树",
+    "infobox_index": 23,
+    "drop_param_original": "{{item/pic|木头}}，{{item/pic|蜘蛛丝}}*1~3",
+    "drop_param_current": "{{item/pic|木头}}，{{item/pic|蜘蛛丝}}*1~3"
+  },
+  {
+    "page": "蘑菇树",
+    "infobox_index": 30,
+    "drop_param_original": "{{item/pic|木头}}*2，{{item/pic|月亮蘑菇}}*1",
+    "drop_param_current": "{{item/pic|木头}}*2，{{item/pic|月亮蘑菇}}*1"
+  },
+  {
+    "page": "起皱的包裹",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|熔化的弹珠}}{{item/pic|戈尔迪之结}}{{item/pic|硬化橡胶塞}}{{item/pic|不搭的纽扣}}{{item/pic|土豆杯}}{{item/pic|红眼冠}}{{item/pic|沙滩玩具}}{{item/pic|蓝图}}{{item/pic|稀有蓝图}}",
+    "drop_param_current": "{{item/pic|熔化的弹珠}}{{item/pic|戈尔迪之结}}{{item/pic|硬化橡胶塞}}{{item/pic|不搭的纽扣}}{{item/pic|土豆杯}}{{item/pic|红眼冠}}{{item/pic|沙滩玩具}}{{item/pic|蓝图}}{{item/pic|稀有蓝图}}"
+  },
+  {
+    "page": "洞穴香蕉树",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|木头}}×2，{{item/pic|树枝}}×1",
+    "drop_param_current": "{{item/pic|木头}}×2，{{item/pic|树枝}}×1"
+  },
+  {
+    "page": "多枝树",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|树枝}}{{item/pic|木头}}{{item/pic|多枝树种}}",
+    "drop_param_current": "{{item/pic|树枝}}{{item/pic|木头}}{{item/pic|多枝树种}}"
+  },
+  {
+    "page": "多枝树",
+    "infobox_index": 16,
+    "drop_param_original": "{{item/pic|树枝}}",
+    "drop_param_current": "{{item/pic|树枝}}"
+  },
+  {
+    "page": "棕榈松果树",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|树枝}}{{item/pic|木头}}{{item/pic|棕榈松果树芽}}",
+    "drop_param_current": "{{item/pic|树枝}}{{item/pic|木头}}{{item/pic|棕榈松果树芽}}"
+  },
+  {
+    "page": "棕榈松果树",
+    "infobox_index": 14,
+    "drop_param_original": "{{item/pic|树枝}}（{{item/pic|铲子}}）",
+    "drop_param_current": "{{item/pic|树枝}}（{{item/pic|铲子}}）"
+  },
+  {
+    "page": "尖刺灌木",
+    "infobox_index": 2,
+    "drop_param_original": "[[File:Spiky Bush.png|32px]]",
+    "drop_param_current": "[[File:Spiky Bush.png|32px]]"
+  },
+  {
+    "page": "月树",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|木头}}{{item/pic|月树花}}{{item/pic|月蛾}}（详见正文）",
+    "drop_param_current": "{{item/pic|木头}}{{item/pic|月树花}}{{item/pic|月蛾}}（详见正文）"
+  },
+  {
+    "page": "月树",
+    "infobox_index": 10,
+    "drop_param_original": "{{item/pic|树枝}}",
+    "drop_param_current": "{{item/pic|树枝}}"
+  },
+  {
+    "page": "鸦年华树",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|鸦年华树苗}}×1",
+    "drop_param_current": "{{item/pic|鸦年华树苗}}×1"
+  },
+  {
+    "page": "大理石灌木",
+    "infobox_index": 0,
+    "drop_param_original": "矮小：<br>\n{{item/pic|大理石}}×1\n{{hr}}\n中等：<br>\n{{item/pic|大理石}}×1<br>\n{{item/pic|大理石豌豆}}×1（25%）\n{{hr}}\n高大：<br>\n{{item/pic|大理石}}×1<br>\n二选一：<br>\n{{item/pic|大理石}}（50%）\n{{item/pic|大理石豌豆}}（50%）",
+    "drop_param_current": "矮小：<br>\n{{item/pic|大理石}}×1\n{{hr}}\n中等：<br>\n{{item/pic|大理石}}×1<br>\n{{item/pic|大理石豌豆}}×1（25%）\n{{hr}}\n高大：<br>\n{{item/pic|大理石}}×1<br>\n二选一：<br>\n{{item/pic|大理石}}（50%）\n{{item/pic|大理石豌豆}}（50%）"
+  },
+  {
+    "page": "大理石灌木",
+    "infobox_index": 13,
+    "drop_param_original": "{{item/pic|大理石豌豆}}",
+    "drop_param_current": "{{item/pic|大理石豌豆}}"
+  },
+  {
+    "page": "漏雨的小屋",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|木板}}×1，{{item/pic|石头}}×1，{{item/pic|淡水鱼}}×1",
+    "drop_param_current": "{{item/pic|木板}}×1，{{item/pic|石头}}×1，{{item/pic|淡水鱼}}×1"
+  },
+  {
+    "page": "岩石",
+    "infobox_index": 4,
+    "drop_param_original": "{{item/pic|石头}}×3，{{item/pic|燧石}}×1，{{item/pic|硝石}}×1<br>{{item/pic|燧石}}×1（60%）<br>{{item/pic|硝石}}×1（25%）",
+    "drop_param_current": "{{item/pic|石头}}×3，{{item/pic|燧石}}×1，{{item/pic|硝石}}×1<br>{{item/pic|燧石}}×1（60%）<br>{{item/pic|硝石}}×1（25%）"
+  },
+  {
+    "page": "岩石",
+    "infobox_index": 12,
+    "drop_param_original": "{{item/pic|石头}}×3，{{item/pic|燧石}}×1，{{item/pic|金块}}×1<br>{{item/pic|燧石}}×1（60%）<br>{{item/pic|金块}}×1（25%）",
+    "drop_param_current": "{{item/pic|石头}}×3，{{item/pic|燧石}}×1，{{item/pic|金块}}×1<br>{{item/pic|燧石}}×1（60%）<br>{{item/pic|金块}}×1（25%）"
+  },
+  {
+    "page": "岩石",
+    "infobox_index": 20,
+    "drop_param_original": "高形态：{{item/pic|石头}}×4<br>{{item/pic|石头}}×1（60%）{{hr}}中形态：{{item/pic|石头}}×3<br>{{item/pic|石头}}×1（40%）{{hr}}低形态：{{item/pic|石头}}×2<br>{{item/pic|石头}}×1（20%）",
+    "drop_param_current": "高形态：{{item/pic|石头}}×4<br>{{item/pic|石头}}×1（60%）{{hr}}中形态：{{item/pic|石头}}×3<br>{{item/pic|石头}}×1（40%）{{hr}}低形态：{{item/pic|石头}}×2<br>{{item/pic|石头}}×1（20%）"
+  },
+  {
+    "page": "岩石",
+    "infobox_index": 31,
+    "drop_param_original": "{{item/pic|石头}}×1，{{item/pic|燧石}}×1，{{item/pic|月岩}}×2<br>{{item/pic|月岩}}×1（60%）<br>{{item/pic|月岩}}×1（30%）",
+    "drop_param_current": "{{item/pic|石头}}×1，{{item/pic|燧石}}×1，{{item/pic|月岩}}×2<br>{{item/pic|月岩}}×1（60%）<br>{{item/pic|月岩}}×1（30%）"
+  },
+  {
+    "page": "岩石",
+    "infobox_index": 39,
+    "drop_param_original": "{{item/pic|天体宝球}}×1<!--严格来说不算掉落物-->，{{item/pic|石头}}×1，{{item/pic|燧石}}×1，{{item/pic|月岩}}×3<br>{{item/pic|月岩}}×1（30%）",
+    "drop_param_current": "{{item/pic|天体宝球}}×1<!--严格来说不算掉落物-->，{{item/pic|石头}}×1，{{item/pic|燧石}}×1，{{item/pic|月岩}}×3<br>{{item/pic|月岩}}×1（30%）"
+  },
+  {
+    "page": "岩石",
+    "infobox_index": 48,
+    "drop_param_original": "{{item/pic|石头}}×2<br>{{item/pic|石头}}×1（40%）<br>{{item/pic|燧石}}×1（10%）",
+    "drop_param_current": "{{item/pic|石头}}×2<br>{{item/pic|石头}}×1（40%）<br>{{item/pic|燧石}}×1（10%）"
+  },
+  {
+    "page": "浮木",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|浮木桩}}×2，{{item/pic|树枝}}×1",
+    "drop_param_current": "{{item/pic|浮木桩}}×2，{{item/pic|树枝}}×1"
+  },
+  {
+    "page": "浮木",
+    "infobox_index": 4,
+    "drop_param_original": "{{item/pic|浮木桩}}×2，{{item/pic|树枝}}×1",
+    "drop_param_current": "{{item/pic|浮木桩}}×2，{{item/pic|树枝}}×1"
+  },
+  {
+    "page": "浮木",
+    "infobox_index": 7,
+    "drop_param_original": "{{item/pic|浮木桩}}×4，{{item/pic|树枝}}×2",
+    "drop_param_current": "{{item/pic|浮木桩}}×4，{{item/pic|树枝}}×2"
+  },
+  {
+    "page": "石笋",
+    "infobox_index": 4,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "石笋",
+    "infobox_index": 26,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "格罗姆雕像",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|大理石}}×3",
+    "drop_param_current": "{{item/pic|大理石}}×3"
+  },
+  {
+    "page": "拾荒疯猪",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|废料}}×4, {{item/pic|视界扩展器}}×1, {{item/pic|草图}}×1<br>{{item/pic|废料}}×1（50%）<br>{{item/pic|齿轮}}×1（50%）<br>二选一：<br>{{item/pic|自动修理机}}×1（未开启[[月亮裂隙循环]]）<br>{{item/pic|W.A.R.B.I.S.头戴齿轮}}/{{item/pic|自动修理机}}/{{item/pic|W.A.R.B.I.S.盔甲}}/{{item/pic|弹性空间制造器}}的{{item/pic|稀有蓝图}}×1（已开启[[月亮裂隙循环]]）",
+    "drop_param_current": "{{item/pic|废料}}×4, {{item/pic|视界扩展器}}×1, {{item/pic|草图}}×1<br>{{item/pic|废料}}×1（50%）<br>{{item/pic|齿轮}}×1（50%）<br>二选一：<br>{{item/pic|自动修理机}}×1（未开启[[月亮裂隙循环]]）<br>{{item/pic|W.A.R.B.I.S.头戴齿轮}}/{{item/pic|自动修理机}}/{{item/pic|W.A.R.B.I.S.盔甲}}/{{item/pic|弹性空间制造器}}的{{item/pic|稀有蓝图}}×1（已开启[[月亮裂隙循环]]）"
+  },
+  {
+    "page": "石虾/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|肉}}×1，{{DSPic|32|Rocks}}×2，{{DSPic|32|Flint}}×2",
+    "drop_param_current": "{{DSPic|32|肉}}×1，{{DSPic|32|Rocks}}×2，{{DSPic|32|Flint}}×2"
+  },
+  {
+    "page": "充能玻璃石",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|注能月亮碎片}}×2<br>{{item/pic|注能月亮碎片}}×1（25%）",
+    "drop_param_current": "{{item/pic|注能月亮碎片}}×2<br>{{item/pic|注能月亮碎片}}×1（25%）"
+  },
+  {
+    "page": "垃圾栅栏",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|树枝}}×1<br>{{item/pic|废料}}×1（25%）",
+    "drop_param_current": "{{item/pic|树枝}}×1<br>{{item/pic|废料}}×1（25%）"
+  },
+  {
+    "page": "海黾巢穴",
+    "infobox_index": 1,
+    "drop_param_original": "<small>固定掉落：</small><br>{{item/pic|蜘蛛丝}}×1<br>{{item/pic|树枝}}×1{{hr}}<small>概率掉落：</small><br>{{item/pic|蜘蛛丝}}（30%）×2",
+    "drop_param_current": "<small>固定掉落：</small><br>{{item/pic|蜘蛛丝}}×1<br>{{item/pic|树枝}}×1{{hr}}<small>概率掉落：</small><br>{{item/pic|蜘蛛丝}}（30%）×2"
+  },
+  {
+    "page": "海黾巢穴",
+    "infobox_index": 7,
+    "drop_param_original": "{{item/pic|灰烬}}×1，{{item/pic|木炭}}×1",
+    "drop_param_current": "{{item/pic|灰烬}}×1，{{item/pic|木炭}}×1"
+  },
+  {
+    "page": "剑鱼",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|死剑鱼}}",
+    "drop_param_current": "{{DSPic|32|死剑鱼}}"
+  },
+  {
+    "page": "姜饼猪",
+    "infobox_index": 0,
+    "drop_param_original": "[[file:Holiday Cheer.png|32px|link=节日欢愉]]×1、[[file:Cookie Crumbles.png|32px|link=饼干屑]]×3",
+    "drop_param_current": "[[file:Holiday Cheer.png|32px|link=节日欢愉]]×1、[[file:Cookie Crumbles.png|32px|link=饼干屑]]×3"
+  },
+  {
+    "page": "姜饼猪屋",
+    "infobox_index": 0,
+    "drop_param_original": "[[file:Holiday Cheer.png|32px]]×1.3、[[file:Cookie Crumbles.png|32px]]×5",
+    "drop_param_current": "[[file:Holiday Cheer.png|32px]]×1.3、[[file:Cookie Crumbles.png|32px]]×5"
+  },
+  {
+    "page": "黏土猎犬",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|红包}}×1（20%）{{待补充|内容物}}<br>{{item/pic|犬牙}}×1（10%）",
+    "drop_param_current": "{{item/pic|红包}}×1（20%）{{待补充|内容物}}<br>{{item/pic|犬牙}}×1（10%）"
+  },
+  {
+    "page": "鼹鼠丘",
+    "infobox_index": 2,
+    "drop_param_original": "四选一：<br>{{item/pic|石头}}（53.33%）<br>{{item/pic|燧石}}（20%）<br>{{item/pic|硝石}}（20%）<br>{{item/pic|金块}}（6.67%）",
+    "drop_param_current": "四选一：<br>{{item/pic|石头}}（53.33%）<br>{{item/pic|燧石}}（20%）<br>{{item/pic|硝石}}（20%）<br>{{item/pic|金块}}（6.67%）"
+  },
+  {
+    "page": "帝王蟹/前版本",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}×7，{{item/pic|藤壶}}×3 ~ 7，[[文件:Soprano_Shell_Bell.png|32px|link=贝壳钟#高音贝壳钟]]×4 ~ 6，[[文件:Alto_Shell_Bell.png|32px|link=贝壳钟#中音贝壳钟]]×3 ~ 5，[[文件:Baritone_Shell_Bell.png|32px|link=贝壳钟#低音贝壳钟]]×2 ~ 3<br>{{item/pic|刺耳三叉戟}}的[[文件:Blueprint (rare).png|32px|link=蓝图]]<br>[[文件:Crab King Figure (Marble).png|32px|link=雕塑#帝王蟹雕塑]]的{{item/pic|草图}}<br>嵌入的所有宝石{{hr}}<small>如果镶嵌了{{item/pic|珍珠的珍珠}}，额外掉落：</small>[[文件:Cracked Pearl.png|32px|link=珍珠的珍珠#开裂珍珠]]×1，{{item/pic|未激活天体贡品}}×1",
+    "drop_param_current": "{{item/pic|肉}}×7，{{item/pic|藤壶}}×3 ~ 7，[[文件:Soprano_Shell_Bell.png|32px|link=贝壳钟#高音贝壳钟]]×4 ~ 6，[[文件:Alto_Shell_Bell.png|32px|link=贝壳钟#中音贝壳钟]]×3 ~ 5，[[文件:Baritone_Shell_Bell.png|32px|link=贝壳钟#低音贝壳钟]]×2 ~ 3<br>{{item/pic|刺耳三叉戟}}的[[文件:Blueprint (rare).png|32px|link=蓝图]]<br>[[文件:Crab King Figure (Marble).png|32px|link=雕塑#帝王蟹雕塑]]的{{item/pic|草图}}<br>嵌入的所有宝石{{hr}}<small>如果镶嵌了{{item/pic|珍珠的珍珠}}，额外掉落：</small>[[文件:Cracked Pearl.png|32px|link=珍珠的珍珠#开裂珍珠]]×1，{{item/pic|未激活天体贡品}}×1"
+  },
+  {
+    "page": "帝王蟹/前版本",
+    "infobox_index": 25,
+    "drop_param_original": "{{item/pic|肉}}×1",
+    "drop_param_current": "{{item/pic|肉}}×1"
+  },
+  {
+    "page": "龙虾窝",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|石头}}x3-4<br/>{{item/pic|龙虾}}x2-3",
+    "drop_param_current": "{{item/pic|石头}}x3-4<br/>{{item/pic|龙虾}}x2-3"
+  },
+  {
+    "page": "大理石雕像",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|大理石}}{{item/pic|草图}}",
+    "drop_param_current": "{{item/pic|大理石}}{{item/pic|草图}}"
+  },
+  {
+    "page": "变质的鱼",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|腐烂物}}×1，{{item/pic|骨头碎片}}×1",
+    "drop_param_current": "{{item/pic|腐烂物}}×1，{{item/pic|骨头碎片}}×1"
+  },
+  {
+    "page": "变质的鱼",
+    "infobox_index": 13,
+    "drop_param_original": "二选一：<br>{{item/pic|腐烂物}}（50%）<br>{{item/pic|骨头碎片}}（50%）",
+    "drop_param_current": "二选一：<br>{{item/pic|腐烂物}}（50%）<br>{{item/pic|骨头碎片}}（50%）"
+  },
+  {
+    "page": "冰船",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|冰}}×3",
+    "drop_param_current": "{{item/pic|冰}}×3"
+  },
+  {
+    "page": "海盗单桅帆船",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|木板}}×3",
+    "drop_param_current": "{{item/pic|木板}}×3"
+  },
+  {
+    "page": "蜂窝/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|蜂巢}}×1、{{DSPic|32|蜂蜜}}×13",
+    "drop_param_current": "{{DSPic|32|蜂巢}}×1、{{DSPic|32|蜂蜜}}×13"
+  },
+  {
+    "page": "蜂窝/单机版",
+    "infobox_index": 11,
+    "drop_param_original": "{{DSPic|32|蜂巢}}×1、{{DSPic|32|蜂蜜}}×13",
+    "drop_param_current": "{{DSPic|32|蜂巢}}×1、{{DSPic|32|蜂蜜}}×13"
+  },
+  {
+    "page": "龙蝇/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "[[File:Meat.png|32px|link=肉]]×8，[[File:Scales.png|32px|link=鳞片]]×1",
+    "drop_param_current": "[[File:Meat.png|32px|link=肉]]×8，[[File:Scales.png|32px|link=鳞片]]×1"
+  },
+  {
+    "page": "水獭掠夺者",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|肉}}×1，{{item/pic|小肉}}×1<br>{{item/pic|瓶中信}}×1（5%）",
+    "drop_param_current": "{{item/pic|肉}}×1，{{item/pic|小肉}}×1<br>{{item/pic|瓶中信}}×1（5%）"
+  },
+  {
+    "page": "坎普斯/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|Monster Meat}}×1，{{DSPic|32|Charcoal}}×2<br>{{DSPic|32|Krampus Sack}}×1（1%）",
+    "drop_param_current": "{{DSPic|32|Monster Meat}}×1，{{DSPic|32|Charcoal}}×2<br>{{DSPic|32|Krampus Sack}}×1（1%）"
+  },
+  {
+    "page": "船",
+    "infobox_index": 4,
+    "drop_param_original": "{{item/pic|木板}}×3",
+    "drop_param_current": "{{item/pic|木板}}×3"
+  },
+  {
+    "page": "麦斯威尔雕像/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|大理石}}×2<br>{{DSPic|32|大理石}}×1（30%）",
+    "drop_param_current": "{{DSPic|32|大理石}}×2<br>{{DSPic|32|大理石}}×1（30%）"
+  },
+  {
+    "page": "兔人/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|肉}}×1，{{DSPic|32|胡萝卜}}×2，<br>{{DSPic|32|兔绒}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|肉}}×1，{{DSPic|32|胡萝卜}}×2，<br>{{DSPic|32|兔绒}}×1（25%）"
+  },
+  {
+    "page": "兔人/单机版",
+    "infobox_index": 8,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×1，{{DSPic|32|胡须}}×2",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×1，{{DSPic|32|胡须}}×2"
+  },
+  {
+    "page": "水獭掠夺者窝点",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|海带叶}}×6",
+    "drop_param_current": "{{item/pic|海带叶}}×6"
+  },
+  {
+    "page": "水獭掠夺者窝点",
+    "infobox_index": 3,
+    "drop_param_original": "{{item/pic|海带叶}}×2 + {{item/pic|海带叶}}（75%）<br>{{item/pic|海带补丁}}（75%）+ {{item/pic|海带补丁}}（50%）<br>{{item/pic|藤壶}}（50%） + {{item/pic|藤壶}}（25%）",
+    "drop_param_current": "{{item/pic|海带叶}}×2 + {{item/pic|海带叶}}（75%）<br>{{item/pic|海带补丁}}（75%）+ {{item/pic|海带补丁}}（50%）<br>{{item/pic|藤壶}}（50%） + {{item/pic|藤壶}}（25%）"
+  },
+  {
+    "page": "高脚鸟/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|肉}}×2",
+    "drop_param_current": "{{DSPic|32|肉}}×2"
+  },
+  {
+    "page": "高脚鸟/单机版",
+    "infobox_index": 16,
+    "drop_param_original": "{{DSPic|32|小肉}}",
+    "drop_param_current": "{{DSPic|32|小肉}}"
+  },
+  {
+    "page": "高脚鸟/单机版",
+    "infobox_index": 29,
+    "drop_param_original": "{{DSPic|32|肉}}",
+    "drop_param_current": "{{DSPic|32|肉}}"
+  },
+  {
+    "page": "发光飞虫",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|荧光果}}×1（10%）{{hr}}在物品栏中：<br>{{DSPic|32|Light_Bulb}}×1",
+    "drop_param_current": "{{DSPic|32|荧光果}}×1（10%）{{hr}}在物品栏中：<br>{{DSPic|32|Light_Bulb}}×1"
+  },
+  {
+    "page": "发光飞虫",
+    "infobox_index": 14,
+    "drop_param_original": "{{DSPic|32|Light_Bulb}}×1（10%）",
+    "drop_param_current": "{{DSPic|32|Light_Bulb}}×1（10%）"
+  },
+  {
+    "page": "蛞蝓龟/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|Slurtle Slime}}×2<br>二选一：<br>{{DSPic|32|Shelmet}}（10%）<br>{{DSPic|32|Broken Shell}}（90%）",
+    "drop_param_current": "{{DSPic|32|Slurtle Slime}}×2<br>二选一：<br>{{DSPic|32|Shelmet}}（10%）<br>{{DSPic|32|Broken Shell}}（90%）"
+  },
+  {
+    "page": "蛞蝓龟/单机版",
+    "infobox_index": 11,
+    "drop_param_original": "[[File:Slurtle Slime.png|32px|link=蛞蝓龟黏液]]×2<br>二选一：<br>{{item/pic|蜗壳护甲}}（75%）<br>{{item/pic|外壳碎片}}（25%）",
+    "drop_param_current": "[[File:Slurtle Slime.png|32px|link=蛞蝓龟黏液]]×2<br>二选一：<br>{{item/pic|蜗壳护甲}}（75%）<br>{{item/pic|外壳碎片}}（25%）"
+  },
+  {
+    "page": "穴居猴/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "[[File:Morsel.png|32px|link=小肉]]，[[File:Cave_Banana.png|32px|link=香蕉]]{{hr}}暗影穴居猴额外掉落：[[File:Nightmare Fuel.png|32px|link=噩梦燃料]]50%，[[File:Beard Hair.png|32px|link=胡须]]",
+    "drop_param_current": "[[File:Morsel.png|32px|link=小肉]]，[[File:Cave_Banana.png|32px|link=香蕉]]{{hr}}暗影穴居猴额外掉落：[[File:Nightmare Fuel.png|32px|link=噩梦燃料]]50%，[[File:Beard Hair.png|32px|link=胡须]]"
+  },
+  {
+    "page": "骷髅",
+    "infobox_index": 1,
+    "drop_param_original": "自然生成：<br>{{item/pic|骨头碎片}}×2，{{item/pic|丢失的图鉴页面}}（10%）{{hr}}由玩家死亡生成：<br>{{item/pic|骨头碎片}}×2",
+    "drop_param_current": "自然生成：<br>{{item/pic|骨头碎片}}×2，{{item/pic|丢失的图鉴页面}}（10%）{{hr}}由玩家死亡生成：<br>{{item/pic|骨头碎片}}×2"
+  },
+  {
+    "page": "骷髅",
+    "infobox_index": 12,
+    "drop_param_original": "{{item/pic|骨头碎片}}×2",
+    "drop_param_current": "{{item/pic|骨头碎片}}×2"
+  },
+  {
+    "page": "骷髅",
+    "infobox_index": 18,
+    "drop_param_original": "{{item/pic|骨头碎片}}×2，{{item/pic|灰烬}}×1~4",
+    "drop_param_current": "{{item/pic|骨头碎片}}×2，{{item/pic|灰烬}}×1~4"
+  },
+  {
+    "page": "骷髅",
+    "infobox_index": 26,
+    "drop_param_original": "{{item/pic|骨头碎片}}×2",
+    "drop_param_current": "{{item/pic|骨头碎片}}×2"
+  },
+  {
+    "page": "骷髅",
+    "infobox_index": 28,
+    "drop_param_original": "{{item/pic|骨头碎片}}×2",
+    "drop_param_current": "{{item/pic|骨头碎片}}×2"
+  },
+  {
+    "page": "考拉象/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|Koalefant_Trunk}}×1，{{DSPic|32|肉}}×8",
+    "drop_param_current": "{{DSPic|32|Koalefant_Trunk}}×1，{{DSPic|32|肉}}×8"
+  },
+  {
+    "page": "考拉象/单机版",
+    "infobox_index": 7,
+    "drop_param_original": "{{DSPic|32|Winter_Koalefant_Trunk}}×1，{{DSPic|32|肉}}×8",
+    "drop_param_current": "{{DSPic|32|Winter_Koalefant_Trunk}}×1，{{DSPic|32|肉}}×8"
+  },
+  {
+    "page": "暗影鱼人",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|噩梦燃料}}x1",
+    "drop_param_current": "{{item/pic|噩梦燃料}}x1"
+  },
+  {
+    "page": "暗影鱼人",
+    "infobox_index": 12,
+    "drop_param_original": "{{item/pic|噩梦燃料}}x1",
+    "drop_param_current": "{{item/pic|噩梦燃料}}x1"
+  },
+  {
+    "page": "蛇",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|Monster Meat}}×1（33%）<br>\n{{DSPic|32|Snakeskin}}×1（16%）<br>\n{{DSPic|32|Snake Oil}}×1（0.33%）",
+    "drop_param_current": "{{DSPic|32|Monster Meat}}×1（33%）<br>\n{{DSPic|32|Snakeskin}}×1（16%）<br>\n{{DSPic|32|Snake Oil}}×1（0.33%）"
+  },
+  {
+    "page": "蛇",
+    "infobox_index": 10,
+    "drop_param_original": "{{DSPic|32|Monster Meat}}×1（20%）<br>\n{{DSPic|32|Venom Gland}}×1（20%）<br>\n{{DSPic|32|Snakeskin}}×1（10%）<br>\n{{DSPic|32|Snake Oil}}×1（0.2%）",
+    "drop_param_current": "{{DSPic|32|Monster Meat}}×1（20%）<br>\n{{DSPic|32|Venom Gland}}×1（20%）<br>\n{{DSPic|32|Snakeskin}}×1（10%）<br>\n{{DSPic|32|Snake Oil}}×1（0.2%）"
+  },
+  {
+    "page": "猿猴",
+    "infobox_index": 0,
+    "drop_param_original": "二选一：<br>{{DSPic|32|Morsel}}×1（50%）<br>{{DSPic|32|香蕉}}×1（50%）{{hr}}未解锁[[威尔伯]]时，且世界不存在失去光泽的王冠时：<br>{{DSPic|32|失去光泽的王冠}}×1（10%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|Morsel}}×1（50%）<br>{{DSPic|32|香蕉}}×1（50%）{{hr}}未解锁[[威尔伯]]时，且世界不存在失去光泽的王冠时：<br>{{DSPic|32|失去光泽的王冠}}×1（10%）"
+  },
+  {
+    "page": "蟹卫",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|肉}}×1.25，{{item/pic|石头}}×1.25，{{item/pic|燧石}}×0~2",
+    "drop_param_current": "{{item/pic|肉}}×1.25，{{item/pic|石头}}×1.25，{{item/pic|燧石}}×0~2"
+  },
+  {
+    "page": "蟹卫",
+    "infobox_index": 16,
+    "drop_param_original": "{{item/pic|肉}}×1~3、{{item/pic|石头}}×1~3、{{item/pic|燧石}}×1~2",
+    "drop_param_current": "{{item/pic|肉}}×1~3、{{item/pic|石头}}×1~3、{{item/pic|燧石}}×1~2"
+  },
+  {
+    "page": "古董船",
+    "infobox_index": 3,
+    "drop_param_original": "{{item/pic|木板}}×3",
+    "drop_param_current": "{{item/pic|木板}}×3"
+  },
+  {
+    "page": "阴郁之棘",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|树枝}}×1，{{item/pic|木头}}×5<br>{{item/pic|树枝}}×1（50%）<br>{{item/pic|木头}}×1（50%）<br>{{item/pic|惊喜种子}}×1",
+    "drop_param_current": "{{item/pic|树枝}}×1，{{item/pic|木头}}×5<br>{{item/pic|树枝}}×1（50%）<br>{{item/pic|木头}}×1（50%）<br>{{item/pic|惊喜种子}}×1"
+  },
+  {
+    "page": "萌芽石",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|石头}}×3，{{item/pic|燧石}}×1，{{item/pic|木炭}}×1<br>{{item/pic|石头}}×1（50%）<br>{{item/pic|燧石}}×1（50%）<br>{{item/pic|木炭}}×1（50%）<br>{{item/pic|惊喜种子}}×1",
+    "drop_param_current": "{{item/pic|石头}}×3，{{item/pic|燧石}}×1，{{item/pic|木炭}}×1<br>{{item/pic|石头}}×1（50%）<br>{{item/pic|燧石}}×1（50%）<br>{{item/pic|木炭}}×1（50%）<br>{{item/pic|惊喜种子}}×1"
+  },
+  {
+    "page": "变异鱼人",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|淡水鱼}}×1，{{item/pic|蛙腿}}×1<br>{{item/pic|触手皮}}×1（25%）",
+    "drop_param_current": "{{item/pic|淡水鱼}}×1，{{item/pic|蛙腿}}×1<br>{{item/pic|触手皮}}×1（25%）"
+  },
+  {
+    "page": "变异鱼人",
+    "infobox_index": 19,
+    "drop_param_original": "{{item/pic|淡水鱼}}×1，{{item/pic|蛙腿}}×1<br>{{item/pic|触手皮}}×1（25%）",
+    "drop_param_current": "{{item/pic|淡水鱼}}×1，{{item/pic|蛙腿}}×1<br>{{item/pic|触手皮}}×1（25%）"
+  },
+  {
+    "page": "蛞蝓龟窝",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|蛞蝓龟黏液}}×3，{{item/pic|外壳碎片}}×1",
+    "drop_param_current": "{{item/pic|蛞蝓龟黏液}}×3，{{item/pic|外壳碎片}}×1"
+  },
+  {
+    "page": "远古雕像",
+    "infobox_index": 4,
+    "drop_param_original": "{{item/pic|铥矿}}×1<br>{{item/pic|铥矿}}×1（5%）<br>镶嵌的宝石×1",
+    "drop_param_current": "{{item/pic|铥矿}}×1<br>{{item/pic|铥矿}}×1（5%）<br>镶嵌的宝石×1"
+  },
+  {
+    "page": "远古雕像",
+    "infobox_index": 9,
+    "drop_param_original": "{{item/pic|铥矿}}×1<br>{{item/pic|铥矿}}×1（5%）<br>{{item/pic|噩梦燃料}}×1",
+    "drop_param_current": "{{item/pic|铥矿}}×1<br>{{item/pic|铥矿}}×1（5%）<br>{{item/pic|噩梦燃料}}×1"
+  },
+  {
+    "page": "远古雕像",
+    "infobox_index": 15,
+    "drop_param_original": "{{item/pic|铥矿}}×1<br>{{item/pic|铥矿}}×1（5%）<br>镶嵌的宝石×1",
+    "drop_param_current": "{{item/pic|铥矿}}×1<br>{{item/pic|铥矿}}×1（5%）<br>镶嵌的宝石×1"
+  },
+  {
+    "page": "远古雕像",
+    "infobox_index": 20,
+    "drop_param_original": "{{item/pic|铥矿}}×1<br>{{item/pic|铥矿}}×1（5%）<br>{{item/pic|噩梦燃料}}×1",
+    "drop_param_current": "{{item/pic|铥矿}}×1<br>{{item/pic|铥矿}}×1（5%）<br>{{item/pic|噩梦燃料}}×1"
+  },
+  {
+    "page": "梦魇裂隙",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|绝望石}}×3（绝望石矿苗）",
+    "drop_param_current": "{{item/pic|绝望石}}×3（绝望石矿苗）"
+  },
+  {
+    "page": "犬骨",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|骨头碎片}}×1{{hr}}样式3额外掉落：<br>{{item/pic|犬牙}}×1（50%）",
+    "drop_param_current": "{{item/pic|骨头碎片}}×1{{hr}}样式3额外掉落：<br>{{item/pic|犬牙}}×1（50%）"
+  },
+  {
+    "page": "远古先驱",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|暗影碎布}}×5，{{DSPic|32|噩梦燃料}}×2<br>{{DSPic|32|Vortex Cloak}}的{{DSPic|32|蓝图}}<br>{{DSPic|32|噩梦燃料}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|暗影碎布}}×5，{{DSPic|32|噩梦燃料}}×2<br>{{DSPic|32|Vortex Cloak}}的{{DSPic|32|蓝图}}<br>{{DSPic|32|噩梦燃料}}×1（33%）"
+  },
+  {
+    "page": "蜘蛛巢/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|蜘蛛丝}}×2",
+    "drop_param_current": "{{DSPic|32|蜘蛛丝}}×2"
+  },
+  {
+    "page": "蜘蛛巢/单机版",
+    "infobox_index": 7,
+    "drop_param_original": "{{DSPic|32|蜘蛛丝}}×4",
+    "drop_param_current": "{{DSPic|32|蜘蛛丝}}×4"
+  },
+  {
+    "page": "蜘蛛巢/单机版",
+    "infobox_index": 11,
+    "drop_param_original": "{{DSPic|32|蜘蛛丝}}×6, {{DSPic|32|蜘蛛卵}}×1",
+    "drop_param_current": "{{DSPic|32|蜘蛛丝}}×6, {{DSPic|32|蜘蛛卵}}×1"
+  },
+  {
+    "page": "雷鸟",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|Drumstick}}×2，{{DSPic|32|Thunder Feather}}×1",
+    "drop_param_current": "{{DSPic|32|Drumstick}}×2，{{DSPic|32|Thunder Feather}}×1"
+  },
+  {
+    "page": "蜘蛛猴",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×2，{{DSPic|32|胡须}}×3<br>{{DSPic|32|蜘蛛腺}}×1（75%）<br>{{DSPic|32|蜘蛛丝}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×2，{{DSPic|32|胡须}}×3<br>{{DSPic|32|蜘蛛腺}}×1（75%）<br>{{DSPic|32|蜘蛛丝}}×1（25%）"
+  },
+  {
+    "page": "蛇骨",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|骨头碎片}}×2",
+    "drop_param_current": "{{DSPic|32|骨头碎片}}×2"
+  },
+  {
+    "page": "鸭嘴豪猪",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|肉}}×1<br>{{DSPic|32|鸭嘴豪猪刺}}×2<br>{{DSPic|32|鸭嘴豪猪刺}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|肉}}×1<br>{{DSPic|32|鸭嘴豪猪刺}}×2<br>{{DSPic|32|鸭嘴豪猪刺}}×1（33%）"
+  },
+  {
+    "page": "兔王",
+    "infobox_index": 19,
+    "drop_param_original": "{{item/pic|胡须}}×2，{{item/pic|怪物肉}}×1，{{item/pic|兔王棍}}×1",
+    "drop_param_current": "{{item/pic|胡须}}×2，{{item/pic|怪物肉}}×1，{{item/pic|兔王棍}}×1"
+  },
+  {
+    "page": "疯狂甲虫",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|Light_Bulb}}×1（8%）<br>{{DSPic|32|Chitin}}×1（20%）{{hr}}在物品栏中：<br>{{DSPic|32|Light_Bulb}}×1<br>{{DSPic|32|Chitin}}×1（60%）",
+    "drop_param_current": "{{DSPic|32|Light_Bulb}}×1（8%）<br>{{DSPic|32|Chitin}}×1（20%）{{hr}}在物品栏中：<br>{{DSPic|32|Light_Bulb}}×1<br>{{DSPic|32|Chitin}}×1（60%）"
+  },
+  {
+    "page": "高草",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|草丛}}",
+    "drop_param_current": "{{DSPic|32|草丛}}"
+  },
+  {
+    "page": "雨林树",
+    "infobox_index": 1,
+    "drop_param_original": "矮：{{DSPic|32|木头}}×1{{hr}}中：{{DSPic|32|木头}}×2{{hr}}高：{{DSPic|32|木头}}×3",
+    "drop_param_current": "矮：{{DSPic|32|木头}}×1{{hr}}中：{{DSPic|32|木头}}×2{{hr}}高：{{DSPic|32|木头}}×3"
+  },
+  {
+    "page": "雨林树",
+    "infobox_index": 10,
+    "drop_param_original": "矮：{{DSPic|32|木头}}×1，{{DSPic|32|雨林刺果}}×1{{hr}}中：{{DSPic|32|木头}}×2，{{DSPic|32|雨林刺果}}×2{{hr}}高：{{DSPic|32|木头}}×3，{{DSPic|32|雨林刺果}}×2",
+    "drop_param_current": "矮：{{DSPic|32|木头}}×1，{{DSPic|32|雨林刺果}}×1{{hr}}中：{{DSPic|32|木头}}×2，{{DSPic|32|雨林刺果}}×2{{hr}}高：{{DSPic|32|木头}}×3，{{DSPic|32|雨林刺果}}×2"
+  },
+  {
+    "page": "雨林树",
+    "infobox_index": 33,
+    "drop_param_original": "矮：{{DSPic|32|木头}}×1{{hr}}中：{{DSPic|32|木头}}×2{{hr}}高：{{DSPic|32|木头}}×3",
+    "drop_param_current": "矮：{{DSPic|32|木头}}×1{{hr}}中：{{DSPic|32|木头}}×2{{hr}}高：{{DSPic|32|木头}}×3"
+  },
+  {
+    "page": "雨林刺果",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|树枝}}×1",
+    "drop_param_current": "{{DSPic|32|树枝}}×1"
+  },
+  {
+    "page": "块茎树",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|块茎}}{{hr}}开花时：{{DSPic|32|开花块茎}}<br>详见正文",
+    "drop_param_current": "{{DSPic|32|块茎}}{{hr}}开花时：{{DSPic|32|开花块茎}}<br>详见正文"
+  },
+  {
+    "page": "爪棕榈树",
+    "infobox_index": 0,
+    "drop_param_original": "矮：{{DSPic|32|软木}}×1{{hr}}中：{{DSPic|32|软木}}×2{{hr}}高：{{DSPic|32|软木}}×3",
+    "drop_param_current": "矮：{{DSPic|32|软木}}×1{{hr}}中：{{DSPic|32|软木}}×2{{hr}}高：{{DSPic|32|软木}}×3"
+  },
+  {
+    "page": "茶树",
+    "infobox_index": 0,
+    "drop_param_original": "矮小：<br>{{DSPic|32|木头}}×1{{hr}}中等：<br>{{DSPic|32|木头}}×1，{{DSPic|32|树枝}}×1，{{DSPic|32|茶籽}}×1{{hr}}高大：<br>{{DSPic|32|木头}}×2，{{DSPic|32|树枝}}×1，{{DSPic|32|茶籽}}×2",
+    "drop_param_current": "矮小：<br>{{DSPic|32|木头}}×1{{hr}}中等：<br>{{DSPic|32|木头}}×1，{{DSPic|32|树枝}}×1，{{DSPic|32|茶籽}}×1{{hr}}高大：<br>{{DSPic|32|木头}}×2，{{DSPic|32|树枝}}×1，{{DSPic|32|茶籽}}×2"
+  },
+  {
+    "page": "异食松鼠",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|小肉}}×1",
+    "drop_param_current": "{{DSPic|32|小肉}}×1"
+  },
+  {
+    "page": "异食松鼠",
+    "infobox_index": 12,
+    "drop_param_original": "{{DSPic|32|小肉}}×1",
+    "drop_param_current": "{{DSPic|32|小肉}}×1"
+  },
+  {
+    "page": "利齿捕蝇草",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|Flytrap Stalk}}×1，{{DSPic|32|Leafy Meat}}×1，<br>{{DSPic|32|Nectar}}×1，{{DSPic|32|Vine}}×1<br>{{DSPic|32|Leafy Meat}}×1（50%）<br>{{DSPic|32|Nectar}}×1（30%）<br>{{DSPic|32|Vine}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|Flytrap Stalk}}×1，{{DSPic|32|Leafy Meat}}×1，<br>{{DSPic|32|Nectar}}×1，{{DSPic|32|Vine}}×1<br>{{DSPic|32|Leafy Meat}}×1（50%）<br>{{DSPic|32|Nectar}}×1（30%）<br>{{DSPic|32|Vine}}×1（50%）"
+  },
+  {
+    "page": "利齿捕蝇草",
+    "infobox_index": 17,
+    "drop_param_original": "{{DSPic|32|Leafy Meat}}×1<br>{{DSPic|32|Vine}}×1（50%）<br>{{DSPic|32|Nectar}}×1（30%）",
+    "drop_param_current": "{{DSPic|32|Leafy Meat}}×1<br>{{DSPic|32|Vine}}×1（50%）<br>{{DSPic|32|Nectar}}×1（30%）"
+  },
+  {
+    "page": "蝰蛇",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|Monster Meat}}×1（33%）<br>\n[[File:Snakeskin_(Hamlet).png|32px|link=蛇皮]]×1（16%）<br>\n{{DSPic|32|Snake Oil}}×1（0.33%）",
+    "drop_param_current": "{{DSPic|32|Monster Meat}}×1（33%）<br>\n[[File:Snakeskin_(Hamlet).png|32px|link=蛇皮]]×1（16%）<br>\n{{DSPic|32|Snake Oil}}×1（0.33%）"
+  },
+  {
+    "page": "荨麻藤",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|荨麻簇}}",
+    "drop_param_current": "{{DSPic|32|荨麻簇}}"
+  },
+  {
+    "page": "潜伏梦魇",
+    "infobox_index": 0,
+    "drop_param_original": "'''<small>默认：</small>'''<br>{{item/pic|噩梦燃料}}×2-4{{hr}}'''<small>裂隙：</small>'''<br>{{item/pic|纯粹恐惧}}×2-3，{{item/pic|噩梦燃料}}×1-2{{hr}}'''<small>死于伯尼！：</small>'''<br>{{item/pic|噩梦燃料}}×1",
+    "drop_param_current": "'''<small>默认：</small>'''<br>{{item/pic|噩梦燃料}}×2-4{{hr}}'''<small>裂隙：</small>'''<br>{{item/pic|纯粹恐惧}}×2-3，{{item/pic|噩梦燃料}}×1-2{{hr}}'''<small>死于伯尼！：</small>'''<br>{{item/pic|噩梦燃料}}×1"
+  },
+  {
+    "page": "茶籽",
+    "infobox_index": 10,
+    "drop_param_original": "{{DSPic|32|树枝}}×1",
+    "drop_param_current": "{{DSPic|32|树枝}}×1"
+  },
+  {
+    "page": "布满蛛网的树",
+    "infobox_index": 1,
+    "drop_param_original": "矮：{{DSPic|32|蜘蛛丝}}×1，{{DSPic|32|木头}}×1{{hr}}中：{{DSPic|32|蜘蛛丝}}×1，{{DSPic|32|木头}}×2{{hr}}高：{{DSPic|32|蜘蛛丝}}×2，{{DSPic|32|木头}}×3",
+    "drop_param_current": "矮：{{DSPic|32|蜘蛛丝}}×1，{{DSPic|32|木头}}×1{{hr}}中：{{DSPic|32|蜘蛛丝}}×1，{{DSPic|32|木头}}×2{{hr}}高：{{DSPic|32|蜘蛛丝}}×2，{{DSPic|32|木头}}×3"
+  },
+  {
+    "page": "巨大洞穴蠕虫",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|怪物肉}}×3，{{item/pic|发光浆果}}×1，{{item/pic|巨大洞穴蠕虫雕塑草图}}×1<br>{{item/pic|怪物肉}}×1（66%）<br>{{item/pic|怪物肉}}×1（66%）<br>体节掉落见正文",
+    "drop_param_current": "{{item/pic|怪物肉}}×3，{{item/pic|发光浆果}}×1，{{item/pic|巨大洞穴蠕虫雕塑草图}}×1<br>{{item/pic|怪物肉}}×1（66%）<br>{{item/pic|怪物肉}}×1（66%）<br>体节掉落见正文"
+  },
+  {
+    "page": "沙堆",
+    "infobox_index": 0,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "拟态蠕虫",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|噩梦燃料}}×1",
+    "drop_param_current": "{{item/pic|噩梦燃料}}×1"
+  },
+  {
+    "page": "狞笑",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|暗影碎布}}×3，{{item/pic|纯粹恐惧}}×1，{{item/pic|噩梦燃料}}×2<br>{{item/pic|暗影碎布}}×1（33%）<br>{{item/pic|纯粹恐惧}}×1（50%）<br>{{item/pic|噩梦燃料}}×1（67%）{{hr}}[[洞穴蠕虫之年]]期间额外掉落：{{item/pic|幸运金块}}×5",
+    "drop_param_current": "{{item/pic|暗影碎布}}×3，{{item/pic|纯粹恐惧}}×1，{{item/pic|噩梦燃料}}×2<br>{{item/pic|暗影碎布}}×1（33%）<br>{{item/pic|纯粹恐惧}}×1（50%）<br>{{item/pic|噩梦燃料}}×1（67%）{{hr}}[[洞穴蠕虫之年]]期间额外掉落：{{item/pic|幸运金块}}×5"
+  },
+  {
+    "page": "小石板",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×1<br>{{DSPic|32|石头}}×1（30%）",
+    "drop_param_current": "{{DSPic|32|石头}}×1<br>{{DSPic|32|石头}}×1（30%）"
+  },
+  {
+    "page": "毒蝎",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|Monster Meat}}×1 <br>\n{{DSPic|32|Venom Gland}}×1（30%）<br>\n{{DSPic|32|Stinger}}×1（30%）<br>\n{{DSPic|32|Chitin}}×1（30%）",
+    "drop_param_current": "{{DSPic|32|Monster Meat}}×1 <br>\n{{DSPic|32|Venom Gland}}×1（30%）<br>\n{{DSPic|32|Stinger}}×1（30%）<br>\n{{DSPic|32|Chitin}}×1（30%）"
+  },
+  {
+    "page": "虫丘",
+    "infobox_index": 0,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "恶液",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|噩梦燃料}}×4~6",
+    "drop_param_current": "{{item/pic|噩梦燃料}}×4~6"
+  },
+  {
+    "page": "屎壳郎",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|Monster Meat}}×1<br>{{DSPic|32|Chitin}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|Monster Meat}}×1<br>{{DSPic|32|Chitin}}×1（50%）"
+  },
+  {
+    "page": "象鼻鼠虫",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|Weevole Carapace}}×1<br>{{DSPic|32|Monster Meat}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|Weevole Carapace}}×1<br>{{DSPic|32|Monster Meat}}×1（25%）"
+  },
+  {
+    "page": "曼德拉长者",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|活木头}}×2",
+    "drop_param_current": "{{DSPic|32|活木头}}×2"
+  },
+  {
+    "page": "暴躁箱子",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|纯粹恐惧}}×3~6，{{item/pic|犬牙}}×0~2",
+    "drop_param_current": "{{item/pic|纯粹恐惧}}×3~6，{{item/pic|犬牙}}×0~2"
+  },
+  {
+    "page": "吸血蝙蝠",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|Monster Meat}}×1（50%）<br>\n{{DSPic|32|Pig Skin?}}×1（50%）<br>\n[[文件:Batilisk_Wing.png|32px|link=蝙蝠翅膀？]]×1（25%）",
+    "drop_param_current": "{{DSPic|32|Monster Meat}}×1（50%）<br>\n{{DSPic|32|Pig Skin?}}×1（50%）<br>\n[[文件:Batilisk_Wing.png|32px|link=蝙蝠翅膀？]]×1（25%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 9,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|黑色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|黑色羽毛}}（50%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 16,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|红色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|红色羽毛}}（50%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 23,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|蓝色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|蓝色羽毛}}（50%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 30,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|红色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|红色羽毛}}（50%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 38,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|红色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|红色羽毛}}（50%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 59,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|黑色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|黑色羽毛}}（50%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 68,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|蓝色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|蓝色羽毛}}（50%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 76,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|黑色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|黑色羽毛}}（50%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 83,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|蓝色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|蓝色羽毛}}（50%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 90,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|蓝色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|蓝色羽毛}}（50%）"
+  },
+  {
+    "page": "鸟/单机版",
+    "infobox_index": 97,
+    "drop_param_original": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|蓝色羽毛}}（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|小肉}}（50%）<br>{{DSPic|32|蓝色羽毛}}（50%）"
+  },
+  {
+    "page": "箭毒蛙",
+    "infobox_index": 4,
+    "drop_param_original": "{{DSPic|32|箭毒蛙腿}}×1<br>{{DSPic|32|毒腺}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|箭毒蛙腿}}×1<br>{{DSPic|32|毒腺}}×1（50%）"
+  },
+  {
+    "page": "银行家",
+    "infobox_index": 1,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "美容师",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "收藏家",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "农民",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "花商",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "松露斯坦镇长",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}×1（75%）<br>{{DSPic|32|猪皮}}×1（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}×1（75%）<br>{{DSPic|32|猪皮}}×1（25%）"
+  },
+  {
+    "page": "矿工",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "工人",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "猪女王",
+    "infobox_index": 3,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "学者",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "猎人",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}75%<br>{{DSPic|32|猪皮}}25%",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}75%<br>{{DSPic|32|猪皮}}25%"
+  },
+  {
+    "page": "教授",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}75%<br>{{DSPic|32|猪皮}}25%",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}75%<br>{{DSPic|32|猪皮}}25%"
+  },
+  {
+    "page": "店主",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "引座员",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}75%<br>{{DSPic|32|猪皮}}25%",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}75%<br>{{DSPic|32|猪皮}}25%"
+  },
+  {
+    "page": "爬行恐惧/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|噩梦燃料}}×1<br>{{DSPic|32|噩梦燃料}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|噩梦燃料}}×1<br>{{DSPic|32|噩梦燃料}}×1（50%）"
+  },
+  {
+    "page": "爬行恐惧/单机版",
+    "infobox_index": 5,
+    "drop_param_original": "{{DSPic|32|噩梦燃料}}×1<br>{{DSPic|32|噩梦燃料}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|噩梦燃料}}×1<br>{{DSPic|32|噩梦燃料}}×1（50%）"
+  },
+  {
+    "page": "恐怖尖喙/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|噩梦燃料}}×1<br>{{DSPic|32|噩梦燃料}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|噩梦燃料}}×1<br>{{DSPic|32|噩梦燃料}}×1（50%）"
+  },
+  {
+    "page": "恐怖尖喙/单机版",
+    "infobox_index": 5,
+    "drop_param_original": "{{DSPic|32|噩梦燃料}}×1<br>{{DSPic|32|噩梦燃料}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|噩梦燃料}}×1<br>{{DSPic|32|噩梦燃料}}×1（50%）"
+  },
+  {
+    "page": "游动恐惧",
+    "infobox_index": 0,
+    "drop_param_original": "[[File:Nightmare_Fuel.png|32px|link=噩梦燃料]]×1<br>{{item/pic|噩梦燃料}}×1（50%）",
+    "drop_param_current": "[[File:Nightmare_Fuel.png|32px|link=噩梦燃料]]×1<br>{{item/pic|噩梦燃料}}×1（50%）"
+  },
+  {
+    "page": "沙堡/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|沙}}×1，{{DSPic|32|椰树叶}}×1，{{DSPic|32|贝壳}}×1",
+    "drop_param_current": "{{DSPic|32|沙}}×1，{{DSPic|32|椰树叶}}×1，{{DSPic|32|贝壳}}×1"
+  },
+  {
+    "page": "虚空面具",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|纯粹恐惧}}×1<br><small>30%概率掉落其中之一：</small><br>{{item/pic|蠢人面具}}或{{item/pic|马屁精面具}}或{{item/pic|贤者面具}}",
+    "drop_param_current": "{{item/pic|纯粹恐惧}}×1<br><small>30%概率掉落其中之一：</small><br>{{item/pic|蠢人面具}}或{{item/pic|马屁精面具}}或{{item/pic|贤者面具}}"
+  },
+  {
+    "page": "岩浆池/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|Rocks}}×1，{{DSPic|32|灰烬}}×2，{{DSPic|32|Charcoal}}×1",
+    "drop_param_current": "{{DSPic|32|Rocks}}×1，{{DSPic|32|灰烬}}×2，{{DSPic|32|Charcoal}}×1"
+  },
+  {
+    "page": "薇尔芭（NPC）",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|肉}}×1，{{DSPic|32|猪皮}}×1",
+    "drop_param_current": "{{DSPic|32|肉}}×1，{{DSPic|32|猪皮}}×1"
+  },
+  {
+    "page": "沉船",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|木板}}×3，{{DSPic|32|金块}}×3，{{DSPic|32|红宝石}}×1，{{DSPic|32|蓝宝石}}×1，{{DSPic|32|海洋财宝}}×1",
+    "drop_param_current": "{{DSPic|32|木板}}×3，{{DSPic|32|金块}}×3，{{DSPic|32|红宝石}}×1，{{DSPic|32|蓝宝石}}×1，{{DSPic|32|海洋财宝}}×1"
+  },
+  {
+    "page": "废铁",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|铁矿石}}×1",
+    "drop_param_current": "{{DSPic|32|铁矿石}}×1"
+  },
+  {
+    "page": "废铁",
+    "infobox_index": 6,
+    "drop_param_original": "{{DSPic|32|铁矿石}}×1",
+    "drop_param_current": "{{DSPic|32|铁矿石}}×1"
+  },
+  {
+    "page": "废铁",
+    "infobox_index": 9,
+    "drop_param_original": "{{DSPic|32|铁矿石}}×1",
+    "drop_param_current": "{{DSPic|32|铁矿石}}×1"
+  },
+  {
+    "page": "废铁",
+    "infobox_index": 12,
+    "drop_param_original": "{{DSPic|32|铁矿石}}×1",
+    "drop_param_current": "{{DSPic|32|铁矿石}}×1"
+  },
+  {
+    "page": "远古兵器",
+    "infobox_index": 1,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "残骸（出生点）",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|Boat_Repair_Kit}}×1",
+    "drop_param_current": "{{DSPic|32|Boat_Repair_Kit}}×1"
+  },
+  {
+    "page": "残骸（出生点）",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|Log}}×1",
+    "drop_param_current": "{{DSPic|32|Log}}×1"
+  },
+  {
+    "page": "残骸（出生点）",
+    "infobox_index": 5,
+    "drop_param_original": "{{DSPic|32|Log}}×1",
+    "drop_param_current": "{{DSPic|32|Log}}×1"
+  },
+  {
+    "page": "残骸（出生点）",
+    "infobox_index": 7,
+    "drop_param_original": "{{DSPic|32|Log}}×1",
+    "drop_param_current": "{{DSPic|32|Log}}×1"
+  },
+  {
+    "page": "魔力泉水",
+    "infobox_index": 8,
+    "drop_param_original": "{{DSPic|32|魔力泉水}}",
+    "drop_param_current": "{{DSPic|32|魔力泉水}}"
+  },
+  {
+    "page": "坠毁的热气球",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|木板}}×1",
+    "drop_param_current": "{{DSPic|32|木板}}×1"
+  },
+  {
+    "page": "坠毁的热气球",
+    "infobox_index": 5,
+    "drop_param_original": "{{DSPic|32|喷彩摩丝罐头}}×1",
+    "drop_param_current": "{{DSPic|32|喷彩摩丝罐头}}×1"
+  },
+  {
+    "page": "坠毁的热气球",
+    "infobox_index": 12,
+    "drop_param_original": "{{DSPic|32|布}}×1",
+    "drop_param_current": "{{DSPic|32|布}}×1"
+  },
+  {
+    "page": "坠毁的热气球",
+    "infobox_index": 14,
+    "drop_param_original": "{{DSPic|32|绳子}}×1",
+    "drop_param_current": "{{DSPic|32|绳子}}×1"
+  },
+  {
+    "page": "坠毁的热气球",
+    "infobox_index": 21,
+    "drop_param_original": "{{DSPic|32|硬化橡胶塞}}×1",
+    "drop_param_current": "{{DSPic|32|硬化橡胶塞}}×1"
+  },
+  {
+    "page": "坠毁的热气球",
+    "infobox_index": 23,
+    "drop_param_original": "{{DSPic|32|剃刀}}×1",
+    "drop_param_current": "{{DSPic|32|剃刀}}×1"
+  },
+  {
+    "page": "坠毁的热气球",
+    "infobox_index": 29,
+    "drop_param_original": "{{DSPic|32|绳子}}×1",
+    "drop_param_current": "{{DSPic|32|绳子}}×1"
+  },
+  {
+    "page": "坠毁的热气球",
+    "infobox_index": 33,
+    "drop_param_original": "{{DSPic|32|沙}}×1",
+    "drop_param_current": "{{DSPic|32|沙}}×1"
+  },
+  {
+    "page": "毒穴",
+    "infobox_index": 0,
+    "drop_param_original": "二选一：<br>{{DSPic|32|毒腺}}×1（50%）<br>{{DSPic|32|腐烂物}}×1（50%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|毒腺}}×1（50%）<br>{{DSPic|32|腐烂物}}×1（50%）"
+  },
+  {
+    "page": "制帽匠",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "垂下的藤蔓",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|Leafy Meat}}×1（40%）<br>{{DSPic|32|Rope}}×1（40%）",
+    "drop_param_current": "{{DSPic|32|Leafy Meat}}×1（40%）<br>{{DSPic|32|Rope}}×1（40%）"
+  },
+  {
+    "page": "镀金洞穴蠕虫",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|怪物肉}}×2，{{item/pic|木头}}×2<br>{{item/pic|荧光果}}50%<br>{{item/pic|红灯笼}}50%{{hr}}[[洞穴蠕虫之年]]期间额外掉落：{{item/pic|幸运金块}}×3",
+    "drop_param_current": "{{item/pic|怪物肉}}×2，{{item/pic|木头}}×2<br>{{item/pic|荧光果}}50%<br>{{item/pic|红灯笼}}50%{{hr}}[[洞穴蠕虫之年]]期间额外掉落：{{item/pic|幸运金块}}×3"
+  },
+  {
+    "page": "河鹿",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|肉}}×4，{{DSPic|32|河鹿角}}×1",
+    "drop_param_current": "{{DSPic|32|肉}}×4，{{DSPic|32|河鹿角}}×1"
+  },
+  {
+    "page": "荆棘花",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|荆棘球茎}}×1<br>{{DSPic|32|藤}}×2<br>{{DSPic|32|藤}}×2（每个25%）",
+    "drop_param_current": "{{DSPic|32|荆棘球茎}}×1<br>{{DSPic|32|藤}}×2<br>{{DSPic|32|藤}}×2（每个25%）"
+  },
+  {
+    "page": "皇家守卫",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>\n{{DSPic|32|肉}}×1（75%）<br>\n{{DSPic|32|猪皮}}×1（25%）",
+    "drop_param_current": "二选一：<br>\n{{DSPic|32|肉}}×1（75%）<br>\n{{DSPic|32|猪皮}}×1（25%）"
+  },
+  {
+    "page": "皇家守卫",
+    "infobox_index": 7,
+    "drop_param_original": "二选一：<br>\n{{DSPic|32|肉}}×1（75%）<br>\n{{DSPic|32|猪皮}}×1（25%）",
+    "drop_param_current": "二选一：<br>\n{{DSPic|32|肉}}×1（75%）<br>\n{{DSPic|32|猪皮}}×1（25%）"
+  },
+  {
+    "page": "残骸（沉船区）",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|木板}}×1",
+    "drop_param_current": "{{DSPic|32|木板}}×1"
+  },
+  {
+    "page": "粪球",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|粪肥}}×1<br>见正文",
+    "drop_param_current": "{{DSPic|32|粪肥}}×1<br>见正文"
+  },
+  {
+    "page": "粪堆",
+    "infobox_index": 0,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "巨型蛆虫",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|Monster Meat}}×1",
+    "drop_param_current": "{{DSPic|32|Monster Meat}}×1"
+  },
+  {
+    "page": "蚁人",
+    "infobox_index": 0,
+    "drop_param_original": "二选一：<br>{{DSPic|32|怪物肉}}（75%）<br>{{DSPic|32|甲壳质}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|怪物肉}}（75%）<br>{{DSPic|32|甲壳质}}（25%）"
+  },
+  {
+    "page": "蚁人战士",
+    "infobox_index": 0,
+    "drop_param_original": "二选一：<br>{{DSPic|32|怪物肉}}（75%）<br>{{DSPic|32|甲壳质}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|怪物肉}}（75%）<br>{{DSPic|32|甲壳质}}（25%）"
+  },
+  {
+    "page": "蚁后",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×6，{{DSPic|32|甲壳质}}×4，<br>{{DSPic|32|蜂蜜}}×5，{{DSPic|32|王冠}}×1，<br>{{DSPic|32|捆绑包装}}的{{DSPic|32|蓝图}}",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×6，{{DSPic|32|甲壳质}}×4，<br>{{DSPic|32|蜂蜜}}×5，{{DSPic|32|王冠}}×1，<br>{{DSPic|32|捆绑包装}}的{{DSPic|32|蓝图}}"
+  },
+  {
+    "page": "石笋王座",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×8，{{DSPic|32|燧石}}×2，{{DSPic|32|金块}}×2 <br>\n{{DSPic|32|燧石}}×3（每个80%）<br> \n{{DSPic|32|硝石}}×4（每个80%）<br> \n{{DSPic|32|金块}}×2（每个30%） <br> \n{{DSPic|32|砂金}}×2（每个60%）<br>\n{{DSPic|32|蓝宝石}}×2（每个50%）",
+    "drop_param_current": "{{DSPic|32|石头}}×8，{{DSPic|32|燧石}}×2，{{DSPic|32|金块}}×2 <br>\n{{DSPic|32|燧石}}×3（每个80%）<br> \n{{DSPic|32|硝石}}×4（每个80%）<br> \n{{DSPic|32|金块}}×2（每个30%） <br> \n{{DSPic|32|砂金}}×2（每个60%）<br>\n{{DSPic|32|蓝宝石}}×2（每个50%）"
+  },
+  {
+    "page": "哈巴狸",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|小肉}}×1",
+    "drop_param_current": "{{DSPic|32|小肉}}×1"
+  },
+  {
+    "page": "呆望雀",
+    "infobox_index": 4,
+    "drop_param_original": "{{DSPic|32|呆望羽毛}}×1，{{DSPic|32|鸟腿}}×2",
+    "drop_param_current": "{{DSPic|32|呆望羽毛}}×1，{{DSPic|32|鸟腿}}×2"
+  },
+  {
+    "page": "淘金兽",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|肉}}×3",
+    "drop_param_current": "{{DSPic|32|肉}}×3"
+  },
+  {
+    "page": "翘鼻蛇怪",
+    "infobox_index": 0,
+    "drop_param_original": "头部：{{DSPic|32|怪物肉}}×3{{hr}}每个体节：<br>{{DSPic|32|蛇骨}}×1<br>{{DSPic|32|骨头碎片}}×1（60%）<br>{{DSPic|32|怪物肉}}×1（20%）<br>{{DSPic|32|变质的鱼}}×1（5%）<br>{{DSPic|32|红宝石}}×1（0.5%）<br>{{DSPic|32|蓝宝石}}×1（0.5%）",
+    "drop_param_current": "头部：{{DSPic|32|怪物肉}}×3{{hr}}每个体节：<br>{{DSPic|32|蛇骨}}×1<br>{{DSPic|32|骨头碎片}}×1（60%）<br>{{DSPic|32|怪物肉}}×1（20%）<br>{{DSPic|32|变质的鱼}}×1（5%）<br>{{DSPic|32|红宝石}}×1（0.5%）<br>{{DSPic|32|蓝宝石}}×1（0.5%）"
+  },
+  {
+    "page": "变质的鱼/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|骨头碎片}}×2",
+    "drop_param_current": "{{DSPic|32|骨头碎片}}×2"
+  },
+  {
+    "page": "石化的骨头",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|翘鼻蛇怪头骨}}",
+    "drop_param_current": "{{DSPic|32|翘鼻蛇怪头骨}}"
+  },
+  {
+    "page": "蒙面猪人",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|鬼祟帽}}×1",
+    "drop_param_current": "{{DSPic|32|鬼祟帽}}×1"
+  },
+  {
+    "page": "灯",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|蜂蜜}}×3",
+    "drop_param_current": "{{DSPic|32|蜂蜜}}×3"
+  },
+  {
+    "page": "蚁巢",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|蜂巢}}×1，{{DSPic|32|蜂蜜}}×3",
+    "drop_param_current": "{{DSPic|32|蜂巢}}×1，{{DSPic|32|蜂蜜}}×3"
+  },
+  {
+    "page": "石笋/单机版",
+    "infobox_index": 5,
+    "drop_param_original": "{{待补充}}",
+    "drop_param_current": "{{待补充}}"
+  },
+  {
+    "page": "石笋/单机版",
+    "infobox_index": 12,
+    "drop_param_original": "{{待补充}}",
+    "drop_param_current": "{{待补充}}"
+  },
+  {
+    "page": "石笋/单机版",
+    "infobox_index": 16,
+    "drop_param_original": "{{DSPic|32|石头}}×3",
+    "drop_param_current": "{{DSPic|32|石头}}×3"
+  },
+  {
+    "page": "闪光的水坑",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|砂金}}",
+    "drop_param_current": "{{DSPic|32|砂金}}"
+  },
+  {
+    "page": "强盗秘密营地",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|呆望羽毛}}×2",
+    "drop_param_current": "{{DSPic|32|呆望羽毛}}×2"
+  },
+  {
+    "page": "喷发玄武岩",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×2 ，{{DSPic|32|燧石}}×1<br>{{DSPic|32|石头}}×1（50%）<br>{{DSPic|32|燧石}}×1（30%）",
+    "drop_param_current": "{{DSPic|32|石头}}×2 ，{{DSPic|32|燧石}}×1<br>{{DSPic|32|石头}}×1（50%）<br>{{DSPic|32|燧石}}×1（30%）"
+  },
+  {
+    "page": "智慧树",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石灰岩}}×2",
+    "drop_param_current": "{{DSPic|32|石灰岩}}×2"
+  },
+  {
+    "page": "易碎的瓦罐",
+    "infobox_index": 0,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "石化的蛋",
+    "infobox_index": 1,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "石化的蛋",
+    "infobox_index": 2,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "石化的蛋",
+    "infobox_index": 3,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "石化的蛋",
+    "infobox_index": 4,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "风化的树木",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|木头}}×1",
+    "drop_param_current": "{{DSPic|32|木头}}×1"
+  },
+  {
+    "page": "风化的树木",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|木头}}×1",
+    "drop_param_current": "{{DSPic|32|木头}}×1"
+  },
+  {
+    "page": "风化的树枝",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|树枝}}×1",
+    "drop_param_current": "{{DSPic|32|树枝}}×1"
+  },
+  {
+    "page": "风化的树枝",
+    "infobox_index": 4,
+    "drop_param_original": "{{DSPic|32|树枝}}×1",
+    "drop_param_current": "{{DSPic|32|树枝}}×1"
+  },
+  {
+    "page": "风化的树桩",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|木头}}×1",
+    "drop_param_current": "{{DSPic|32|木头}}×1"
+  },
+  {
+    "page": "风化的房子",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|木板}}×0-3",
+    "drop_param_current": "{{DSPic|32|木板}}×0-3"
+  },
+  {
+    "page": "生锈的街灯",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|铁矿石}}（83.33%）<br>{{DSPic|32|电子元件}}（16.66%）<br>具体掉落规则见正文",
+    "drop_param_current": "{{DSPic|32|铁矿石}}（83.33%）<br>{{DSPic|32|电子元件}}（16.66%）<br>具体掉落规则见正文"
+  },
+  {
+    "page": "残破的雕像",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）",
+    "drop_param_current": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）"
+  },
+  {
+    "page": "残破的雕像",
+    "infobox_index": 6,
+    "drop_param_original": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）",
+    "drop_param_current": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）"
+  },
+  {
+    "page": "残破的雕像",
+    "infobox_index": 11,
+    "drop_param_original": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×2（每个25%）<br>\n{{DSPic|32|燧石}}×2（每个60%）<br>\n{{DSPic|32|砂金}}×2（每个20%）",
+    "drop_param_current": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×2（每个25%）<br>\n{{DSPic|32|燧石}}×2（每个60%）<br>\n{{DSPic|32|砂金}}×2（每个20%）"
+  },
+  {
+    "page": "残破的雕像",
+    "infobox_index": 16,
+    "drop_param_original": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×2（每个25%）<br>\n{{DSPic|32|燧石}}×2（每个60%）<br>\n{{DSPic|32|砂金}}×1（每个60%）",
+    "drop_param_current": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×2（每个25%）<br>\n{{DSPic|32|燧石}}×2（每个60%）<br>\n{{DSPic|32|砂金}}×1（每个60%）"
+  },
+  {
+    "page": "令人瞩目的雕像",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×4",
+    "drop_param_current": "{{DSPic|32|石头}}×4"
+  },
+  {
+    "page": "吸引人的石像",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）",
+    "drop_param_current": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）"
+  },
+  {
+    "page": "风化的图腾",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）",
+    "drop_param_current": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）"
+  },
+  {
+    "page": "宝石松露",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）",
+    "drop_param_current": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）"
+  },
+  {
+    "page": "蓝色母猪",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）",
+    "drop_param_current": "{{DSPic|32|石头}}×2<br>\n{{DSPic|32|硝石}}×1（25%）<br>\n{{DSPic|32|燧石}}×1（60%）<br>\n{{DSPic|32|砂金}}×1（60%）"
+  },
+  {
+    "page": "空心树桩/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|树枝}}×2<br>{{DSPic|32|木头}}×2<br>随机物品（见正文）",
+    "drop_param_current": "{{DSPic|32|树枝}}×2<br>{{DSPic|32|木头}}×2<br>随机物品（见正文）"
+  },
+  {
+    "page": "摇摇欲坠的支柱",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×3<br>{{DSPic|32|石头}}×2（每个25%）<br>{{DSPic|32|遗失的图腾}}×1（5%）",
+    "drop_param_current": "{{DSPic|32|石头}}×3<br>{{DSPic|32|石头}}×2（每个25%）<br>{{DSPic|32|遗失的图腾}}×1（5%）"
+  },
+  {
+    "page": "大理石树/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|大理石}}×1<br>{{DSPic|32|大理石}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|大理石}}×1<br>{{DSPic|32|大理石}}×1（50%）"
+  },
+  {
+    "page": "大理石柱/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|大理石}}×2-3",
+    "drop_param_current": "{{DSPic|32|大理石}}×2-3"
+  },
+  {
+    "page": "岩石/单机版",
+    "infobox_index": 4,
+    "drop_param_original": "{{DSPic|32|石头}}×3，{{DSPic|32|燧石}}×1，{{DSPic|32|硝石}}×1<br>{{DSPic|32|燧石}}×1（60%）<br>{{DSPic|32|硝石}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|石头}}×3，{{DSPic|32|燧石}}×1，{{DSPic|32|硝石}}×1<br>{{DSPic|32|燧石}}×1（60%）<br>{{DSPic|32|硝石}}×1（25%）"
+  },
+  {
+    "page": "岩石/单机版",
+    "infobox_index": 16,
+    "drop_param_original": "{{DSPic|32|石头}}×3，{{DSPic|32|燧石}}×1，{{DSPic|32|金块}}×1<br>{{DSPic|32|燧石}}×1（60%）<br>{{DSPic|32|金块}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|石头}}×3，{{DSPic|32|燧石}}×1，{{DSPic|32|金块}}×1<br>{{DSPic|32|燧石}}×1（60%）<br>{{DSPic|32|金块}}×1（25%）"
+  },
+  {
+    "page": "岩石/单机版",
+    "infobox_index": 27,
+    "drop_param_original": "高形态：{{DSPic|32|石头}}×4<br>{{DSPic|32|石头}}×1（60%）{{hr}}中形态：{{DSPic|32|石头}}×3<br>{{DSPic|32|石头}}×1（40%）{{hr}}低形态：{{DSPic|32|石头}}×2<br>{{DSPic|32|石头}}×1（20%）",
+    "drop_param_current": "高形态：{{DSPic|32|石头}}×4<br>{{DSPic|32|石头}}×1（60%）{{hr}}中形态：{{DSPic|32|石头}}×3<br>{{DSPic|32|石头}}×1（40%）{{hr}}低形态：{{DSPic|32|石头}}×2<br>{{DSPic|32|石头}}×1（20%）"
+  },
+  {
+    "page": "堵塞物",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×3，{{DSPic|32|燧石}}×1，{{DSPic|32|硝石}}×1<br>{{DSPic|32|燧石}}×1（60%）<br>{{DSPic|32|硝石}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|石头}}×3，{{DSPic|32|燧石}}×1，{{DSPic|32|硝石}}×1<br>{{DSPic|32|燧石}}×1（60%）<br>{{DSPic|32|硝石}}×1（25%）"
+  },
+  {
+    "page": "猪人/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "海豹",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|肉}}×4，{{DSPic|32|魔法豹印}}×1",
+    "drop_param_current": "{{DSPic|32|肉}}×4，{{DSPic|32|魔法豹印}}×1"
+  },
+  {
+    "page": "呆龙蛋",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|燧石}}×1，{{DSPic|32|石头}}×1<br>{{DSPic|32|燧石}}×1（50%）<br>{{DSPic|32|石头}}×1（50%）<br>{{DSPic|32|石头}}×1（30%）<br>{{DSPic|32|黑曜石}}×2（每个50%）",
+    "drop_param_current": "{{DSPic|32|燧石}}×1，{{DSPic|32|石头}}×1<br>{{DSPic|32|燧石}}×1（50%）<br>{{DSPic|32|石头}}×1（50%）<br>{{DSPic|32|石头}}×1（30%）<br>{{DSPic|32|黑曜石}}×2（每个50%）"
+  },
+  {
+    "page": "格罗姆/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|格罗姆翅膀}}×1，{{DSPic|32|格罗姆的黏液}}×2，{{DSPic|32|怪物肉}}×3",
+    "drop_param_current": "{{DSPic|32|格罗姆翅膀}}×1，{{DSPic|32|格罗姆的黏液}}×2，{{DSPic|32|怪物肉}}×3"
+  },
+  {
+    "page": "中规中矩的丛林树",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|活木头}}×2",
+    "drop_param_current": "{{DSPic|32|活木头}}×2"
+  },
+  {
+    "page": "桦栗树/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|Log}}×1（矮）；{{DSPic|32|Log}}×2（中）；{{DSPic|32|Log}}×3（高）；{{DSPic|32|Birchnut}}（依据季节及大小而定）",
+    "drop_param_current": "{{DSPic|32|Log}}×1（矮）；{{DSPic|32|Log}}×2（中）；{{DSPic|32|Log}}×3（高）；{{DSPic|32|Birchnut}}（依据季节及大小而定）"
+  },
+  {
+    "page": "桦栗树/单机版",
+    "infobox_index": 27,
+    "drop_param_original": "{{DSPic|32|Birchnut}}×3，{{DSPic|32|Living Log}}×1 ~ 2；{{DSPic|32|Living Log}}×1（{{DSPic|32|Shovel}}），{{DSPic|32|Nightmare Fuel}}×1（20%）",
+    "drop_param_current": "{{DSPic|32|Birchnut}}×3，{{DSPic|32|Living Log}}×1 ~ 2；{{DSPic|32|Living Log}}×1（{{DSPic|32|Shovel}}），{{DSPic|32|Nightmare Fuel}}×1（20%）"
+  },
+  {
+    "page": "远古雕像/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|铥矿}} ×1<br>{{DSPic|32|铥矿}} ×1 ( 5% )<br>镶嵌的宝石×1",
+    "drop_param_current": "{{DSPic|32|铥矿}} ×1<br>{{DSPic|32|铥矿}} ×1 ( 5% )<br>镶嵌的宝石×1"
+  },
+  {
+    "page": "远古雕像/单机版",
+    "infobox_index": 9,
+    "drop_param_original": "{{DSPic|32|铥矿}} ×1<br>{{DSPic|32|铥矿}} × 1 ( 5% )<br>{{DSPic|32|噩梦燃料}}×1",
+    "drop_param_current": "{{DSPic|32|铥矿}} ×1<br>{{DSPic|32|铥矿}} × 1 ( 5% )<br>{{DSPic|32|噩梦燃料}}×1"
+  },
+  {
+    "page": "远古雕像/单机版",
+    "infobox_index": 16,
+    "drop_param_original": "{{DSPic|32|铥矿}} ×1<br>{{DSPic|32|铥矿}} × 1 ( 5% )<br>镶嵌的宝石×1",
+    "drop_param_current": "{{DSPic|32|铥矿}} ×1<br>{{DSPic|32|铥矿}} × 1 ( 5% )<br>镶嵌的宝石×1"
+  },
+  {
+    "page": "远古雕像/单机版",
+    "infobox_index": 22,
+    "drop_param_original": "{{DSPic|32|铥矿}} ×1<br>{{DSPic|32|铥矿}} × 1 ( 5% )<br>{{DSPic|32|噩梦燃料}}×1",
+    "drop_param_current": "{{DSPic|32|铥矿}} ×1<br>{{DSPic|32|铥矿}} × 1 ( 5% )<br>{{DSPic|32|噩梦燃料}}×1"
+  },
+  {
+    "page": "X标记点",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|骨头碎片}}×2",
+    "drop_param_current": "{{DSPic|32|骨头碎片}}×2"
+  },
+  {
+    "page": "被堵住的洞穴/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|燧石}}×3，{{DSPic|32|石头}}×2",
+    "drop_param_current": "{{DSPic|32|燧石}}×3，{{DSPic|32|石头}}×2"
+  },
+  {
+    "page": "被堵住的洞穴/单机版",
+    "infobox_index": 8,
+    "drop_param_original": "{{DSPic|32|铥矿}}×1，{{DSPic|32|铥矿碎片}}×2",
+    "drop_param_current": "{{DSPic|32|铥矿}}×1，{{DSPic|32|铥矿碎片}}×2"
+  },
+  {
+    "page": "被堵住的洞穴/单机版",
+    "infobox_index": 12,
+    "drop_param_original": "{{DSPic|32|燧石}}×3，{{DSPic|32|石头}}×2",
+    "drop_param_current": "{{DSPic|32|燧石}}×3，{{DSPic|32|石头}}×2"
+  },
+  {
+    "page": "蘑菇/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "未采集：<br>{{DSPic|32|采摘的红蘑菇}}×2{{hr}}已采集：<br>{{DSPic|32|采摘的红蘑菇}}×1",
+    "drop_param_current": "未采集：<br>{{DSPic|32|采摘的红蘑菇}}×2{{hr}}已采集：<br>{{DSPic|32|采摘的红蘑菇}}×1"
+  },
+  {
+    "page": "蘑菇/单机版",
+    "infobox_index": 39,
+    "drop_param_original": "未采集：<br>{{DSPic|32|采摘的绿蘑菇}}×2{{hr}}已采集：<br>{{DSPic|32|采摘的绿蘑菇}}×1",
+    "drop_param_current": "未采集：<br>{{DSPic|32|采摘的绿蘑菇}}×2{{hr}}已采集：<br>{{DSPic|32|采摘的绿蘑菇}}×1"
+  },
+  {
+    "page": "蘑菇/单机版",
+    "infobox_index": 77,
+    "drop_param_original": "未采集：<br>{{DSPic|32|采摘的蓝蘑菇}}×2{{hr}}已采集：<br>{{DSPic|32|采摘的蓝蘑菇}}×1",
+    "drop_param_current": "未采集：<br>{{DSPic|32|采摘的蓝蘑菇}}×2{{hr}}已采集：<br>{{DSPic|32|采摘的蓝蘑菇}}×1"
+  },
+  {
+    "page": "红树",
+    "infobox_index": 1,
+    "drop_param_original": "矮：{{DSPic|32|木头}}×1，{{DSPic|32|树枝}}×1 {{hr}}中：{{DSPic|32|木头}}×1，{{DSPic|32|树枝}}×2{{hr}}高：{{DSPic|32|木头}}×2，{{DSPic|32|树枝}}×3",
+    "drop_param_current": "矮：{{DSPic|32|木头}}×1，{{DSPic|32|树枝}}×1 {{hr}}中：{{DSPic|32|木头}}×1，{{DSPic|32|树枝}}×2{{hr}}高：{{DSPic|32|木头}}×2，{{DSPic|32|树枝}}×3"
+  },
+  {
+    "page": "天体后裔",
+    "infobox_index": 0,
+    "drop_param_original": "{{item/pic|id=lunar_seed}}×5，{{item/pic|id=purebrilliance}}×5，{{item/pic|id=trinket_6}}×2，{{item/pic|id=gears}}×1<br>{{item/pic|天体后裔雕塑}}的{{item/pic|天体后裔雕塑草图}}×1<br>{{item/pic|id=purebrilliance}}×1（70%）<br>{{item/pic|id=purebrilliance}}×1（30%）<br>{{item/pic|id=trinket_6}}×1（70%）<br>{{item/pic|id=gears}}×1（50%）{{hr}}首次额外掉落：<br>{{item/pic|id=wagstaff_item_1}}×1，{{item/pic|id=wagstaff_item_2}}×1",
+    "drop_param_current": "{{item/pic|id=lunar_seed}}×5，{{item/pic|id=purebrilliance}}×5，{{item/pic|id=trinket_6}}×2，{{item/pic|id=gears}}×1<br>{{item/pic|天体后裔雕塑}}的{{item/pic|天体后裔雕塑草图}}×1<br>{{item/pic|id=purebrilliance}}×1（70%）<br>{{item/pic|id=purebrilliance}}×1（30%）<br>{{item/pic|id=trinket_6}}×1（70%）<br>{{item/pic|id=gears}}×1（50%）{{hr}}首次额外掉落：<br>{{item/pic|id=wagstaff_item_1}}×1，{{item/pic|id=wagstaff_item_2}}×1"
+  },
+  {
+    "page": "螨地爬",
+    "infobox_index": 0,
+    "drop_param_original": "损坏状态下：<br>{{Item/pic|陀螺传导核心}}×1，{{Item/pic|齿轮}}×1，{{Item/pic|废料}}×2<br>\n{{Item/pic|齿轮}}×1（33.3%）<br>\n{{Item/pic|电子元件}}×1（66.7%）<br>\n{{Item/pic|废料}}×1（50%）",
+    "drop_param_current": "损坏状态下：<br>{{Item/pic|陀螺传导核心}}×1，{{Item/pic|齿轮}}×1，{{Item/pic|废料}}×2<br>\n{{Item/pic|齿轮}}×1（33.3%）<br>\n{{Item/pic|电子元件}}×1（66.7%）<br>\n{{Item/pic|废料}}×1（50%）"
+  },
+  {
+    "page": "试金石/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|石头}}×2，{{DSPic|32|大理石}}×2，{{DSPic|32|噩梦燃料}}×1",
+    "drop_param_current": "{{DSPic|32|石头}}×2，{{DSPic|32|大理石}}×2，{{DSPic|32|噩梦燃料}}×1"
+  },
+  {
+    "page": "试金石/单机版",
+    "infobox_index": 6,
+    "drop_param_original": "{{DSPic|32|石头}}×2，{{DSPic|32|石灰岩}}×2，{{DSPic|32|噩梦燃料}}×1",
+    "drop_param_current": "{{DSPic|32|石头}}×2，{{DSPic|32|石灰岩}}×2，{{DSPic|32|噩梦燃料}}×1"
+  },
+  {
+    "page": "猪头/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|猪皮}}×2，{{DSPic|32|树枝}}×2",
+    "drop_param_current": "{{DSPic|32|猪皮}}×2，{{DSPic|32|树枝}}×2"
+  },
+  {
+    "page": "野猪头",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|猪皮}}×1，{{DSPic|32|竹子}}×1",
+    "drop_param_current": "{{DSPic|32|猪皮}}×1，{{DSPic|32|竹子}}×1"
+  },
+  {
+    "page": "鱼人头/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|腐烂物}}×2，{{DSPic|32|树枝}}×2",
+    "drop_param_current": "{{DSPic|32|腐烂物}}×2，{{DSPic|32|树枝}}×2"
+  },
+  {
+    "page": "木门/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|木板}}×2，{{DSPic|32|绳子}}×1",
+    "drop_param_current": "{{DSPic|32|木板}}×2，{{DSPic|32|绳子}}×1"
+  },
+  {
+    "page": "猪火炬/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|粪肥}}x1，{{DSPic|32|木头}}x3",
+    "drop_param_current": "{{DSPic|32|粪肥}}x1，{{DSPic|32|木头}}x3"
+  },
+  {
+    "page": "海妖",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|赃物背包}}×1{{hr}}未解锁[[伍德莱格]]且当前世界不存在铁钥匙时额外掉落：<br>{{DSPic|32|铁钥匙}}×1",
+    "drop_param_current": "{{DSPic|32|赃物背包}}×1{{hr}}未解锁[[伍德莱格]]且当前世界不存在铁钥匙时额外掉落：<br>{{DSPic|32|铁钥匙}}×1"
+  },
+  {
+    "page": "海妖",
+    "infobox_index": 23,
+    "drop_param_original": "{{DSPic|32|触手皮}}×1（10%）<br>{{DSPic|32|触手尖刺}}×1（5%）",
+    "drop_param_current": "{{DSPic|32|触手皮}}×1（10%）<br>{{DSPic|32|触手尖刺}}×1（5%）"
+  },
+  {
+    "page": "兔蟹",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|小鱼块}}×1\n{{hr}}\n理智值低于40%时：<br>\n三选一：<br>\n{{DSPic|32|胡须}}×1（20%）<br>\n{{DSPic|32|怪物肉}}×1（40%）<br>\n{{DSPic|32|噩梦燃料}}×1（40%）",
+    "drop_param_current": "{{DSPic|32|小鱼块}}×1\n{{hr}}\n理智值低于40%时：<br>\n三选一：<br>\n{{DSPic|32|胡须}}×1（20%）<br>\n{{DSPic|32|怪物肉}}×1（40%）<br>\n{{DSPic|32|噩梦燃料}}×1（40%）"
+  },
+  {
+    "page": "战争瓦器人",
+    "infobox_index": 2,
+    "drop_param_original": "{{item/pic|废料}}×1，{{item/pic|战争瓦器人雕塑}}的{{item/pic|战争瓦器人雕塑草图}}×1<br>{{item/pic|齿轮}}×1（50%）<br>{{item/pic|电子元件}}×1（50%）<br>{{item/pic|废料}}×1（50%）",
+    "drop_param_current": "{{item/pic|废料}}×1，{{item/pic|战争瓦器人雕塑}}的{{item/pic|战争瓦器人雕塑草图}}×1<br>{{item/pic|齿轮}}×1（50%）<br>{{item/pic|电子元件}}×1（50%）<br>{{item/pic|废料}}×1（50%）"
+  },
+  {
+    "page": "虎鲨",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|生鱼肉}}×8，{{DSPic|32|虎鲨之眼}}×1，{{DSPic|32|鲨鱼腮}}×2<br>{{DSPic|32|虎鲨之眼}}×1（50%）<br>{{DSPic|32|鲨鱼腮}}×1（33%）<br>{{DSPic|32|鲨鱼腮}}×1（10%）",
+    "drop_param_current": "{{DSPic|32|生鱼肉}}×8，{{DSPic|32|虎鲨之眼}}×1，{{DSPic|32|鲨鱼腮}}×2<br>{{DSPic|32|虎鲨之眼}}×1（50%）<br>{{DSPic|32|鲨鱼腮}}×1（33%）<br>{{DSPic|32|鲨鱼腮}}×1（10%）"
+  },
+  {
+    "page": "豹卷风",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|Turbine Blades}}×1",
+    "drop_param_current": "{{DSPic|32|Turbine Blades}}×1"
+  },
+  {
+    "page": "板条箱",
+    "infobox_index": 0,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "黄莺",
+    "infobox_index": 0,
+    "drop_param_original": "{{Item/pic|陀螺传导核心}}×1，{{Item/pic|齿轮}}×1，{{Item/pic|废料}}×2<br>\n{{Item/pic|齿轮}}×1（33.3%）<br>\n{{Item/pic|电子元件}}×1（66.7%）<br>\n{{Item/pic|废料}}×1（50%）",
+    "drop_param_current": "{{Item/pic|陀螺传导核心}}×1，{{Item/pic|齿轮}}×1，{{Item/pic|废料}}×2<br>\n{{Item/pic|齿轮}}×1（33.3%）<br>\n{{Item/pic|电子元件}}×1（66.7%）<br>\n{{Item/pic|废料}}×1（50%）"
+  },
+  {
+    "page": "狗鱼",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|死狗鱼}}",
+    "drop_param_current": "{{DSPic|32|死狗鱼}}"
+  },
+  {
+    "page": "食人花/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|食人花种子}}",
+    "drop_param_current": "{{DSPic|32|食人花种子}}"
+  },
+  {
+    "page": "渡渡鸟",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|鸟腿}}×1，{{DSPic|32|渡渡鸟羽毛}}×1",
+    "drop_param_current": "{{DSPic|32|鸟腿}}×1，{{DSPic|32|渡渡鸟羽毛}}×1"
+  },
+  {
+    "page": "渡渡鸟",
+    "infobox_index": 5,
+    "drop_param_original": "{{DSPic|32|鸟腿}}×1，{{DSPic|32|渡渡鸟羽毛}}×2",
+    "drop_param_current": "{{DSPic|32|鸟腿}}×1，{{DSPic|32|渡渡鸟羽毛}}×2"
+  },
+  {
+    "page": "渡渡鸟",
+    "infobox_index": 8,
+    "drop_param_original": "{{DSPic|32|肉}}×1，{{DSPic|32|鸟腿}}×2，{{DSPic|32|渡渡鸟羽毛}}×2",
+    "drop_param_current": "{{DSPic|32|肉}}×1，{{DSPic|32|鸟腿}}×2，{{DSPic|32|渡渡鸟羽毛}}×2"
+  },
+  {
+    "page": "岩浆矿堆",
+    "infobox_index": 2,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "岩浆矿堆",
+    "infobox_index": 4,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "呆龙",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×2，{{DSPic|32|呆龙心脏}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×2，{{DSPic|32|呆龙心脏}}×1（25%）"
+  },
+  {
+    "page": "洞穴蠕虫/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×4，{{DSPic|32|发光浆果}}×1",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×4，{{DSPic|32|发光浆果}}×1"
+  },
+  {
+    "page": "小木牌/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|小木牌}}×1",
+    "drop_param_current": "{{DSPic|32|小木牌}}×1"
+  },
+  {
+    "page": "鳄狗",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|怪物肉}} ×1<br> {{DSPic|32|犬牙}} ×1（12.5%）<br>{{DSPic|32|犬牙}} ×1（12.5%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}} ×1<br> {{DSPic|32|犬牙}} ×1（12.5%）<br>{{DSPic|32|犬牙}} ×1（12.5%）"
+  },
+  {
+    "page": "鳄狗",
+    "infobox_index": 6,
+    "drop_param_original": "{{DSPic|32|怪物肉}} ×1<br> {{DSPic|32|犬牙}} ×2<br>{{DSPic|32|海带}} ×1（20%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}} ×1<br> {{DSPic|32|犬牙}} ×2<br>{{DSPic|32|海带}} ×1（20%）"
+  },
+  {
+    "page": "鳄狗",
+    "infobox_index": 10,
+    "drop_param_original": "{{DSPic|32|怪物肉}} ×1<br> {{DSPic|32|犬牙}} ×1<br>{{DSPic|32|毒腺}} ×1（20%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}} ×1<br> {{DSPic|32|犬牙}} ×1<br>{{DSPic|32|毒腺}} ×1（20%）"
+  },
+  {
+    "page": "珊瑚礁",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|珊瑚幼虫}}×1<br>{{DSPic|32|石灰岩}}×1<br>{{DSPic|32|石灰岩}}×1（66%）<br>{{DSPic|32|石灰岩}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|珊瑚幼虫}}×1<br>{{DSPic|32|石灰岩}}×1<br>{{DSPic|32|石灰岩}}×1（66%）<br>{{DSPic|32|石灰岩}}×1（33%）"
+  },
+  {
+    "page": "珊瑚礁",
+    "infobox_index": 7,
+    "drop_param_original": "{{DSPic|32|珊瑚}}×1<br>{{DSPic|32|珊瑚}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|珊瑚}}×1<br>{{DSPic|32|珊瑚}}×1（25%）"
+  },
+  {
+    "page": "珊瑚礁",
+    "infobox_index": 10,
+    "drop_param_original": "{{DSPic|32|珊瑚}}×1<br>{{DSPic|32|珊瑚}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|珊瑚}}×1<br>{{DSPic|32|珊瑚}}×1（50%）"
+  },
+  {
+    "page": "海猎犬",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×1<br>{{DSPic|32|犬牙}}×1（12.5%）<br>{{DSPic|32|鱼翅}}×1（12.5%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×1<br>{{DSPic|32|犬牙}}×1（12.5%）<br>{{DSPic|32|鱼翅}}×1（12.5%）"
+  },
+  {
+    "page": "农作物/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "野猪",
+    "infobox_index": 0,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "风滚草/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "见下表",
+    "drop_param_current": "见下表"
+  },
+  {
+    "page": "浣猫/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|肉}}×1<br>{{DSPic|32|猫尾}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|肉}}×1<br>{{DSPic|32|猫尾}}×1（33%）"
+  },
+  {
+    "page": "蛛网岩/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|石头}}×2<br>{{DSPic|32|蜘蛛丝}}×1<br>{{DSPic|32|蜘蛛腺}}×1（25%）<br>{{DSPic|32|蜘蛛丝}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|石头}}×2<br>{{DSPic|32|蜘蛛丝}}×1<br>{{DSPic|32|蜘蛛腺}}×1（25%）<br>{{DSPic|32|蜘蛛丝}}×1（50%）"
+  },
+  {
+    "page": "骷髅/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|骨头碎片}}×2",
+    "drop_param_current": "{{DSPic|32|骨头碎片}}×2"
+  },
+  {
+    "page": "草/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|草丛}}",
+    "drop_param_current": "{{DSPic|32|草丛}}"
+  },
+  {
+    "page": "柜台",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|木板}}×2<br>{{DSPic|32|木板}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|木板}}×2<br>{{DSPic|32|木板}}×1（50%）"
+  },
+  {
+    "page": "巨型仙人掌",
+    "infobox_index": 2,
+    "drop_param_original": "活跃状态：<br>{{DSPic|32|仙人掌刺}}{{hr}}休眠状态：<br>有刺：{{DSPic|32|仙人掌刺}}<br>无刺：{{DSPic|32|树枝}}×2",
+    "drop_param_current": "活跃状态：<br>{{DSPic|32|仙人掌刺}}{{hr}}休眠状态：<br>有刺：{{DSPic|32|仙人掌刺}}<br>无刺：{{DSPic|32|树枝}}×2"
+  },
+  {
+    "page": "巨型仙人掌",
+    "infobox_index": 10,
+    "drop_param_original": "{{DSPic|32|树枝}}×2",
+    "drop_param_current": "{{DSPic|32|树枝}}×2"
+  },
+  {
+    "page": "巨型仙人掌",
+    "infobox_index": 12,
+    "drop_param_original": "{{DSPic|32|巨型仙人掌}}",
+    "drop_param_current": "{{DSPic|32|巨型仙人掌}}"
+  },
+  {
+    "page": "犬骨/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|骨头碎片}}×1{{hr}}样式3额外掉落：<br>{{DSPic|32|犬牙}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|骨头碎片}}×1{{hr}}样式3额外掉落：<br>{{DSPic|32|犬牙}}×1（50%）"
+  },
+  {
+    "page": "龙虾/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|死龙虾}}",
+    "drop_param_current": "{{DSPic|32|死龙虾}}"
+  },
+  {
+    "page": "猎犬/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×1<br>{{DSPic|32|犬牙}}×1（12.5%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×1<br>{{DSPic|32|犬牙}}×1（12.5%）"
+  },
+  {
+    "page": "猎犬/单机版",
+    "infobox_index": 10,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×1，{{DSPic|32|犬牙}}×2，{{DSPic|32|灰烬}}×2<br>{{DSPic|32|红宝石}}×1（20%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×1，{{DSPic|32|犬牙}}×2，{{DSPic|32|灰烬}}×2<br>{{DSPic|32|红宝石}}×1（20%）"
+  },
+  {
+    "page": "猎犬/单机版",
+    "infobox_index": 17,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×1，{{DSPic|32|犬牙}}×2<br>{{DSPic|32|蓝宝石}}×1（20%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×1，{{DSPic|32|犬牙}}×2<br>{{DSPic|32|蓝宝石}}×1（20%）"
+  },
+  {
+    "page": "蜜蜂/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "三选一：<br>\n{{DSPic|32|蜂刺}}（80%）<br> {{DSPic|32|蜂蜜}}（16%）<br> {{DSPic|32|捆绑包装}}的{{DSPic|32|蓝图}}（4%）",
+    "drop_param_current": "三选一：<br>\n{{DSPic|32|蜂刺}}（80%）<br> {{DSPic|32|蜂蜜}}（16%）<br> {{DSPic|32|捆绑包装}}的{{DSPic|32|蓝图}}（4%）"
+  },
+  {
+    "page": "蜜蜂/单机版",
+    "infobox_index": 11,
+    "drop_param_original": "三选一：<br>\n{{DSPic|32|蜂刺}}（80%）<br> {{DSPic|32|蜂蜜}}（16%）<br> {{DSPic|32|捆绑包装}}的{{DSPic|32|蓝图}}（4%）",
+    "drop_param_current": "三选一：<br>\n{{DSPic|32|蜂刺}}（80%）<br> {{DSPic|32|蜂蜜}}（16%）<br> {{DSPic|32|捆绑包装}}的{{DSPic|32|蓝图}}（4%）"
+  },
+  {
+    "page": "兔子/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|小肉}}×1{{hr}}胡须兔：{{DSPic|32|怪物肉}}40%，{{DSPic|32|噩梦燃料}}40%，{{DSPic|32|胡须}}20%",
+    "drop_param_current": "{{DSPic|32|小肉}}×1{{hr}}胡须兔：{{DSPic|32|怪物肉}}40%，{{DSPic|32|噩梦燃料}}40%，{{DSPic|32|胡须}}20%"
+  },
+  {
+    "page": "妥协雕像",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|石头}}×1，{{DSPic|32|燧石}}×2",
+    "drop_param_current": "{{DSPic|32|石头}}×1，{{DSPic|32|燧石}}×2"
+  },
+  {
+    "page": "黑曜石岩石",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|黑曜石}}×2<br>{{DSPic|32|黑曜石}}×1（50%）<br>{{DSPic|32|黑曜石}}×2（每个25%）",
+    "drop_param_current": "{{DSPic|32|黑曜石}}×2<br>{{DSPic|32|黑曜石}}×1（50%）<br>{{DSPic|32|黑曜石}}×2（每个25%）"
+  },
+  {
+    "page": "木炭岩石",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|木炭}}×2<br>{{DSPic|32|木炭}}×1（50%）<br>{{DSPic|32|木炭}}×2（每个25%）<br>{{DSPic|32|燧石}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|木炭}}×2<br>{{DSPic|32|木炭}}×1（50%）<br>{{DSPic|32|木炭}}×2（每个25%）<br>{{DSPic|32|燧石}}×1（50%）"
+  },
+  {
+    "page": "灰烬树",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|灰烬}}×1",
+    "drop_param_current": "{{DSPic|32|灰烬}}×1"
+  },
+  {
+    "page": "咖啡树",
+    "infobox_index": 1,
+    "drop_param_original": "[[文件:Coffee_Plant.png|32px|link=咖啡树]]×1{{hr}}枯萎状态：{{DSPic|32|树枝}}×2",
+    "drop_param_current": "[[文件:Coffee_Plant.png|32px|link=咖啡树]]×1{{hr}}枯萎状态：{{DSPic|32|树枝}}×2"
+  },
+  {
+    "page": "木栅栏/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|树枝}}×1",
+    "drop_param_current": "{{DSPic|32|树枝}}×1"
+  },
+  {
+    "page": "亮喙鸟",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|腐烂物}}×1",
+    "drop_param_current": "{{item/pic|腐烂物}}×1"
+  },
+  {
+    "page": "水晶冠秃鹫",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|腐烂物}}×1<br>{{item/pic|月亮碎片}}×1（50%）",
+    "drop_param_current": "{{item/pic|腐烂物}}×1<br>{{item/pic|月亮碎片}}×1（50%）"
+  },
+  {
+    "page": "熊獾/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "[[File:Meat.png|32px|肉]]×8，[[File:Thick Fur.png|32px|link=熊皮]]×1",
+    "drop_param_current": "[[File:Meat.png|32px|肉]]×8，[[File:Thick Fur.png|32px|link=熊皮]]×1"
+  },
+  {
+    "page": "曼德拉草/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "[[File:Mandrake.png|32px|link=]]",
+    "drop_param_current": "[[File:Mandrake.png|32px|link=]]"
+  },
+  {
+    "page": "曼德拉草/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "[[File:Mandrake.png|32px|link=]]",
+    "drop_param_current": "[[File:Mandrake.png|32px|link=]]"
+  },
+  {
+    "page": "毒蚊子",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|黄色蚊子血囊}}×1（50%）<br>{{DSPic|32|毒腺}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|黄色蚊子血囊}}×1（50%）<br>{{DSPic|32|毒腺}}×1（25%）"
+  },
+  {
+    "page": "独眼巨鹿/单机版",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|肉}}×8，{{DSPic|32|独眼巨鹿眼球}}×1",
+    "drop_param_current": "{{DSPic|32|肉}}×8，{{DSPic|32|独眼巨鹿眼球}}×1"
+  },
+  {
+    "page": "蝴蝶/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|蝴蝶翅膀}}（98%）<br>{{DSPic|32|黄油}}（2%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|蝴蝶翅膀}}（98%）<br>{{DSPic|32|黄油}}（2%）"
+  },
+  {
+    "page": "火鸡/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|鸟腿}}×2",
+    "drop_param_current": "{{DSPic|32|鸟腿}}×2"
+  },
+  {
+    "page": "海象/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|肉}}×1，{{DSPic|32|吹箭}}×1<br>{{DSPic|32|海象牙}}×1（50%）<br>{{DSPic|32|贝雷帽}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|肉}}×1，{{DSPic|32|吹箭}}×1<br>{{DSPic|32|海象牙}}×1（50%）<br>{{DSPic|32|贝雷帽}}×1（25%）"
+  },
+  {
+    "page": "蚊子/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|蚊子血囊}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|蚊子血囊}}×1（50%）"
+  },
+  {
+    "page": "永冻企鸥",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|id=monstermeat}}×1（25%）<br>{{item/pic|id=ice}}×1（50%）",
+    "drop_param_current": "{{item/pic|id=monstermeat}}×1（25%）<br>{{item/pic|id=ice}}×1（50%）"
+  },
+  {
+    "page": "鲸鱼尸体",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|生鱼肉}}×4，{{DSPic|32|鲸脂}}×4，{{DSPic|32|鱼叉}}×1，{{DSPic|32|骨头碎片}}×1<br>[[#可能的随机物品|其他物品]]×9",
+    "drop_param_current": "{{DSPic|32|生鱼肉}}×4，{{DSPic|32|鲸脂}}×4，{{DSPic|32|鱼叉}}×1，{{DSPic|32|骨头碎片}}×1<br>[[#可能的随机物品|其他物品]]×9"
+  },
+  {
+    "page": "鲸鱼尸体",
+    "infobox_index": 7,
+    "drop_param_original": "{{DSPic|32|生鱼肉}}×4，{{DSPic|32|鲸脂}}×4<br>[[#可能的随机物品|其他物品]]×9",
+    "drop_param_current": "{{DSPic|32|生鱼肉}}×4，{{DSPic|32|鲸脂}}×4<br>[[#可能的随机物品|其他物品]]×9"
+  },
+  {
+    "page": "猫鲨",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|生鱼肉}}×2，{{DSPic|32|鱼翅}}×1<br>{{DSPic|32|鲨鱼腮}}×1（25%）<br>{{DSPic|32|鲨鱼腮}}×1（10%）",
+    "drop_param_current": "{{DSPic|32|生鱼肉}}×2，{{DSPic|32|鱼翅}}×1<br>{{DSPic|32|鲨鱼腮}}×1（25%）<br>{{DSPic|32|鲨鱼腮}}×1（10%）"
+  },
+  {
+    "page": "树苗/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "[[File:Sapling Item.png|32px]]<br>{{DSPic|32|树枝}}（枯萎）",
+    "drop_param_current": "[[File:Sapling Item.png|32px]]<br>{{DSPic|32|树枝}}（枯萎）"
+  },
+  {
+    "page": "桦栗果/单机版",
+    "infobox_index": 10,
+    "drop_param_original": "{{DSPic|32|Twigs}}（{{DSPic|32|Shovel}}）",
+    "drop_param_current": "{{DSPic|32|Twigs}}（{{DSPic|32|Shovel}}）"
+  },
+  {
+    "page": "猿猴小屋",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|粪肥}}×2，{{DSPic|32|香蕉}}×2<br>{{DSPic|32|地精爷爷}}×1（1%）{{hr}}未解锁[[威尔伯]]，且世界不存在失去光泽的王冠时：<br>{{DSPic|32|失去光泽的王冠}}×1（10%）",
+    "drop_param_current": "{{DSPic|32|粪肥}}×2，{{DSPic|32|香蕉}}×2<br>{{DSPic|32|地精爷爷}}×1（1%）{{hr}}未解锁[[威尔伯]]，且世界不存在失去光泽的王冠时：<br>{{DSPic|32|失去光泽的王冠}}×1（10%）"
+  },
+  {
+    "page": "针刺树/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|树枝}}×1<br>{{DSPic|32|木头}}×1（20%）",
+    "drop_param_current": "{{DSPic|32|树枝}}×1<br>{{DSPic|32|木头}}×1（20%）"
+  },
+  {
+    "page": "格罗姆雕像/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|大理石}}×3<br>{{DSPic|32|远古铃铛}}的{{DSPic|32|蓝图}}",
+    "drop_param_current": "{{DSPic|32|大理石}}×3<br>{{DSPic|32|远古铃铛}}的{{DSPic|32|蓝图}}"
+  },
+  {
+    "page": "竖琴雕像/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|大理石}}×2<br>{{DSPic|32|大理石}}×1（30%）",
+    "drop_param_current": "{{DSPic|32|大理石}}×2<br>{{DSPic|32|大理石}}×1（30%）"
+  },
+  {
+    "page": "伍德莱格的囚笼",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|木头}}×2，{{DSPic|32|木板}}×2，{{DSPic|32|石头}}×1<br>{{DSPic|32|藤}}×1",
+    "drop_param_current": "{{DSPic|32|木头}}×2，{{DSPic|32|木板}}×2，{{DSPic|32|石头}}×1<br>{{DSPic|32|藤}}×1"
+  },
+  {
+    "page": "完全正常的树/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|活木头}}×2",
+    "drop_param_current": "{{DSPic|32|活木头}}×2"
+  },
+  {
+    "page": "藤蔓",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|蛇皮}}×1（仅限蛇居藤蔓）",
+    "drop_param_current": "{{DSPic|32|蛇皮}}×1（仅限蛇居藤蔓）"
+  },
+  {
+    "page": "大眼鱼",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×1<br>{{DSPic|32|眼睛吹箭}}×1（25%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×1<br>{{DSPic|32|眼睛吹箭}}×1（25%）"
+  },
+  {
+    "page": "丛林树种子",
+    "infobox_index": 3,
+    "drop_param_original": "{{DSPic|32|树枝}}×1",
+    "drop_param_current": "{{DSPic|32|树枝}}×1"
+  },
+  {
+    "page": "鱼人渔夫",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|热带鱼}}×1",
+    "drop_param_current": "{{DSPic|32|热带鱼}}×1"
+  },
+  {
+    "page": "浮船骑士",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|齿轮}}×1<br>{{DSPic|32|齿轮}}×1（66%）<br>{{DSPic|32|齿轮}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|齿轮}}×1<br>{{DSPic|32|齿轮}}×1（66%）<br>{{DSPic|32|齿轮}}×1（33%）"
+  },
+  {
+    "page": "鱼人渔夫的小屋",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|木板}}×1，{{DSPic|32|石头}}×1，{{DSPic|32|热带鱼}}×1",
+    "drop_param_current": "{{DSPic|32|木板}}×1，{{DSPic|32|石头}}×1，{{DSPic|32|热带鱼}}×1"
+  },
+  {
+    "page": "帽贝岩",
+    "infobox_index": 0,
+    "drop_param_original": "{{DSPic|32|石头}}×3，{{DSPic|32|燧石}}×1<br>{{DSPic|32|燧石}}×1（60%）",
+    "drop_param_current": "{{DSPic|32|石头}}×3，{{DSPic|32|燧石}}×1<br>{{DSPic|32|燧石}}×1（60%）"
+  },
+  {
+    "page": "鱼人房",
+    "infobox_index": 1,
+    "drop_param_original": "默认：<br>{{DSPic|32|鱼}}×1，{{DSPic|32|木板}}×1，{{DSPic|32|石头}}×1{{hr}}海难世界：<br>{{DSPic|32|热带鱼}}×1，{{DSPic|32|木板}}×1，{{DSPic|32|石头}}×1",
+    "drop_param_current": "默认：<br>{{DSPic|32|鱼}}×1，{{DSPic|32|木板}}×1，{{DSPic|32|石头}}×1{{hr}}海难世界：<br>{{DSPic|32|热带鱼}}×1，{{DSPic|32|木板}}×1，{{DSPic|32|石头}}×1"
+  },
+  {
+    "page": "洞穴蝙蝠/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×1（10%）<br>{{DSPic|32|洞穴蝙蝠翅膀}}×1（25%）<br>{{DSPic|32|鸟粪}}×1（15%）",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×1（10%）<br>{{DSPic|32|洞穴蝙蝠翅膀}}×1（25%）<br>{{DSPic|32|鸟粪}}×1（15%）"
+  },
+  {
+    "page": "鱼人/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "默认：{{DSPic|32|鱼}}×1，{{DSPic|32|蛙腿}}×1{{hr}}海难世界：{{DSPic|32|热带鱼}}×1{{SW|+}}",
+    "drop_param_current": "默认：{{DSPic|32|鱼}}×1，{{DSPic|32|蛙腿}}×1{{hr}}海难世界：{{DSPic|32|热带鱼}}×1{{SW|+}}"
+  },
+  {
+    "page": "丛林树",
+    "infobox_index": 1,
+    "drop_param_original": "矮：{{DSPic|32|木头}}×1{{hr}}中：{{DSPic|32|木头}}×2，{{DSPic|32|丛林树种子}}×1{{hr}}高：{{DSPic|32|木头}}×3，{{DSPic|32|丛林树种子}}×2",
+    "drop_param_current": "矮：{{DSPic|32|木头}}×1{{hr}}中：{{DSPic|32|木头}}×2，{{DSPic|32|丛林树种子}}×1{{hr}}高：{{DSPic|32|木头}}×3，{{DSPic|32|丛林树种子}}×2"
+  },
+  {
+    "page": "椰树",
+    "infobox_index": 1,
+    "drop_param_original": "矮：{{DSPic|32|木头}}×1，{{DSPic|32|椰树叶}}×1{{hr}}中：{{DSPic|32|木头}}×2，{{DSPic|32|椰树叶}}×1{{hr}}高：<br>{{DSPic|32|木头}}×3，{{DSPic|32|椰树叶}}×1，{{DSPic|32|椰子}}×1<br>{{DSPic|32|椰子}}×1（33%）",
+    "drop_param_current": "矮：{{DSPic|32|木头}}×1，{{DSPic|32|椰树叶}}×1{{hr}}中：{{DSPic|32|木头}}×2，{{DSPic|32|椰树叶}}×1{{hr}}高：<br>{{DSPic|32|木头}}×3，{{DSPic|32|椰树叶}}×1，{{DSPic|32|椰子}}×1<br>{{DSPic|32|椰子}}×1（33%）"
+  },
+  {
+    "page": "敌意虚影",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|纯粹辉煌}}×1<br>{{item/pic|纯粹辉煌}}×1（20%）",
+    "drop_param_current": "{{item/pic|纯粹辉煌}}×1<br>{{item/pic|纯粹辉煌}}×1（20%）"
+  },
+  {
+    "page": "伏特羊/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|Meat}}×3<br>{{DSPic|32|Volt Goat Horn}}×1（25%）{{hr}}充电时额外掉落：<br>{{DSPic|32|带电的羊奶}}×1",
+    "drop_param_current": "{{DSPic|32|Meat}}×3<br>{{DSPic|32|Volt Goat Horn}}×1（25%）{{hr}}充电时额外掉落：<br>{{DSPic|32|带电的羊奶}}×1"
+  },
+  {
+    "page": "企鸥/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|黑色羽毛}}×1（20%）<br>{{DSPic|32|小肉}}×1（10%）<br>{{DSPic|32|鸟腿}}×1（10%）",
+    "drop_param_current": "{{DSPic|32|黑色羽毛}}×1（20%）<br>{{DSPic|32|小肉}}×1（10%）<br>{{DSPic|32|鸟腿}}×1（10%）"
+  },
+  {
+    "page": "椰树守卫",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|活木头}}×6，{{DSPic|32|怪物肉}}×1，{{DSPic|32|椰子}}×2",
+    "drop_param_current": "{{DSPic|32|活木头}}×6，{{DSPic|32|怪物肉}}×1，{{DSPic|32|椰子}}×2"
+  },
+  {
+    "page": "恶臭蝠鲼",
+    "infobox_index": 0,
+    "drop_param_original": "二选一：<br>{{DSPic|32|怪物肉}}（66.6%）<br>{{DSPic|32|毒腺}}（33.3%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|怪物肉}}（66.6%）<br>{{DSPic|32|毒腺}}（33.3%）"
+  },
+  {
+    "page": "涟漪",
+    "infobox_index": 1,
+    "drop_param_original": "每个体节：<br>{{item/pic|绝望石}}×1，{{item/pic|纯粹恐惧}}×2，{{item/pic|噩梦燃料}}×2<br>{{item/pic|绝望石}}×1（66%）<br>{{item/pic|绝望石}}×1（34%）<br>{{item/pic|纯粹恐惧}}×1（25%）<br>{{item/pic|噩梦燃料}}×1（50%）<br>{{item/pic|噩梦燃料}}×2（25%）",
+    "drop_param_current": "每个体节：<br>{{item/pic|绝望石}}×1，{{item/pic|纯粹恐惧}}×2，{{item/pic|噩梦燃料}}×2<br>{{item/pic|绝望石}}×1（66%）<br>{{item/pic|绝望石}}×1（34%）<br>{{item/pic|纯粹恐惧}}×1（25%）<br>{{item/pic|噩梦燃料}}×1（50%）<br>{{item/pic|噩梦燃料}}×2（25%）"
+  },
+  {
+    "page": "麋鹿鹅/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|肉}}×6，{{DSPic|32|鸟腿}}×2，{{DSPic|32|麋鹿鹅羽毛}}×3<br>{{DSPic|32|麋鹿鹅羽毛}}×1（33%）<br>{{DSPic|32|麋鹿鹅羽毛}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|肉}}×6，{{DSPic|32|鸟腿}}×2，{{DSPic|32|麋鹿鹅羽毛}}×3<br>{{DSPic|32|麋鹿鹅羽毛}}×1（33%）<br>{{DSPic|32|麋鹿鹅羽毛}}×1（33%）"
+  },
+  {
+    "page": "麋鹿鹅幼崽/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|肉}}×1，{{DSPic|32|鸟腿}}×1，{{DSPic|32|麋鹿鹅羽毛}}×2<br>{{DSPic|32|麋鹿鹅羽毛}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|肉}}×1，{{DSPic|32|鸟腿}}×1，{{DSPic|32|麋鹿鹅羽毛}}×2<br>{{DSPic|32|麋鹿鹅羽毛}}×1（33%）"
+  },
+  {
+    "page": "水牛",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|肉}}×4<br>{{DSPic|32|水牛角}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|肉}}×4<br>{{DSPic|32|水牛角}}×1（33%）"
+  },
+  {
+    "page": "水牛",
+    "infobox_index": 18,
+    "drop_param_original": "宝宝：<br>{{DSPic|32|小肉}}×3，{{hr}}幼年：<br>{{DSPic|32|小肉}}×4，{{hr}}青年：<br>{{DSPic|32|肉}}×3",
+    "drop_param_current": "宝宝：<br>{{DSPic|32|小肉}}×3，{{hr}}幼年：<br>{{DSPic|32|小肉}}×4，{{hr}}青年：<br>{{DSPic|32|肉}}×3"
+  },
+  {
+    "page": "青蛙/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|蛙腿}}",
+    "drop_param_current": "{{DSPic|32|蛙腿}}"
+  },
+  {
+    "page": "巨石枝",
+    "infobox_index": 1,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "巨石枝",
+    "infobox_index": 2,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "疯猪/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "{{DSPic|32|肉}}×2，{{DSPic|32|猪皮}}×1",
+    "drop_param_current": "{{DSPic|32|肉}}×2，{{DSPic|32|猪皮}}×1"
+  },
+  {
+    "page": "座狼/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|犬牙}}×1，{{DSPic|32|怪物肉}}×4<br>\n{{DSPic|32|怪物肉}}×2（每个50%）<br>\n{{DSPic|32|犬牙}}×1（66%）<br>\n{{DSPic|32|犬牙}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|犬牙}}×1，{{DSPic|32|怪物肉}}×4<br>\n{{DSPic|32|怪物肉}}×2（每个50%）<br>\n{{DSPic|32|犬牙}}×1（66%）<br>\n{{DSPic|32|犬牙}}×1（33%）"
+  },
+  {
+    "page": "树精守卫/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|怪物肉}}×1，{{DSPic|32|活木头}}×6",
+    "drop_param_current": "{{DSPic|32|怪物肉}}×1，{{DSPic|32|活木头}}×6"
+  },
+  {
+    "page": "啜食者/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|荧光果}}×2<br>{{DSPic|32|啜食者皮}}×1（50%）",
+    "drop_param_current": "{{DSPic|32|荧光果}}×2<br>{{DSPic|32|啜食者皮}}×1（50%）"
+  },
+  {
+    "page": "桦栗果精/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "二选一：<br>{{DSPic|32|树枝}}（60%）<br>{{DSPic|32|桦栗果}}（40%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|树枝}}（60%）<br>{{DSPic|32|桦栗果}}（40%）"
+  },
+  {
+    "page": "发条战车/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|齿轮}}×2",
+    "drop_param_current": "{{DSPic|32|齿轮}}×2"
+  },
+  {
+    "page": "常青树/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|木头}}{{DSPic|32|松果}}",
+    "drop_param_current": "{{DSPic|32|木头}}{{DSPic|32|松果}}"
+  },
+  {
+    "page": "常青树/单机版",
+    "infobox_index": 22,
+    "drop_param_original": "{{DSPic|32|木头}}",
+    "drop_param_current": "{{DSPic|32|木头}}"
+  },
+  {
+    "page": "迷你冰川/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "高大：{{DSPic|32|冰}}×4，{{DSPic|32|石头}}×1{{hr}}中等：{{DSPic|32|冰}}×2，{{DSPic|32|石头}}×1{{hr}}矮小：{{DSPic|32|冰}}×1，{{DSPic|32|石头}}×1",
+    "drop_param_current": "高大：{{DSPic|32|冰}}×4，{{DSPic|32|石头}}×1{{hr}}中等：{{DSPic|32|冰}}×2，{{DSPic|32|石头}}×1{{hr}}矮小：{{DSPic|32|冰}}×1，{{DSPic|32|石头}}×1"
+  },
+  {
+    "page": "鼹鼠丘/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "见正文",
+    "drop_param_current": "见正文"
+  },
+  {
+    "page": "鼹鼠/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|小肉}}×1",
+    "drop_param_current": "{{DSPic|32|小肉}}×1"
+  },
+  {
+    "page": "松果/单机版",
+    "infobox_index": 7,
+    "drop_param_original": "{{DSPic|32|树枝}}",
+    "drop_param_current": "{{DSPic|32|树枝}}"
+  },
+  {
+    "page": "秃鹫/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|鸟腿}}×1<br>{{DSPic|32|黑色羽毛}}×1（33%）<br>{{DSPic|32|小肉}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|鸟腿}}×1<br>{{DSPic|32|黑色羽毛}}×1（33%）<br>{{DSPic|32|小肉}}×1（33%）"
+  },
+  {
+    "page": "皮弗娄牛/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|牛毛}}×3，{{DSPic|32|肉}}×4<br>{{DSPic|32|牛角}}×1（33%）",
+    "drop_param_current": "{{DSPic|32|牛毛}}×3，{{DSPic|32|肉}}×4<br>{{DSPic|32|牛角}}×1（33%）"
+  },
+  {
+    "page": "皮弗娄牛/单机版",
+    "infobox_index": 23,
+    "drop_param_original": "宝宝：<br>{{DSPic|32|小肉}}×3，{{DSPic|32|牛毛}}×1{{hr}}幼年：<br>{{DSPic|32|小肉}}×4，{{DSPic|32|牛毛}}×2{{hr}}青年：<br>{{DSPic|32|肉}}×3，{{DSPic|32|牛毛}}×2",
+    "drop_param_current": "宝宝：<br>{{DSPic|32|小肉}}×3，{{DSPic|32|牛毛}}×1{{hr}}幼年：<br>{{DSPic|32|小肉}}×4，{{DSPic|32|牛毛}}×2{{hr}}青年：<br>{{DSPic|32|肉}}×3，{{DSPic|32|牛毛}}×2"
+  },
+  {
+    "page": "浆果丛/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "[[文件:Berry_Bush.png|32px]]×1{{hr}}枯萎状态：{{DSPic|32|树枝}}×2\n<!--|代码=berrybush<br>berrybush_snake（蛇居浆果丛）-->",
+    "drop_param_current": "[[文件:Berry_Bush.png|32px]]×1{{hr}}枯萎状态：{{DSPic|32|树枝}}×2\n<!--|代码=berrybush<br>berrybush_snake（蛇居浆果丛）-->"
+  },
+  {
+    "page": "浆果丛/单机版",
+    "infobox_index": 26,
+    "drop_param_original": "[[文件:Berry_Bush2.png|32px]]×1{{hr}}枯萎状态：{{DSPic|32|树枝}}×2",
+    "drop_param_current": "[[文件:Berry_Bush2.png|32px]]×1{{hr}}枯萎状态：{{DSPic|32|树枝}}×2"
+  },
+  {
+    "page": "损坏的发条装置/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|烂电线}}×1<br>{{DSPic|32|烂电线}}（50%）<br>{{DSPic|32|齿轮}}（25%）<br>{{DSPic|32|熔化的弹珠}}（25%）<br>{{DSPic|32|红宝石}}（5%）<br>{{DSPic|32|紫宝石}}（5%）<br>{{DSPic|32|橙宝石}}（5%）<br>{{DSPic|32|黄宝石}}（5%）<br>{{DSPic|32|绿宝石}}（5%）<br>{{DSPic|32|铥矿}}（1%）",
+    "drop_param_current": "{{DSPic|32|烂电线}}×1<br>{{DSPic|32|烂电线}}（50%）<br>{{DSPic|32|齿轮}}（25%）<br>{{DSPic|32|熔化的弹珠}}（25%）<br>{{DSPic|32|红宝石}}（5%）<br>{{DSPic|32|紫宝石}}（5%）<br>{{DSPic|32|橙宝石}}（5%）<br>{{DSPic|32|黄宝石}}（5%）<br>{{DSPic|32|绿宝石}}（5%）<br>{{DSPic|32|铥矿}}（1%）"
+  },
+  {
+    "page": "猪人守卫/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）",
+    "drop_param_current": "二选一：<br>{{DSPic|32|肉}}（75%）<br>{{DSPic|32|猪皮}}（25%）"
+  },
+  {
+    "page": "发条主教/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|齿轮}}×2，{{DSPic|32|紫宝石}}×1",
+    "drop_param_current": "{{DSPic|32|齿轮}}×2，{{DSPic|32|紫宝石}}×1"
+  },
+  {
+    "page": "地热螨",
+    "infobox_index": 1,
+    "drop_param_original": "{{item/pic|怪物肉}}×1<br>{{item/pic|石头}}×1（<!--{{tooltips|50%|防御时提升至100%}} 我感觉这个也没用上-->50%）{{hr}}裂隙期间额外掉落：<br>{{item/pic|纯粹恐惧}}×1（50%）",
+    "drop_param_current": "{{item/pic|怪物肉}}×1<br>{{item/pic|石头}}×1（<!--{{tooltips|50%|防御时提升至100%}} 我感觉这个也没用上-->50%）{{hr}}裂隙期间额外掉落：<br>{{item/pic|纯粹恐惧}}×1（50%）"
+  },
+  {
+    "page": "洞穴香蕉树/单机版",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|木头}}×2，{{DSPic|32|树枝}}×1",
+    "drop_param_current": "{{DSPic|32|木头}}×2，{{DSPic|32|树枝}}×1"
+  },
+  {
+    "page": "毒蛙",
+    "infobox_index": 5,
+    "drop_param_original": "{{DSPic|32|蛙腿}}×1",
+    "drop_param_current": "{{DSPic|32|蛙腿}}×1"
+  },
+  {
+    "page": "偷窥雀",
+    "infobox_index": 1,
+    "drop_param_original": "{{DSPic|32|鸟腿}}×1<br>{{DSPic|32|小肉}}×1<br>{{DSPic|32|小肉}}×1（30%）<br>{{DSPic|32|黑色羽毛}}×1（30%）",
+    "drop_param_current": "{{DSPic|32|鸟腿}}×1<br>{{DSPic|32|小肉}}×1<br>{{DSPic|32|小肉}}×1（30%）<br>{{DSPic|32|黑色羽毛}}×1（30%）"
+  },
+  {
+    "page": "尖刺灌木/单机版",
+    "infobox_index": 2,
+    "drop_param_original": "[[File:Spiky Bush.png|32px]]",
+    "drop_param_current": "[[File:Spiky Bush.png|32px]]"
+  },
+  {
+    "page": "用户讨论:Mr鲁鲁/信息框",
+    "infobox_index": 13,
+    "drop_param_original": "{{item/pic|金块}}×6",
+    "drop_param_current": "{{item/pic|金块}}×6"
+  }
+]

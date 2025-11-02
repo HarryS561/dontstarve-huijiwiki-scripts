@@ -1,0 +1,111 @@
+BRANCH = '' --代码里似乎没有定义这个常量
+GROUND = {}
+SPECIAL_EVENTS = {}
+function IsSpecialEventActive() return false end
+
+--以下从游戏源代码中选择性复制
+--地皮相关、NODE_TYPE、seed_mode相关、LAYOUT相关
+
+WORLD_TILES = {
+    INVALID = 65535,
+}
+
+LEGACY_WORLD_TILES_LAND_START = 2
+LEGACY_WORLD_TILES_LAND_END = 127
+
+LEGACY_WORLD_TILES_NOISE_START = 110
+LEGACY_WORLD_TILES_NOISE_END = 127
+
+WORLD_TILES_LAND_START = 256
+WORLD_TILES_LAND_SIZE = 8192
+
+WORLD_TILES_LAND_ONLY_END = WORLD_TILES_LAND_START + WORLD_TILES_LAND_SIZE
+
+WORLD_TILES_NOISE_START = WORLD_TILES_LAND_ONLY_END + 1
+WORLD_TILES_NOISE_SIZE = 2048
+WORLD_TILES_NOISE_END = WORLD_TILES_NOISE_START + WORLD_TILES_NOISE_SIZE
+
+WORLD_TILES_LAND_END = WORLD_TILES_NOISE_END
+
+LEGACY_WORLD_TILES_OCEAN_START = 201
+LEGACY_WORLD_TILES_OCEAN_END = 247
+
+WORLD_TILES_OCEAN_START = WORLD_TILES_LAND_END + 1
+WORLD_TILES_OCEAN_SIZE = 4096
+WORLD_TILES_OCEAN_END = WORLD_TILES_OCEAN_START + WORLD_TILES_OCEAN_SIZE
+
+LEGACY_WORLD_TILES_IMPASSABLE_START = 128
+LEGACY_WORLD_TILES_IMPASSABLE_END = 200
+
+WORLD_TILES_IMPASSABLE_START = WORLD_TILES_OCEAN_END + 1
+WORLD_TILES_IMPASSABLE_SIZE = 4096
+WORLD_TILES_IMPASSABLE_END = WORLD_TILES_IMPASSABLE_START + WORLD_TILES_IMPASSABLE_SIZE
+
+-- See cell_data.h
+NODE_TYPE =
+{
+    Default = 0,		-- Land can touch any other Default node in the task that is within range
+    Blank = 1,			-- empty room with impassable ground
+    Background = 2,
+    Random = 3,
+    Blocker = 4,		-- Adds 2 Blank nodes beside it
+    Room = 5,			-- Land can only touch the room(s) it is connected to by the graph (adds impassable around its parameter with a single land bidge)
+    BackgroundRoom = 6,
+	SeparatedRoom = 7,	-- adds impassable around its entire parameter
+}
+
+-- See cell_data.h
+NODE_INTERNAL_CONNECTION_TYPE =
+{
+    EdgeCentroid = 0,
+    EdgeSite = 1,
+    EdgeEdgeDirect = 2,
+    EdgeEdgeLeft = 3,
+    EdgeEdgeRight = 4,
+    EdgeData = 5,
+}
+
+CA_SEED_MODE =
+{
+    SEED_RANDOM = 0,
+    SEED_CENTROID = 1,
+    SEED_SITE = 2,
+    SEED_WALLS = 3,
+}
+
+
+LAYOUT =
+{
+	STATIC = 0,
+	CIRCLE_EDGE = 1,
+	CIRCLE_RANDOM = 2,
+	GRID = 3,
+	RECTANGLE_EDGE = 4,
+	CIRCLE_FILLED = 5,
+}
+
+LAYOUT_POSITION =
+{
+	RANDOM = 0,
+	CENTER = 1,
+}
+
+LAYOUT_ROTATION =
+{
+	NORTH = 0, 	-- 0 Degrees
+	EAST = 1, 	-- 90 Degrees
+	SOUTH = 2, 	-- 180 Degrees
+	WEST = 3, 	-- 270 Degrees
+}
+
+PLACE_MASK =
+{
+	NORMAL = 0,
+	IGNORE_IMPASSABLE = 1,
+	IGNORE_BARREN = 2,
+	IGNORE_IMPASSABLE_BARREN = 3,
+	IGNORE_RESERVED = 4,
+	IGNORE_IMPASSABLE_RESERVED = 5,
+	IGNORE_BARREN_RESERVED = 6,
+	IGNORE_IMPASSABLE_BARREN_RESERVED = 7,
+}
