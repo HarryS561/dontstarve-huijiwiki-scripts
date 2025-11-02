@@ -3,7 +3,7 @@
 ### 前置需求
 * Windows 系统
 * Steam 上最新版本的《饥荒：联机版》和《饥荒》游戏
-* [Python](https://www.python.org/downloads/) 3.10 及以上版本
+* [Python](https://www.python.org/downloads/) 3.11 及以上版本
     * 依赖的第三方库在 `requirements.txt` 文件中列出
 * 在[饥荒维基](dontstarve.huijiwiki.com)上具有机器人+管理员权限
 
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ### 从 `config.example.json` 复制到 `config.json`
 ```bash
-cp config.example.json config.json
+copy config.example.json config.json
 ```
 
 ### 在 `config.json` 中填入：
