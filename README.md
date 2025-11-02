@@ -5,7 +5,7 @@
 * Steam 上最新版本的《饥荒：联机版》和《饥荒》游戏
 * [Python](https://www.python.org/downloads/) 3.11 及以上版本
     * 依赖的第三方库在 `requirements.txt` 文件中列出
-* 在[饥荒维基](dontstarve.huijiwiki.com)上具有机器人+管理员权限
+* 在[饥荒维基](https://dontstarve.huijiwiki.com)上具有机器人+管理员权限
 
 ### 克隆这个仓库
 在命令行中：
@@ -68,5 +68,5 @@ from main import *
 # 特别致谢
 * [Jerry457](https://github.com/Jerry457) 的命令行贴图工具
 * Arough 的单机版生物群系数据更新脚本
-* [Depot Downloader.exe](github.com/SteamRE/DepotDownloader)
-* Frto 的[以撒维基更新脚本](github.com/frto027/isaac-huiji-scripts)
+* [Depot Downloader.exe](https://github.com/SteamRE/DepotDownloader)
+* Frto 的[以撒维基更新脚本](https://github.com/frto027/isaac-huiji-scripts)
