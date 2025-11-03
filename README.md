@@ -9,24 +9,24 @@
 
 ### 克隆这个仓库
 在命令行中：
-```bash
+```bat
 git clone https://github.com/HarryS561/dontstarve-huijiwiki-scripts.git
 cd dontstarve-huijiwiki-scripts
 ```
 
 ### 创建虚拟环境（非必须）
-```bash
+```bat
 python -m venv .venv
 .venv\Scripts\activate
 ```
 
 ### 安装依赖
-```bash
+```bat
 pip install -r requirements.txt
 ```
 
 ### 从 `config.example.json` 复制到 `config.json`
-```bash
+```bat
 copy config.example.json config.json
 ```
 
