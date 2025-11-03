@@ -24,8 +24,8 @@ for page in tqdm(get_pages(category='联机版', template='实体信息框')):
                     "drop_param_original": original,
                     "drop_param_current": original
                 })
-with open("drops/drops.json", "w", encoding="utf-8") as f:
-    json.dump(results, f, ensure_ascii=False, indent=2)
+with open("Maintenance/drops.json", "w", encoding="utf-8") as f:
+    json.dump(results, f, ensure_ascii=False, indent=4)
 print(f"共收集到 {len(results)} 条掉落信息，已写入 drops.json")
 
 # with_zh = set()
