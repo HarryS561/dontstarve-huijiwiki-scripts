@@ -1,9 +1,8 @@
-from main import *
-import sys
-import os
+import sys, os
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+from main import *
 
-VER = "DST"
+VER = "DS"
 itemtable = "Data:ItemTable.tabx" if VER == "DST" else "Data:DSItemTable.tabx"
 
 if VER == "DST":
@@ -118,13 +117,13 @@ site.pages[f"Data:{VER} Strings Index.json"].save(
     summary=f"Extract data from patch {ver}" if VER == "DST" else ""
 )
 
-for b in sorted(buckets_cn):
+for b in tqdm(sorted(buckets_cn)):
     site.pages[f"Module:{VER} Strings CN {b}"].save(
         dump_lua_table(buckets_cn[b]),
         summary=f"Extract data from patch {ver}" if VER == "DST" else ""
     )
 
-for b in sorted(buckets_en):
+for b in tqdm(sorted(buckets_en)):
     site.pages[f"Module:{VER} Strings EN {b}"].save(
         dump_lua_table(buckets_en[b]),
         summary=f"Extract data from patch {ver}" if VER == "DST" else ""
