@@ -47,27 +47,44 @@ def lua_escape(s: str) -> str:
     return (s or "").replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n").replace("\r", "\\r")
 
 
-def bucket_of(key: str) -> str:
-    return md5(key.encode("utf-8")).hexdigest()[:2]
-
-
 def dump_lua_table(bucket_map: dict) -> str:
     lines = ["return {"]
     for key in sorted(bucket_map.keys()):
         v = bucket_map[key]
-        if isinstance(v, dict) and "cn" in v:  # 非 CHARACTERS：{cn=..., en=...}
-            lines.append(
-                f'  ["{lua_escape(key)}"] = {{ cn = "{lua_escape(v["cn"])}", en = "{lua_escape(v["en"])}" }},')
-        else:
+        if isinstance(v, dict):  # CHARACTERS
             lines.append(f'  ["{lua_escape(key)}"] = {{')
             for character in sorted(v.keys()):
                 rv = v[character]
-                lines.append(
-                    f'    ["{character}"] = {{ cn = "{lua_escape(rv["cn"])}", en = "{lua_escape(rv["en"])}" }},'
-                )
+                lines.append(f'    ["{character}"] = "{lua_escape(rv)}",')
             lines.append("  },")
+        else:  # 非 CHARACTERS
+            lines.append(f'  ["{lua_escape(key)}"] = "{lua_escape(v)}",')
     lines.append("}")
     return "\n".join(lines)
+
+
+def create_buckets(code_map):
+    keys = list(code_map.keys())
+    keys.sort()
+    total = len(keys)
+    bucket_size = (total + 99) // 100
+
+    bucket_map = {}
+    for i, key in enumerate(keys):
+        bucket_index = i // bucket_size
+        bucket_name = f"{bucket_index:02d}"  # 00 ~ 99
+        bucket_map[key] = bucket_name
+
+    buckets = {}
+    for key, val in code_map.items():
+        b = bucket_map[key]
+        m = buckets.get(b)
+        if m is None:
+            m = {}
+            buckets[b] = m
+        m[key] = val
+
+    return buckets
 
 
 id_to_img = read_itemtable()
@@ -76,7 +93,8 @@ new_itemtable = []
 # 去掉 STRINGS. 前缀；
 # CHARACTERS.* 去掉角色段并聚合为 character->{cn,en}；
 # 其它为 {cn,en}
-code_map = {}  # key(无STRINGS.) -> dict(character->{cn,en}) | {cn,en}
+code_map_cn = {}  # key(无STRINGS.) -> dict(character->cn) | cn
+code_map_en = {}  # key(无STRINGS.) -> dict(character->en) | en
 
 for entry in po:
     if not entry.msgctxt or entry.msgstr is None or entry.msgid is None:
@@ -101,29 +119,34 @@ for entry in po:
         if character == "generic":
             character = "wilson"
         norm_key = ".".join(["CHARACTERS"] + parts[3:])  # 去掉 STRINGS. 与 角色段
-        d = code_map.get(norm_key)
-        if not isinstance(d, dict) or ("cn" in d):
-            d = {}
-            code_map[norm_key] = d
-        d[character] = {"cn": cn, "en": en}
+        d_cn = code_map_cn.get(norm_key)
+        if not isinstance(d_cn, dict):
+            d_cn = {}
+            code_map_cn[norm_key] = d_cn
+        d_cn[character] = cn
+        d_en = code_map_en.get(norm_key)
+        if not isinstance(d_en, dict):
+            d_en = {}
+            code_map_en[norm_key] = d_en
+        d_en[character] = en
     else:
         norm_key = ".".join(parts[1:])  # 去掉 STRINGS.
-        if norm_key not in code_map:
-            code_map[norm_key] = {"cn": cn, "en": en}
+        code_map_cn[norm_key] = cn
+        code_map_en[norm_key] = en
 
-# 分桶并写入：Module:{VER} Strings <bucket>
-buckets = {}  # bucket -> dict(key -> value)
-for key, val in code_map.items():
-    b = bucket_of(key)
-    m = buckets.get(b)
-    if m is None:
-        m = {}
-        buckets[b] = m
-    m[key] = val
+# 分桶并写入：Module:{VER} Strings CN/EN <bucket>
+buckets_cn = create_buckets(code_map_cn)
+buckets_en = create_buckets(code_map_en)
 
-for b in tqdm(sorted(buckets.keys())):
-    module_name = f"Module:{VER} Strings {b.lower()}"
-    lua_src = dump_lua_table(buckets[b])
+for b in tqdm(sorted(buckets_cn.keys())):
+    module_name = f"Module:{VER} Strings CN {b.lower()}"
+    lua_src = dump_lua_table(buckets_cn[b])
+    site.pages[module_name].save(
+        lua_src, summary=f"Extract data from patch {ver}" if VER == "DST" else '')
+
+for b in tqdm(sorted(buckets_en.keys())):
+    module_name = f"Module:{VER} Strings EN {b.lower()}"
+    lua_src = dump_lua_table(buckets_en[b])
     site.pages[module_name].save(
         lua_src, summary=f"Extract data from patch {ver}" if VER == "DST" else '')
 
