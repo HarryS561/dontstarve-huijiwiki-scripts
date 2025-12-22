@@ -2,7 +2,7 @@ import sys, os
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from main import *
 
-VER = "DS"
+VER = "DST" # 改成 DS 如果是单机版
 itemtable = "Data:ItemTable.tabx" if VER == "DST" else "Data:DSItemTable.tabx"
 
 if VER == "DST":
@@ -140,7 +140,7 @@ pagedata = json.dumps({
             {"name": "name_en", "type": "string",
                 "title": {"en": "name_en", "zh": ""}},
             {"name": "item_img1" if VER == "DST" else "img", "type": "string",
-             "title": {"en": "img", "zh": ""}}
+             "title": {"en": "item_img1" if VER == "DST" else "img", "zh": ""}}
         ]
     },
     "data": new_itemtable,

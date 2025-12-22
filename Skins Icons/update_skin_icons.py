@@ -1,10 +1,12 @@
+# 先运行 Skins/update_skins.py，再运行此脚本
+
 import sys, os
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from main import *
 from convert import convert
 
 BUILDS_ZIP_PATH = dst_path / "data/databundles/anim_dynamic.zip"
-TEX_PATH = dst_path / "data/anim\dynamic"
+TEX_PATH = dst_path / "data/anim/dynamic"
 ANIM_PATH = dst_path / "data/anim/accountitem_frame.zip"
 
 skin_names = []
