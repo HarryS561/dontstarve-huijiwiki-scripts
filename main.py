@@ -12,14 +12,14 @@ from pypinyin import lazy_pinyin
 import re
 from hashlib import md5
 
-with open('config.json','r') as f:
+with open('config.json','r', encoding='utf-8') as f:
     config = json.load(f)
 
 site = Site('dontstarve.huijiwiki.com', custom_headers={
-            'X-authkey': config["huijiwiki"]["X-authkey"]})  # 编辑QQ群内有Authkey
+            'X-authkey': config["huijiwiki"]["X-authkey"]})
 site.login(
-    username = config["huijiwiki"]["username"],  # 引号内填灰机用户名
-    password = config["huijiwiki"]["password"],  # 引号内填灰机用户密码
+    username = config["huijiwiki"]["username"],
+    password = config["huijiwiki"]["password"],
 )
 
 dst_path = Path(config["dontstarve"]["dst_path"])
@@ -66,5 +66,8 @@ def repl():
         newtext = text
         for old, new in replacements.items():
             newtext = newtext.replace(old, new)
-        if newtext != text:  # 只保存有改动的
+        if newtext != text:
             page.save(newtext, summary='批量替换文本')
+
+if __name__ == '__main__':
+    print('不要直接运行这个文件，要更新哪些数据就去运行对应的脚本。')
