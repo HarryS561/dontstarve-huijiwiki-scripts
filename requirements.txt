@@ -6,3 +6,4 @@ Pillow
 polib
 pypinyin
 tqdm
+luaparser==3.3.0
