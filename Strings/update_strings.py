@@ -1,7 +1,6 @@
-from main import *
-import sys
-import os
+import sys, os
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+from main import *
 
 VER = "DST"  # 改成 DS 如果要更新单机版
 itemtable = "Data:ItemTable.tabx" if VER == "DST" else "Data:DSItemTable.tabx"

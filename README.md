@@ -5,7 +5,7 @@
 * Steam 上最新版本的《饥荒：联机版》和《饥荒》游戏
 * [Python](https://www.python.org/downloads/) 3.11 及以上版本
     * 依赖的第三方库在 `requirements.txt` 文件中列出
-* 在[饥荒维基](https://dontstarve.huijiwiki.com)上具有机器人+管理员权限
+* 在[饥荒维基](https://dontstarve.huijiwiki.com)上具有机器人权限
 
 ### 克隆这个仓库
 在命令行中：
@@ -37,27 +37,6 @@ copy config.example.json config.json
 
 # 开发
 
-## AI 辅助编辑工作流 🤖
-
-本项目支持使用 Claude AI 辅助编辑维基。相关工具和文档：
-
-- **[CLAUDE.md](CLAUDE.md)** - Claude AI 编辑维基的完整工作流指南
-- **[Agent/](Agent/)** - AI 辅助工具集
-  - `wiki_fetcher.py` - 从维基抓取页面源代码供 AI 参考
-  - `STYLE.md` - 系统化的维基编写规范
-  - `fetched_content.json` - 抓取的页面内容存储
-
-**快速开始：**
-```bash
-# 抓取高质量示例页面供 AI 参考
-python Agent/wiki_fetcher.py
-
-# 查看已抓取的页面
-python Agent/wiki_fetcher.py --list
-```
-
-详见 [CLAUDE.md](CLAUDE.md) 和 [Agent/README.md](Agent/README.md)。
-
 ## 代码复用
 
 出于复用代码考虑，每个脚本前将根目录加入 `sys.path`，然后导入 `main.py`
@@ -71,16 +50,16 @@ from main import *
 
 | 文件名                | 注释                                              |
 | --------------------- | ------------------------------------------------- |
-| `config.example.json` | 配置文件模板，运行前请复制到 `config.json` 并修改 |
+| `config.example.json` | 配置文件模板，运行前请复制到 `config.json` 并修改   |
 | `dst-mod-tool.exe`    | 一个动画、贴图工具                                |
 | `main.py`             | 通用操作封装                                      |
 | `requirements.txt`    | 脚本所依赖的 Python 第三方库                      |
-| `Agent/*`             | AI 辅助编辑工具（维基页面抓取、编写风格指南）    |
 | `DST Map/*`           | 联机版生物群系数据更新                            |
 | `Maintenance/*`       | 维基日常维护相关                                  |
-| `Prefab/*`            | 实体信息框/自动所需的实体数据更新                 |
+| `Prefab/*`            | 实体信息框/自动所需的实体数据更新                  |
 | `Prefab History/*`    | 实体加入版本数据更新                              |
 | `Recipes/*`           | 配方数据更新                                      |
+| `Skilltree/*`         | 技能树数据更新                                    |
 | `Skins/*`             | 皮肤数据更新                                      |
 | `Skins Icons/*`       | 皮肤图片更新                                      |
 | `Strings/*`           | 文本数据更新                                      |
@@ -89,7 +68,6 @@ from main import *
 * 掉落
 * 生物群系数据
 * 地块数据
-* tabx操作封装
 
 # 特别致谢
 * [Jerry457](https://github.com/Jerry457) 的命令行贴图工具
