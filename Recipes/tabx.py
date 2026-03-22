@@ -318,6 +318,7 @@ class DSTRecipes(Tabx):
     description = StringField(blank=True, null=True, zh="描述")
     nounlock = BooleanField(blank=True, zh="不可解锁")
     no_deconstruction = BooleanField(blank=True, zh="不可拆解")
+    unlocks_from_skin = BooleanField(blank=True, zh="皮肤锁定")
     station_tag = StringField(blank=True, null=True, zh="制作站标签")
     builder_tag = StringField(blank=True, null=True, zh="制作者标签")
     builder_skill = StringField(blank=True, null=True, zh="制作者技能")
