@@ -56,14 +56,19 @@ lua_math._data = {
 lua_table = LuaTable()
 
 
-def _table_insert(tbl, val, index=None):
+def _table_insert(tbl, pos_or_val, val=None):
     assert isinstance(tbl, LuaTable), "table.insert only call on a luatable"
-    idx = index or 1
+    if val is None:
+        val = pos_or_val
+        pos = None
+    else:
+        pos = pos_or_val
+    idx = pos if pos is not None else 1
     while True:
         if idx not in tbl._data:
             tbl._data[idx] = val
             return
-        idx = idx + 1
+        idx += 1
 
 
 def _table_unpack(tbl: LuaTable, i=None, j=None):
@@ -632,4 +637,5 @@ G = {
     "AllRecipes": LuaTable(),
     "SetLunarHailBuildupAmountSmall": lambda x: None,
     "MakeCollidesWithElectricField": lambda x: None,
+    "PRNG_Uniform": lambda seed: DummyTable(),
 }

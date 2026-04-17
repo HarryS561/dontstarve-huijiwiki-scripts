@@ -273,6 +273,8 @@ class Interpreter:
         return self.scope.lookup("...")
 
     def _execute_call(self, func_node, args):
+        if func_node is None:
+            return None
         self.scope_stack.append(self.scope)
         self.scope: Scope = func_node.scope
         with self.scope.create_child_scope(interp=self):
@@ -613,6 +615,8 @@ class PrefabInterpreter(Interpreter):
         "CreateCircleEmitter",
         "GetIdealUnsignedNetVarForCount",
         "IsRestrictedCharacter",
+        "JoinArrays",
+        "PRNG_Uniform",
         "MakeSmallBurnable",
         "MakeMediumBurnable",
         "MakePlacer",
@@ -625,6 +629,7 @@ class PrefabInterpreter(Interpreter):
         "MakeSmallObstaclePhysics",
         "MakeHeavyObstaclePhysics",
         "MakeGhostPhysics",
+        "MakeGlobalTrackingIcons",
         "MakeProjectilePhysics",
         "MakeTinyFlyingCharacterPhysics",
         "MakeFlyingCharacterPhysics",

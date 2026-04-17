@@ -44,6 +44,9 @@ def scan_prefabs_in_zip(zip_path, should_ignore=None, scope=None):
     if scope is None:
         scope = Scope()
     i.scope.variables.update(scope.variables)
+
+    failed = []
+
     with zipfile.ZipFile(zip_path) as zip_ref:
         prefabs = zipfile.Path(zip_ref, "scripts/prefabs/")
         for path in prefabs.iterdir():
@@ -59,6 +62,13 @@ def scan_prefabs_in_zip(zip_path, should_ignore=None, scope=None):
                         i.visit(tree)
             except Exception as e:
                 print(f"Failed to parse {path.name}: {e}")
+                failed.append((path.name, e))
+    
+    if failed:
+        print(f"\n--- Failed to parse ({len(failed)}) ---")
+        for name, err in failed:
+            print(f"  {name}: {err}")
+            
     return i
 
 
