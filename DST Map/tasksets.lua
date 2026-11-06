@@ -7,6 +7,7 @@ end
 STRINGS={UI={CUSTOMIZATIONSCREEN={TASKSETNAMES={CAVE_DEFAULT='地下', CLASSIC='经典', DEFAULT='联机版'}}}}
 
 --map/tasksets/forest.lua
+--NOTE (Omar): When adding new tasks, set a key for loot table in tree_rock_data
 AddTaskSet("default", {
 		name = STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.DEFAULT,
         location = "forest",
@@ -124,9 +125,9 @@ AddTaskSet("classic", {
 		},
 	})
 
-
 --map/tasksets/caves.lua
-AddTaskSet("cave_default", {
+local taskset_data =
+{
     name = STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.CAVE_DEFAULT,
     location = "cave",
     tasks={
@@ -155,7 +156,7 @@ AddTaskSet("cave_default", {
         "CaveExitTask8",
         "CaveExitTask9",
         "CaveExitTask10",
-		
+
         "CentipedeCaveTask",
 
 		"ToadStoolTask1",
@@ -209,6 +210,7 @@ AddTaskSet("cave_default", {
     required_prefabs = {
         "tentacle_pillar_atrium",
         "tentacle_pillar_atrium",
+        "batbosscave",
     },
     set_pieces = { -- if you add or remove tasks, don't forget to update this list!
         ["TentaclePillar"] = { count = 10, tasks= {
@@ -222,6 +224,8 @@ AddTaskSet("cave_default", {
         } },
         ["TentaclePillarToAtrium"] = { count = 1, tasks={ "BigBatCave", "GreenForest", "CentipedeCaveTask" } }, -- This set piece data connects it to the atrium_start set piece.
     },
-})
+}
+
+AddTaskSet("cave_default", taskset_data)
 
 return datas

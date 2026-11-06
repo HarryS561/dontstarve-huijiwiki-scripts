@@ -7,7 +7,7 @@
 	tasksets
 	tasks
 	rooms
-	layouts 仅固定布景（countstaticlayouts）
+	layouts 布景数据，含 countstaticlayouts、海洋预置布景及已登记的标签候选布局
 		格式为 static_layout.lua: ConvertStaticLayoutToLayout 的返回值，但包含所有开始资源
 	proxies
 	turfs 地皮物品（prefab为'turf_'+turf.name）
@@ -15,6 +15,10 @@
 	prefab_to_room
 	layout_to_room
 	prefab_to_layout
+	tag_layouts 标签触发的条件布景，目前包含 BatBossCave_Spawner
+		layouts 是候选布局，selection="one_random" 表示随机选择一种
+		disabled_when 保存禁用它的世界设置；tagdata 为 false 时跳过，处理时置为 false
+		这些布局只进入布局表及反向关系，不写入区块的固定布景数量
 某些函数类型的值被替换为字符串"#function"
 
 

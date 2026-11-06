@@ -81,6 +81,28 @@ DATA.rooms=roomdata[1]
 DATA.prefab_to_room=roomdata[2]
 DATA.layout_to_room=roomdata[3]
 
+-- map/maptags.lua 的条件布景；登记可能的布局，不伪造每个区块的固定数量。
+DATA.tag_layouts={
+    BatBossCave_Spawner={
+        layouts={"bat_boss_cave1", "bat_boss_cave2", "bat_boss_cave3"},
+        selection="one_random",
+        disabled_when={setting="batbosscave", value="never"},
+        skip_when_tagdata_false=true,
+        sets_tagdata_false=true,
+    },
+}
+for roomname,room in pairs(DATA.rooms) do
+    for _,tag in ipairs(room.tags or {}) do
+        local rule=DATA.tag_layouts[tag]
+        if rule then
+            for _,layout in ipairs(rule.layouts) do
+                LAYOUT_NEEDED[layout]=true
+                CreateInsert(DATA.layout_to_room, layout, roomname)
+            end
+        end
+    end
+end
+
 for name in pairs(TASK_NEEDED) do
     if not DATA.tasks[name] then
         print('缺少生物群系:'..name)
