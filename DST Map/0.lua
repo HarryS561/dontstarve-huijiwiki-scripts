@@ -81,27 +81,8 @@ DATA.rooms=roomdata[1]
 DATA.prefab_to_room=roomdata[2]
 DATA.layout_to_room=roomdata[3]
 
--- map/maptags.lua 的条件布景；登记可能的布局，不伪造每个区块的固定数量。
-DATA.tag_layouts={
-    BatBossCave_Spawner={
-        layouts={"bat_boss_cave1", "bat_boss_cave2", "bat_boss_cave3"},
-        selection="one_random",
-        disabled_when={setting="batbosscave", value="never"},
-        skip_when_tagdata_false=true,
-        sets_tagdata_false=true,
-    },
-}
-for roomname,room in pairs(DATA.rooms) do
-    for _,tag in ipairs(room.tags or {}) do
-        local rule=DATA.tag_layouts[tag]
-        if rule then
-            for _,layout in ipairs(rule.layouts) do
-                LAYOUT_NEEDED[layout]=true
-                CreateInsert(DATA.layout_to_room, layout, roomname)
-            end
-        end
-    end
-end
+local generation_paths = require 'generation_paths'
+generation_paths.Register(DATA, LAYOUT_NEEDED)
 
 for name in pairs(TASK_NEEDED) do
     if not DATA.tasks[name] then
@@ -116,8 +97,21 @@ end
 
 DATA.layouts={}
 DATA.prefab_to_layout={}
---非固定布景过于复杂，以后再说
+DATA.layout_area_prefabs={}
 local Layouts=require('map/layouts').Layouts
+generation_paths.AddMazeLayouts(DATA, Layouts, LAYOUT_NEEDED)
+
+local function IndexPrefab(prefab, name, defs)
+    prefab = (DATA.layout_prefab_proxies[name] or {})[prefab] or prefab
+    prefab = DATA.proxies[prefab] or defs[prefab] or prefab
+    if type(prefab)=='table' then
+        for _, p in ipairs(prefab) do
+            generation_paths.InsertUnique(DATA.prefab_to_layout, p, name)
+        end
+    else
+        generation_paths.InsertUnique(DATA.prefab_to_layout, prefab, name)
+    end
+end
 
 for name in pairs(LAYOUT_NEEDED) do
     local lo=Layouts[name]
@@ -125,23 +119,24 @@ for name in pairs(LAYOUT_NEEDED) do
     DATA.layouts[name]=lo
     local defs=lo.defs or {}
     for prefab in pairs(lo.layout or lo.count) do
-        prefab = DATA.proxies[prefab] or defs[prefab] or prefab
-        if type(prefab)=='table' then
-            for _, p in ipairs(prefab) do
-                CreateInsert(DATA.prefab_to_layout, p, name)
-            end
-        else
-            CreateInsert(DATA.prefab_to_layout, prefab, name)
+        if not (lo.areas and lo.areas[prefab]) then
+            IndexPrefab(prefab, name, defs)
         end
     end
+    local areas = generation_paths.AreaPrefabs(name, lo)
+    if next(areas) then DATA.layout_area_prefabs[name] = areas end
+    for _, rule in pairs(areas) do
+        for _, prefab in ipairs(rule.prefabs) do IndexPrefab(prefab, name, defs) end
+    end
 end
+generation_paths.FinishRelations(DATA)
 
 -- require 'json'
 -- io.open('output.json','w'):write(json.encode(DATA))
 
 local function serialize(tbl, indent)
     indent = indent or ""
-    local nextIndent = indent .. "    "
+    local nextIndent = indent .. "  "
     if type(tbl) ~= "table" then
         error("Expected a table, got " .. type(tbl))
     end
@@ -179,6 +174,7 @@ local function save_table_to_file(tbl, filename, varname)
     varname = varname or "data"
     file:write(varname .. " = ")
     file:write(serialize(tbl))
+    file:write("\nreturn " .. varname .. "\n")
     file:close()
 end
 

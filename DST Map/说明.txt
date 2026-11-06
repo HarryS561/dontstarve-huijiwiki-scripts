@@ -2,12 +2,12 @@
 
 生物群系数据提取脚本
 运行0.lua
-输出至output.lua
+输出至output.lua，末尾返回 DATA，可作为维基 Lua 数据模块。
 包含键：
 	tasksets
 	tasks
 	rooms
-	layouts 布景数据，含 countstaticlayouts、海洋预置布景及已登记的标签候选布局
+	layouts 布景数据，含区块、任务集、世界预设、海洋、标签、出生点和迷宫路径
 		格式为 static_layout.lua: ConvertStaticLayoutToLayout 的返回值，但包含所有开始资源
 	proxies
 	turfs 地皮物品（prefab为'turf_'+turf.name）
@@ -15,10 +15,20 @@
 	prefab_to_room
 	layout_to_room
 	prefab_to_layout
-	tag_layouts 标签触发的条件布景，目前包含 BatBossCave_Spawner
-		layouts 是候选布局，selection="one_random" 表示随机选择一种
-		disabled_when 保存禁用它的世界设置；tagdata 为 false 时跳过，处理时置为 false
-		这些布局只进入布局表及反向关系，不写入区块的固定布景数量
+	levels 当前 PC 森林/洞穴世界生成预设，保留必要/随机布景及选择数量
+	startlocations 常规森林/洞穴出生点布局及区块模板
+	layout_to_task、layout_to_taskset、layout_to_level 布局可能所属的任务、任务集和世界预设
+	tag_layouts 标签触发的条件布景，覆盖 map/maptags.lua 的 STATIC 路径
+		layouts 是候选布局；selection="one_random" 表示随机选择一种
+		disabled_when 保存禁用设置；skip_when_tagdata_false、sets_tagdata_false 保留一次性条件
+	tag_prefabs 标签触发的候选实体；Labyrinth 另记录 forest_map.lua 的迷宫死路宝箱规则
+	maze_layouts 按布局组和出口方向引用 layouts 中的迷宫布局，并保存 force_rotation
+		同一源文件的几何数据仅保存一次；具体选择仍见 tasks.maze_tiles
+	layout_area_prefabs 区域生成函数/列表可能返回的实体，count 以单个区域为单位
+		原 areas 函数保留为 #function，不执行随机函数取得某次样本
+	layout_prefab_proxies 布局标记到实际实体的映射（森林虫洞、洞穴巨型触手）
+	候选来源关系不表示每个世界必定出现，不写入区块固定布景数量。
+	区域占位名与 wormhole_MARKER 不作为实体加入反向索引。
 某些函数类型的值被替换为字符串"#function"
 
 
@@ -27,6 +37,8 @@ map/rooms 目录下的所有文件
 map/static_layouts 目录下的所有文件
 map/tasks 目录下的所有文件
 map/layouts.lua
+map/maze_layouts.lua
+map/levels/forest.lua、map/levels/caves.lua
 
 
 可能需要随游戏更新而更新的文件：
@@ -37,3 +49,5 @@ rooms.lua				用于导入room文件，大概率不用更新
 tasks.lua				用于导入task文件，大概率不用更新
 tasksets.lua			世界地形信息
 tiledefs.lua			地皮相关
+generation_paths.lua		标签、候选来源、迷宫及区域实体适配，须随对应游戏规则核对
+levels.lua			世界预设数据收集适配，不执行世界生成
